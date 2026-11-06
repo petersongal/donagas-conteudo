@@ -37,6 +37,20 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-06-feed-receita-arroz",
+  "tipo": "carrossel",
+  "abordagem": "Receita: arroz soltinho",
+  "legenda": "Arroz soltinho sem segredo 🍚 Salva essa dica para o almoço de hoje!\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-06-feed-receita-arroz/1.jpg",
+   "posts/2026-11-06-feed-receita-arroz/2.jpg",
+   "posts/2026-11-06-feed-receita-arroz/3.jpg",
+   "posts/2026-11-06-feed-receita-arroz/4.jpg"
+  ],
+  "agendado_para": "2026-11-06T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-06-feed-pague-na-entrega",
   "tipo": "carrossel",
   "abordagem": "Pague só na entrega",
@@ -47,18 +61,21 @@
    "posts/2026-11-06-feed-pague-na-entrega/3.jpg",
    "posts/2026-11-06-feed-pague-na-entrega/4.jpg"
   ],
-  "agendado_para": "2026-11-06T11:30:00-03:00",
+  "agendado_para": "2026-11-06T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-06-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Pix, cartão ou dinheiro: na entrega",
-  "legenda": "",
+  "id": "2026-11-06-feed-receita-feijao",
+  "tipo": "carrossel",
+  "abordagem": "Receita: feijão na pressão",
+  "legenda": "Feijão na panela de pressão rende e economiza gás 🫘 Veja o passo a passo.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-06-story-1830/1.jpg"
+   "posts/2026-11-06-feed-receita-feijao/1.jpg",
+   "posts/2026-11-06-feed-receita-feijao/2.jpg",
+   "posts/2026-11-06-feed-receita-feijao/3.jpg",
+   "posts/2026-11-06-feed-receita-feijao/4.jpg"
   ],
-  "agendado_para": "2026-11-06T18:30:00-03:00",
+  "agendado_para": "2026-11-06T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -73,6 +90,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-07-feed-receita-macarrao",
+  "tipo": "carrossel",
+  "abordagem": "Receita: macarrão de uma panela",
+  "legenda": "Macarrão em uma panela só: menos louça e menos gás 🍝\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-07-feed-receita-macarrao/1.jpg",
+   "posts/2026-11-07-feed-receita-macarrao/2.jpg",
+   "posts/2026-11-07-feed-receita-macarrao/3.jpg"
+  ],
+  "agendado_para": "2026-11-07T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-07-feed-compare-precos",
   "tipo": "carrossel",
   "abordagem": "Compare preços antes de pedir",
@@ -83,18 +113,20 @@
    "posts/2026-11-07-feed-compare-precos/3.jpg",
    "posts/2026-11-07-feed-compare-precos/4.jpg"
   ],
-  "agendado_para": "2026-11-07T11:30:00-03:00",
+  "agendado_para": "2026-11-07T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-07-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Entrega rápida na sua porta",
-  "legenda": "",
+  "id": "2026-11-07-feed-receita-ovos",
+  "tipo": "carrossel",
+  "abordagem": "Receita: ovos mexidos cremosos",
+  "legenda": "Ovos mexidos cremosos em poucos minutos 🍳\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-07-story-1830/1.jpg"
+   "posts/2026-11-07-feed-receita-ovos/1.jpg",
+   "posts/2026-11-07-feed-receita-ovos/2.jpg",
+   "posts/2026-11-07-feed-receita-ovos/3.jpg"
   ],
-  "agendado_para": "2026-11-07T18:30:00-03:00",
+  "agendado_para": "2026-11-07T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -109,6 +141,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-08-feed-faq-cadastro",
+  "tipo": "carrossel",
+  "abordagem": "FAQ: preciso criar conta?",
+  "legenda": "Preciso criar conta para pedir? Veja como funciona 👇\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-08-feed-faq-cadastro/1.jpg",
+   "posts/2026-11-08-feed-faq-cadastro/2.jpg",
+   "posts/2026-11-08-feed-faq-cadastro/3.jpg"
+  ],
+  "agendado_para": "2026-11-08T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-08-feed-troca-ou-completo",
   "tipo": "carrossel",
   "abordagem": "Troca ou botijão completo",
@@ -119,18 +164,20 @@
    "posts/2026-11-08-feed-troca-ou-completo/3.jpg",
    "posts/2026-11-08-feed-troca-ou-completo/4.jpg"
   ],
-  "agendado_para": "2026-11-08T11:30:00-03:00",
+  "agendado_para": "2026-11-08T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-08-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Sábado de cozinha cheia?",
-  "legenda": "",
+  "id": "2026-11-08-feed-faq-marca",
+  "tipo": "carrossel",
+  "abordagem": "FAQ: posso escolher a marca?",
+  "legenda": "Posso escolher a marca do meu gás? Pode sim 😉\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-08-story-1830/1.jpg"
+   "posts/2026-11-08-feed-faq-marca/1.jpg",
+   "posts/2026-11-08-feed-faq-marca/2.jpg",
+   "posts/2026-11-08-feed-faq-marca/3.jpg"
   ],
-  "agendado_para": "2026-11-08T18:30:00-03:00",
+  "agendado_para": "2026-11-08T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -145,6 +192,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-09-feed-faq-entrega-inclusa",
+  "tipo": "carrossel",
+  "abordagem": "FAQ: a entrega está inclusa?",
+  "legenda": "A entrega está inclusa no preço? No app, sim: o valor que você vê já considera a entrega 🛵\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-09-feed-faq-entrega-inclusa/1.jpg",
+   "posts/2026-11-09-feed-faq-entrega-inclusa/2.jpg",
+   "posts/2026-11-09-feed-faq-entrega-inclusa/3.jpg"
+  ],
+  "agendado_para": "2026-11-09T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-09-feed-economia",
   "tipo": "carrossel",
   "abordagem": "Dicas de economia de gás",
@@ -154,18 +214,21 @@
    "posts/2026-11-09-feed-economia/2.jpg",
    "posts/2026-11-09-feed-economia/3.jpg"
   ],
-  "agendado_para": "2026-11-09T11:30:00-03:00",
+  "agendado_para": "2026-11-09T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-09-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Dica: tampe a panela",
-  "legenda": "",
+  "id": "2026-11-09-feed-passo-baixar",
+  "tipo": "carrossel",
+  "abordagem": "Passo a passo: baixe o app",
+  "legenda": "Baixar o App Dona Gás é grátis e leva um minuto 📲\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-09-story-1830/1.jpg"
+   "posts/2026-11-09-feed-passo-baixar/1.jpg",
+   "posts/2026-11-09-feed-passo-baixar/2.jpg",
+   "posts/2026-11-09-feed-passo-baixar/3.jpg",
+   "posts/2026-11-09-feed-passo-baixar/4.jpg"
   ],
-  "agendado_para": "2026-11-09T18:30:00-03:00",
+  "agendado_para": "2026-11-09T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -180,6 +243,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-10-feed-passo-acompanhar",
+  "tipo": "carrossel",
+  "abordagem": "Passo a passo: acompanhe o pedido",
+  "legenda": "Depois de pedir, acompanhe tudo pelo app 📦\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-10-feed-passo-acompanhar/1.jpg",
+   "posts/2026-11-10-feed-passo-acompanhar/2.jpg",
+   "posts/2026-11-10-feed-passo-acompanhar/3.jpg"
+  ],
+  "agendado_para": "2026-11-10T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-10-feed-quanto-dura",
   "tipo": "carrossel",
   "abordagem": "Quanto dura um botijão P13",
@@ -190,18 +266,20 @@
    "posts/2026-11-10-feed-quanto-dura/3.jpg",
    "posts/2026-11-10-feed-quanto-dura/4.jpg"
   ],
-  "agendado_para": "2026-11-10T11:30:00-03:00",
+  "agendado_para": "2026-11-10T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-10-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Anote a data da troca",
-  "legenda": "",
+  "id": "2026-11-10-feed-passo-enderecos",
+  "tipo": "carrossel",
+  "abordagem": "Passo a passo: salve seus endereços",
+  "legenda": "Salve seus endereços e peça ainda mais rápido 🏠\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-10-story-1830/1.jpg"
+   "posts/2026-11-10-feed-passo-enderecos/1.jpg",
+   "posts/2026-11-10-feed-passo-enderecos/2.jpg",
+   "posts/2026-11-10-feed-passo-enderecos/3.jpg"
   ],
-  "agendado_para": "2026-11-10T18:30:00-03:00",
+  "agendado_para": "2026-11-10T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -216,6 +294,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-11-feed-antes-de-acabar",
+  "tipo": "carrossel",
+  "abordagem": "Confira o gás antes de receber visita",
+  "legenda": "Vai receber visita ou viajar? Confira o gás antes 👀\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-11-feed-antes-de-acabar/1.jpg",
+   "posts/2026-11-11-feed-antes-de-acabar/2.jpg",
+   "posts/2026-11-11-feed-antes-de-acabar/3.jpg"
+  ],
+  "agendado_para": "2026-11-11T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-11-feed-seguranca",
   "tipo": "carrossel",
   "abordagem": "Segurança com o botijão",
@@ -225,18 +316,20 @@
    "posts/2026-11-11-feed-seguranca/2.jpg",
    "posts/2026-11-11-feed-seguranca/3.jpg"
   ],
-  "agendado_para": "2026-11-11T11:30:00-03:00",
+  "agendado_para": "2026-11-11T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-11-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Entrega já inclusa no preço",
-  "legenda": "",
+  "id": "2026-11-11-feed-almoco-familia",
+  "tipo": "carrossel",
+  "abordagem": "Almoço em família com gás garantido",
+  "legenda": "Almoço em família pede cozinha tranquila 💗 Deixe o gás garantido.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-11-story-1830/1.jpg"
+   "posts/2026-11-11-feed-almoco-familia/1.jpg",
+   "posts/2026-11-11-feed-almoco-familia/2.jpg",
+   "posts/2026-11-11-feed-almoco-familia/3.jpg"
   ],
-  "agendado_para": "2026-11-11T18:30:00-03:00",
+  "agendado_para": "2026-11-11T19:30:00-03:00",
   "aprovado": true
  },
  {
@@ -251,6 +344,19 @@
   "aprovado": true
  },
  {
+  "id": "2026-11-12-feed-cozinha-segura",
+  "tipo": "carrossel",
+  "abordagem": "Cozinha segura",
+  "legenda": "Pequenos cuidados deixam a cozinha mais segura 🛡️ Em emergência, ligue 193.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "imagens": [
+   "posts/2026-11-12-feed-cozinha-segura/1.jpg",
+   "posts/2026-11-12-feed-cozinha-segura/2.jpg",
+   "posts/2026-11-12-feed-cozinha-segura/3.jpg"
+  ],
+  "agendado_para": "2026-11-12T09:30:00-03:00",
+  "aprovado": true
+ },
+ {
   "id": "2026-11-12-feed-repita-pedido",
   "tipo": "carrossel",
   "abordagem": "Repita o último pedido",
@@ -260,18 +366,20 @@
    "posts/2026-11-12-feed-repita-pedido/2.jpg",
    "posts/2026-11-12-feed-repita-pedido/3.jpg"
   ],
-  "agendado_para": "2026-11-12T11:30:00-03:00",
+  "agendado_para": "2026-11-12T13:00:00-03:00",
   "aprovado": true
  },
  {
-  "id": "2026-11-12-story-1830",
-  "tipo": "story",
-  "abordagem": "story: Gás de cozinha na sua porta",
-  "legenda": "",
+  "id": "2026-11-12-feed-economize-comparando",
+  "tipo": "carrossel",
+  "abordagem": "Economize comparando",
+  "legenda": "Antes de pedir, compare: o melhor preço pode estar em outra marca 🔍\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
   "imagens": [
-   "posts/2026-11-12-story-1830/1.jpg"
+   "posts/2026-11-12-feed-economize-comparando/1.jpg",
+   "posts/2026-11-12-feed-economize-comparando/2.jpg",
+   "posts/2026-11-12-feed-economize-comparando/3.jpg"
   ],
-  "agendado_para": "2026-11-12T18:30:00-03:00",
+  "agendado_para": "2026-11-12T19:30:00-03:00",
   "aprovado": true
  }
 ]
