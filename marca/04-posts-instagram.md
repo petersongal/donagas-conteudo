@@ -1,6 +1,6 @@
 # Posts do Instagram (@appdonagas)
 
-Três publicações por dia, todos os dias: 1 carrossel no feed e 2 stories. Publicação automática pelo repositório de conteúdo. Cada arte segue estes modelos.
+Quatro publicações por dia: 3 carrosséis no feed (9h30, 13h00 e 19h30) e 1 story (8h30). Publicação automática pelo repositório de conteúdo. Cada arte segue estes modelos.
 
 ## Carrossel (1080 x 1350)
 
@@ -26,7 +26,7 @@ Fundo marinho ou rosa-marca com textura. Título grande no terço superior (abai
 
 ## Rodízio de temas do carrossel
 
-Oito temas em rodízio, um por dia: Peça em 3 toques, Pague só na entrega, Compare preços, Troca ou botijão completo, Dicas de economia, Quanto dura o botijão, Segurança em casa, Repita o último pedido. Horários: feed 11h30; stories 8h30 e 18h30 (horário de Brasília).
+Temas em rodízio, três carrosséis por dia (incluindo receitas rápidas, perguntas frequentes e passo a passo do app): Peça em 3 toques, Pague só na entrega, Compare preços, Troca ou botijão completo, Dicas de economia, Quanto dura o botijão, Segurança em casa, Repita o último pedido. Horários (Brasília): carrosséis 9h30, 13h00 e 19h30; story 8h30.
 
 ## O que medir
 
