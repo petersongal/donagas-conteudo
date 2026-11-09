@@ -94,7 +94,7 @@ def capa(titulo, sub, mascote, selo="", pagina="1/4"):
     {marca(70, 64)}
     <div class="setas" style="right:70px;top:78px;color:#FFB3D9">{pagina} ➜</div>
     {f'<div class="pill rosa" style="position:absolute;left:70px;top:190px;font-size:30px">{esc(selo)}</div>' if selo else ''}
-    <h1 style="position:absolute;left:70px;top:{280 if selo else 210}px;width:640px;font-size:{96 if len(titulo) < 34 else 84}px">{esc(titulo)}</h1>
+    <h1 style="position:absolute;left:70px;top:{280 if selo else 210}px;width:500px;font-size:{84 if len(titulo) < 26 else 72}px;line-height:1.05">{esc(titulo)}</h1>
     <p style="position:absolute;left:70px;top:{760 if selo else 700}px;width:450px;font-size:38px;font-weight:700;line-height:1.25;color:#E9E6FF">{esc(sub)}</p>
     <div class="palco" style="width:600px;height:600px;right:-70px;bottom:120px"></div>
     <img class="mascote" src="{m}" style="height:900px;right:-30px;bottom:110px">
@@ -125,6 +125,8 @@ def lista(titulo, itens, pagina="2/4", mascote=None):
         f'<div class="card" style="display:flex;gap:28px;align-items:center;padding:30px 36px;margin-bottom:24px"><div class="num" style="width:76px;height:76px;font-size:42px;border-radius:22px">{i+1}</div><div style="font-size:36px;font-weight:800;line-height:1.2;color:#171276">{esc(t)}</div></div>'
         for i, t in enumerate(itens)
     )
+    if not mascote and len(itens) <= 3:
+        mascote = "mascote-celular.png"
     m = f'<img class="mascote" src="{b64(A / mascote)}" style="height:520px;right:-40px;bottom:90px">' if mascote else ""
     width = 700 if mascote else 940
     body = f"""
@@ -161,8 +163,8 @@ def cta(mascote="mascote-celular.png", palavra="APP", pagina="4/4"):
     {chama_bg(700, 860, 520, 16)}
     {marca(70, 64, marinho=True)}
     <div class="setas" style="right:70px;top:78px;color:#171276">{pagina}</div>
-    <h1 style="position:absolute;left:70px;top:200px;width:620px;font-size:90px">Comente <span style="background:#171276;color:#fff;border-radius:24px;padding:0 22px">{palavra}</span><br>e receba o link no direct</h1>
-    <p style="position:absolute;left:70px;top:660px;width:430px;font-size:36px;font-weight:800;line-height:1.28">Baixe grátis, informe o CEP e pague só na entrega: Pix, cartão ou dinheiro.</p>
+    <h1 style="position:absolute;left:70px;top:190px;width:470px;font-size:80px;line-height:1.1">Comente <span style="background:#171276;color:#fff;border-radius:24px;padding:0 22px">{palavra}</span><br>e receba o link no direct</h1>
+    <p style="position:absolute;left:70px;top:700px;width:420px;font-size:34px;font-weight:800;line-height:1.28">Baixe grátis, informe o CEP e pague só na entrega: Pix, cartão ou dinheiro.</p>
     <div class="palco" style="width:560px;height:560px;right:-60px;bottom:130px"></div>
     <img class="mascote" src="{m}" style="height:860px;right:-10px;bottom:110px">
     <div class="rodape" style="bottom:46px;color:#fff"><span>📲 App Store e Google Play</span><span>app.donagas.com.br</span></div>
@@ -174,19 +176,27 @@ def cta(mascote="mascote-celular.png", palavra="APP", pagina="4/4"):
 # Story 1080x1920 (área segura: topo 250, base 340)
 # ---------------------------------------------------------------------------
 def story(titulo, texto, mascote, fundo="marinho", palavra="APP"):
+    from PIL import Image
+    if mascote == "mascote-senhora.png":      # cena recortada: não serve para story
+        mascote = "mascote-joia.png"
+    im = Image.open(A / mascote)
+    alt = 700
+    larg = int(alt * im.width / im.height)
     m = b64(A / mascote)
     cls = "marinho tx-listras" if fundo == "marinho" else "rosa tx-listras"
     palco = "palco" if fundo == "marinho" else "palco rosa-p"
     em_cor = "#FF47A3" if fundo == "marinho" else "#171276"
+    esq = 1080 - 60 - larg                      # borda esquerda do mascote
+    pw = max(380, min(500, esq - 80 - 30))      # texto nunca encosta no mascote
     body = f"""
     <div class="brilho" style="width:800px;height:800px;background:{'#FF47A3' if fundo=='marinho' else '#fff'};opacity:.3;right:-250px;top:700px"></div>
     {chama_bg(-160, 1240, 560, -16)}{chama_bg(780, 220, 360, 12)}
     {marca(80, 270, marinho=(fundo != 'marinho'))}
-    <h1 style="position:absolute;left:80px;top:400px;width:920px;font-size:{100 if len(titulo) < 40 else 86}px">{esc(titulo).replace('<em>', f'<em style="color:{em_cor}">')}</h1>
-    <p style="position:absolute;left:80px;top:{720 if len(titulo) < 40 else 800}px;width:500px;font-size:42px;font-weight:800;line-height:1.3;opacity:.95">{esc(texto)}</p>
-    <div class="{palco}" style="width:640px;height:640px;right:-80px;bottom:420px"></div>
-    <img class="mascote" src="{m}" style="height:820px;right:-40px;bottom:440px">
-    <div style="position:absolute;left:80px;right:80px;bottom:360px;background:#fff;color:#171276;border-radius:40px;padding:30px 40px;font-weight:900;font-size:44px;text-align:center;box-shadow:0 20px 40px rgba(0,0,0,.25)">
+    <h1 style="position:absolute;left:80px;top:390px;width:920px;font-size:{104 if len(titulo) < 40 else 90}px;line-height:1.02">{esc(titulo).replace('<em>', f'<em style="color:{em_cor}">')}</h1>
+    <p style="position:absolute;left:80px;top:{760 if len(titulo) < 40 else 800}px;width:{pw}px;font-size:46px;font-weight:800;line-height:1.28">{esc(texto)}</p>
+    <div class="{palco}" style="width:620px;height:620px;right:-70px;bottom:520px"></div>
+    <img class="mascote" src="{m}" style="height:{alt}px;right:60px;bottom:500px">
+    <div style="position:absolute;left:80px;right:80px;bottom:340px;background:#fff;color:#171276;border-radius:40px;padding:30px 40px;font-weight:900;font-size:44px;text-align:center;box-shadow:0 20px 40px rgba(0,0,0,.25)">
       Responda <span style="background:#FF47A3;color:#fff;border-radius:18px;padding:0 16px">{palavra}</span> a este story 💬<br><span style="font-size:32px;font-weight:800;color:#3a3580">e receba o link do app no direct</span>
     </div>
     """
