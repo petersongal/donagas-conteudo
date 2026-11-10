@@ -1,0 +1,30 @@
+{
+ "roteiro": "Três hábitos que fazem o seu gás durar mais. Um: panela sempre com tampa. Dois: a chama não pode passar do fundo. Três: desligue alguns minutos antes, o calor termina o preparo. Salva esse vídeo!",
+ "transcricao": " Três hábitos que fazem o seu gás durar mais. 1. Panela sempre com tampa. 2. A chama não pode passar do fundo. 3. Desligue alguns minutos antes. O calor termina o preparo. Salve esse vídeo!",
+ "similaridade": 0.886,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Três hábitos que",
+  "fazem o seu",
+  "gás durar mais.",
+  "Um:",
+  "panela sempre com",
+  "tampa.",
+  "Dois:",
+  "a chama não",
+  "pode passar do",
+  "fundo.",
+  "Três:",
+  "desligue alguns minutos",
+  "antes,",
+  "o calor termina",
+  "o preparo.",
+  "Salva esse vídeo!"
+ ],
+ "duracao_s": 18.7
+}
