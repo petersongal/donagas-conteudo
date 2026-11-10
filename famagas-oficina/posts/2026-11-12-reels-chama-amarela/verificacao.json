@@ -1,0 +1,30 @@
+{
+ "roteiro": "Olha a chama do seu fogão agora. Está amarela? Então você está perdendo gás. Chama boa é azul. Amarela é sinal de boca suja. Com o fogão desligado e frio, limpe os furinhos com uma escova seca. Salva essa dica!",
+ "transcricao": " Olha a chama do seu fogão agora. Está amarela? Então você está perdendo gás. Chama boa é azul. Amarela é sinal de boca suja. Com o fogão desligado e frio, limpe os furinhos com uma escova seca. Salva essa dica!",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Olha a chama",
+  "do seu fogão",
+  "agora.",
+  "Está amarela?",
+  "Então você está",
+  "perdendo gás.",
+  "Chama boa é",
+  "azul.",
+  "Amarela é sinal",
+  "de boca suja.",
+  "Com o fogão",
+  "desligado e frio,",
+  "limpe os furinhos",
+  "com uma escova",
+  "seca.",
+  "Salva essa dica!"
+ ],
+ "duracao_s": 17.4
+}
