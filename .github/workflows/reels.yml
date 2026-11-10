@@ -23,6 +23,8 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main          # sempre a versão mais recente (não a do commit que disparou), evita refazer vídeo já salvo
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -50,4 +52,6 @@ jobs:
           git add agenda.json posts/*/reel.mp4 posts/*/capa.jpg posts/*/verificacao.json reels/amostras 2>/dev/null || true
           if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
           git commit -m "Reels produzidos pela fábrica"
-          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && break; sleep 5; done
+          ok=0
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && ok=1 && break; sleep 8; done
+          if [ "$ok" != "1" ]; then echo "::error::Não consegui salvar os vídeos no repositório"; exit 1; fi
