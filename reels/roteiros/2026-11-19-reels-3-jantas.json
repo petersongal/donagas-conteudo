@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-19-reels-3-jantas",
+ "quando": "2026-11-19T19:00:00-03:00",
+ "pilar": "D",
+ "objetivo": "salvar",
+ "cta": "Salva as 3 jantas",
+ "abordagem": "Reels: 3 jantas baratas numa panela só",
+ "lote": "reels-semana3",
+ "legenda": "3 jantas baratas, cada uma numa panela só 🍲\n\nMenos louça, menos gás e comida gostosa.\n\n🔖 Salva e conta qual você faz primeiro.\n\n#receitabarata #jantarrapido #receitafacil #cozinhapratica",
+ "gancho": "3 jantas baratas [numa panela só]",
+ "voz": "Três jantas baratas, cada uma numa panela só. Macarrão com sardinha e tomate. Sopa de feijão com macarrão. E arroz com ovo e legumes. Menos louça, menos gás. Qual você faz primeiro?",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon chef presents his pot proudly with a big open-mouth smile, then raises his eyebrows playfully"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Sardinha · [Sopa de feijão] · Arroz com ovo",
+   "sub": "Menos louça, menos gás.",
+   "fundo": "claro",
+   "emoji": "🍲",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man thinks with a hand on chin, then points up with an open-mouth 'got it!' expression"
+  }
+ ],
+ "final": {
+  "titulo": "Qual você faz [primeiro]? 👇",
+  "sub": "Salva as 3 jantas da semana",
+  "mascote": "mascote-chef.png"
+ }
+}

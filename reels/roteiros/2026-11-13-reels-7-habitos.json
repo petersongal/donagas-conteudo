@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-13-reels-7-habitos",
+ "quando": "2026-11-13T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "salvar",
+ "cta": "Salva o vídeo",
+ "abordagem": "Reels: 3 hábitos que fazem o gás render",
+ "lote": "reels-semana3",
+ "legenda": "3 hábitos que fazem o botijão durar mais 🔥\n\nO terceiro quase ninguém faz.\n\n🔖 Salva pra lembrar na hora de cozinhar.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+ "gancho": "Seu gás pode [durar mais]",
+ "voz": "Três hábitos que fazem o seu gás durar mais. Um: tampe a panela. Dois: a chama não pode passar do fundo. Três: desligue alguns minutos antes, o calor termina o preparo. Salva esse vídeo!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon chef raises an eyebrow with a curious smirk, then a big open-mouth smile, holding the pot, slow camera push-in"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "1. [Tampe] a panela\n2. Chama [no fundo]\n3. Desligue [antes]",
+   "sub": "O calor termina o preparo.",
+   "fundo": "claro",
+   "emoji": "🔥",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man gives a proud closed-mouth smile and a thumbs up, small nod, gentle camera movement"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] esse vídeo 🔖",
+  "sub": "e manda pra quem cozinha na sua casa",
+  "mascote": "mascote-chef.png"
+ }
+}

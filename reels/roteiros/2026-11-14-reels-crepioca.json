@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-14-reels-crepioca",
+ "quando": "2026-11-14T19:00:00-03:00",
+ "pilar": "D",
+ "objetivo": "salvar",
+ "cta": "Salva a receita",
+ "abordagem": "Reels: crepioca em 5 minutos",
+ "lote": "reels-semana3",
+ "legenda": "Lanche quentinho em 5 minutos, numa frigideira só 🍳\n\nOvo, tapioca e o recheio que tiver em casa.\n\n🔖 Salva e conta qual recheio você usaria.\n\n#receitafacil #receitabarata #lanche #cozinhapratica",
+ "gancho": "Lanche pronto em [5 minutos]",
+ "voz": "Lanche pronto em cinco minutos. Bata um ovo com duas colheres de tapioca e uma pitada de sal. Frigideira untada, fogo baixo e tampada. Vira, recheia e pronto. Qual recheio você usaria?",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon chef looks hungry with a delighted open-mouth 'wow' face, then a big smile, gentle camera push-in"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "1 ovo + 2 colheres de [tapioca]",
+   "sub": "Fogo baixo e frigideira tampada: gasta menos gás.",
+   "fundo": "claro",
+   "emoji": "🍳",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man nods happily with a closed-mouth smile and gives a thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "Qual [recheio] você usaria? 👇",
+  "sub": "Comenta e salva a receita",
+  "mascote": "mascote-chef.png"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-16-reels-arroz-sobras",
+ "quando": "2026-11-16T19:00:00-03:00",
+ "pilar": "D",
+ "objetivo": "salvar",
+ "cta": "Salva a receita",
+ "abordagem": "Reels: arroz de sobras vira janta",
+ "lote": "reels-semana3",
+ "legenda": "Sobrou arroz? Vira janta em 15 minutos 🍚\n\nNada se perde e quase não gasta gás.\n\n🔖 Salva e manda pra quem odeia desperdício.\n\n#receitafacil #semdesperdicio #jantarrapido #cozinhapratica",
+ "gancho": "Sobrou arroz? [Vira janta]",
+ "voz": "Sobrou arroz? Vira janta em quinze minutos. Refogue alho e cebola, junte os legumes e o que sobrou na geladeira, coloque o arroz e quebre dois ovos. Mexe até firmar e pronto. Comida já cozida gasta pouco gás.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man looks at something with a curious face, then his eyes light up with an open-mouth excited smile"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Arroz + legumes + [ovo]",
+   "sub": "Mexe até firmar. Pronto em 15 minutos.",
+   "fundo": "claro",
+   "emoji": "🍚",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon chef smiles proudly with closed mouth and gives a small satisfied nod, holding the pot"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] e não joga comida fora",
+  "sub": "Manda pra quem odeia desperdício",
+  "mascote": "mascote-chef.png"
+ }
+}

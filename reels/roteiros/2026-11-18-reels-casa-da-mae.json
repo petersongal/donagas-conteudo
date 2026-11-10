@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-18-reels-casa-da-mae",
+ "quando": "2026-11-18T19:00:00-03:00",
+ "pilar": "F",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra sua mãe",
+ "abordagem": "Reels: gás na casa da mãe sem sair de casa",
+ "lote": "reels-semana3",
+ "legenda": "Dá pra mandar gás pra casa da sua mãe sem sair de casa 💗\n\nNo app você coloca o CEP de lá e o pagamento é na entrega.\n\n👉 Manda esse vídeo pra sua mãe.\n💬 Comente APP que eu te mando o link.\n\n#appdonagas #gasdecozinha #entregadegas #mae",
+ "gancho": "Gás na casa da mãe [sem sair de casa]",
+ "voz": "Sabia que dá pra mandar gás pra casa da sua mãe sem sair de casa? No app, você coloca o CEP de lá, escolhe a oferta, e o pagamento é feito na entrega. Manda esse vídeo pra sua mãe!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-celular.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man looks at his phone, then looks at the camera with a warm big open-mouth smile and a wink"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Coloque o [CEP de lá]",
+   "sub": "Pix, cartão ou dinheiro na entrega.",
+   "fundo": "claro",
+   "emoji": "💗",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man gives a heartfelt closed-mouth smile and a thumbs up, small nod"
+  }
+ ],
+ "final": {
+  "titulo": "Manda isso pra [sua mãe] 💗",
+  "sub": "Comente APP e receba o link",
+  "mascote": "mascote-celular.png"
+ }
+}

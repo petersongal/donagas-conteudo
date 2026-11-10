@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-12-reels-visita-chegando",
+ "quando": "2026-11-12T19:00:00-03:00",
+ "pilar": "F",
+ "objetivo": "clique",
+ "cta": "Comente APP",
+ "abordagem": "Reels: acabou o gás com visita chegando",
+ "lote": "reels-semana3",
+ "legenda": "Acabou o gás e a visita já está chegando? 😱\n\nCalma: dá pra resolver pelo celular e pagar só na entrega.\n\n💬 Comente APP que eu te mando o link no direct.\n\n#gasdecozinha #appdonagas #entregadegas #botijao",
+ "gancho": "Acabou o gás e a [visita está chegando?]",
+ "voz": "Acabou o gás e a visita já está chegando? Calma! Abre o app, coloca o seu CEP, compara marca, preço e prazo, e paga só na entrega. Comenta APP que eu te mando o link.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-correndo.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man looks alarmed with wide eyes and an open-mouth 'oh no!' face, then puts a hand on his head, slight camera shake"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Compare [marca, preço e prazo]",
+   "sub": "Pague só na entrega: Pix, cartão ou dinheiro.",
+   "fundo": "claro",
+   "emoji": "📲",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-celular.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man looks at his phone, then shows a big relieved open-mouth smile and a small nod, gentle camera push-in"
+  }
+ ],
+ "final": {
+  "titulo": "Comente [APP] 👇",
+  "sub": "e receba o link no direct",
+  "mascote": "mascote-celular.png"
+ }
+}

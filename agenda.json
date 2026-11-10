@@ -422,12 +422,13 @@
    "posts/2026-11-12-feed-visita-chegando-sem-gas/6.jpg"
   ],
   "agendado_para": "2026-11-12T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "F",
   "layout": "mascote",
   "objetivo": "clique",
   "cta": "Comente APP",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-13-story-0830-v2",
@@ -480,12 +481,13 @@
    "posts/2026-11-13-feed-7-habitos-gas-render/5.jpg"
   ],
   "agendado_para": "2026-11-13T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "B",
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva o post",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-14-story-0830-v2",
@@ -537,12 +539,13 @@
    "posts/2026-11-14-feed-crepioca-5-minutos/5.jpg"
   ],
   "agendado_para": "2026-11-14T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "D",
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva a receita",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-15-story-0830-v2",
@@ -594,12 +597,13 @@
    "posts/2026-11-15-feed-pressao-x-panela-comum/6.jpg"
   ],
   "agendado_para": "2026-11-15T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "B",
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva o post",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-16-story-0830-v2",
@@ -650,12 +654,13 @@
    "posts/2026-11-16-feed-arroz-com-sobras/5.jpg"
   ],
   "agendado_para": "2026-11-16T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "D",
   "layout": "manchete",
   "objetivo": "salvar",
   "cta": "Salva a receita",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-17-story-0830-v2",
@@ -708,12 +713,13 @@
    "posts/2026-11-17-feed-so-quem-ficou-sem-gas/6.jpg"
   ],
   "agendado_para": "2026-11-17T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "A",
   "layout": "manchete",
   "objetivo": "compartilhar",
   "cta": "Manda pra quem sempre deixa acabar",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-18-story-0830-v2",
@@ -764,12 +770,13 @@
    "posts/2026-11-18-feed-gas-casa-da-mae/5.jpg"
   ],
   "agendado_para": "2026-11-18T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "F",
   "layout": "mascote",
   "objetivo": "compartilhar",
   "cta": "Manda pra sua mãe",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  },
  {
   "id": "2026-11-19-story-0830-v2",
@@ -820,11 +827,12 @@
    "posts/2026-11-19-feed-3-jantas-baratas/5.jpg"
   ],
   "agendado_para": "2026-11-19T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "D",
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva as 3 jantas",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema às 19h — reserva"
  }
 ]

@@ -82,24 +82,36 @@ def cartao_texto(titulo, sub="", fundo="claro", emoji=""):
     cls = "marinho tx-listras" if escuro else ("rosa tx-listras" if fundo == "rosa" else "claro tx-pontos")
     cor = "#fff" if fundo in ("marinho", "rosa") else "#171276"
     n = len(re.sub(r"[\[\]]", "", titulo))
+    linhas = titulo.count("\n") + 1
     fs = 130 if n <= 22 else 110 if n <= 40 else 92
+    if linhas >= 3 or n > 55:
+        fs = min(fs, 86)
+    # título e complemento num bloco só (o complemento sempre logo abaixo do título, sem sobrepor)
     body = f"""
     {chama_bg(640, 1280, 560, 14)}
-    {f'<div style="position:absolute;left:90px;top:430px;font-size:190px">{emoji}</div>' if emoji else ''}
-    <h1 style="position:absolute;left:90px;top:{700 if emoji else 560}px;width:900px;font-size:{fs}px;color:{cor};line-height:1.0">{esc(titulo)}</h1>
-    {f'<p style="position:absolute;left:90px;top:1060px;width:860px;font-size:58px;font-weight:800;line-height:1.22;color:{cor};opacity:.92">{esc(sub)}</p>' if sub else ''}
+    <div style="position:absolute;left:90px;top:{420 if emoji else 520}px;width:900px;display:flex;flex-direction:column;gap:40px">
+      {f'<div style="font-size:170px;line-height:1">{emoji}</div>' if emoji else ''}
+      <h1 style="font-size:{fs}px;color:{cor};line-height:1.02">{esc(titulo)}</h1>
+      {f'<p style="font-size:54px;font-weight:800;line-height:1.22;color:{cor};opacity:.92">{esc(sub)}</p>' if sub else ''}
+    </div>
     """
     return doc(W, H, body, cls)
 
 
 def cartao_final(titulo, sub, mascote="mascote-celular.png"):
+    from PIL import Image
+    im = Image.open(A / mascote)
+    esq = W - 20 - int(900 * im.width / im.height)      # borda esquerda do mascote
+    tw = max(520, min(900, esq - 90 - 30))               # texto nunca invade o mascote abaixo da linha 690
     m = b64(A / mascote)
     body = f"""
     <div class="brilho" style="width:800px;height:800px;background:#fff;opacity:.3;left:-200px;top:-100px"></div>
     {chama_bg(700, 1300, 500, 16)}
     {marca(90, 300, marinho=True)}
-    <h1 style="position:absolute;left:90px;top:440px;width:900px;font-size:104px;line-height:1.04">{esc(titulo).replace('<em>', '<em style="font-style:normal;white-space:nowrap;color:#fff;background:#171276;border-radius:22px;padding:0 18px">')}</h1>
-    <p style="position:absolute;left:90px;top:{760 if len(titulo) < 30 else 860}px;width:500px;font-size:54px;font-weight:800;line-height:1.24">{esc(sub)}</p>
+    <div style="position:absolute;left:90px;top:440px;width:{tw}px;display:flex;flex-direction:column;gap:34px">
+      <h1 style="font-size:{(104 if len(titulo) < 34 else 88) if tw >= 700 else (84 if len(titulo) < 34 else 74)}px;line-height:1.18">{esc(titulo).replace('<em>', '<em style="font-style:normal;color:#fff;background:#171276;border-radius:22px;padding:0 18px;-webkit-box-decoration-break:clone;box-decoration-break:clone">')}</h1>
+      <p style="width:{min(500, tw)}px;font-size:54px;font-weight:800;line-height:1.24">{esc(sub)}</p>
+    </div>
     <div class="palco" style="width:640px;height:640px;right:-60px;bottom:330px"></div>
     <img class="mascote" src="{m}" style="height:900px;right:20px;bottom:330px">
     <div style="position:absolute;left:90px;bottom:220px;font-weight:900;font-size:44px">@appdonagas</div>

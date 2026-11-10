@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-15-reels-pressao-x-comum",
+ "quando": "2026-11-15T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "comentar",
+ "cta": "Time pressão ou panela comum?",
+ "abordagem": "Reels: pressão ou panela comum",
+ "lote": "reels-semana3",
+ "legenda": "Panela de pressão ou panela comum: qual gasta menos gás? 🍲\n\nPara feijão e carne, a diferença é grande.\n\n💬 Você é time pressão ou time panela comum?\n\n#economiadomestica #gasdecozinha #paneladepressao #dicasdecasa",
+ "gancho": "Pressão ou panela comum: [qual gasta menos?]",
+ "voz": "Panela de pressão ou panela comum: qual gasta menos gás? Para feijão e carne dura, a pressão ganha fácil, porque cozinha em bem menos tempo. Para arroz e legumes, a panela comum tampada resolve. Você é de qual time?",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man thinks with a hand on his chin, squints, then raises his eyebrows with an open-mouth 'aha!' face"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Feijão e carne: [pressão]\nArroz e legumes: [panela tampada]",
+   "sub": "Confira sempre a válvula e a borracha da panela de pressão.",
+   "fundo": "claro",
+   "emoji": "🍲",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon chef shrugs playfully with a smirk, then laughs with mouth open, gentle camera movement"
+  }
+ ],
+ "final": {
+  "titulo": "Time [pressão] ou time [comum]?",
+  "sub": "Comenta aí 👇",
+  "mascote": "mascote-pensando.png"
+ }
+}

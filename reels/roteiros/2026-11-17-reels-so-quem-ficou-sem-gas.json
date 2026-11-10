@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-17-reels-so-quem-ficou-sem-gas",
+ "quando": "2026-11-17T19:00:00-03:00",
+ "pilar": "A",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem sempre deixa acabar",
+ "abordagem": "Reels: só quem já ficou sem gás entende",
+ "lote": "reels-semana3",
+ "legenda": "Só quem já ficou sem gás entende 😂\n\nSe você nunca passou por isso, parabéns.\n\n👉 Manda pra quem sempre deixa o gás acabar.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
+ "gancho": "Só quem já [ficou sem gás] entende",
+ "voz": "Só quem já ficou sem gás entende. Pedir fogo pra vizinha. Jantar pão com ovo, só que sem o ovo. E a promessa de sempre: da próxima vez eu peço antes. Manda pra quem sempre deixa acabar!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man makes a funny embarrassed face, eyes looking sideways, then a guilty open-mouth grin"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "\"Da próxima vez [eu peço antes]\"",
+   "sub": "(spoiler: não pede 😅)",
+   "fundo": "rosa",
+   "emoji": "😂",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-correndo.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon man laughs with mouth open while running in place with a gas cylinder, playful bounce"
+  }
+ ],
+ "final": {
+  "titulo": "Manda pra quem [sempre deixa acabar] 😂",
+  "sub": "Marca aqui nos comentários",
+  "mascote": "mascote-correndo.png"
+ }
+}
