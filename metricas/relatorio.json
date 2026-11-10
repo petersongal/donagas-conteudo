@@ -1,0 +1,376 @@
+{
+ "conta": "appdonagas",
+ "gerado_em": "2026-11-10T20:52:08.321Z",
+ "ultima_coleta": "2026-11-10T19:15:02.161Z",
+ "seguidores_hist": [
+  {
+   "d": "2026-11-10",
+   "seguidores": 986,
+   "posts": 35
+  }
+ ],
+ "posts": [
+  {
+   "id": "2026-11-05-feed-3-toques",
+   "tipo": "carrossel",
+   "abordagem": "Acabou o gás? Peça em 3 toques",
+   "agendado_para": "2026-11-05T19:45:00+00:00",
+   "publicado_em": "2026-11-05T20:00:44.34+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfX1zLik0rT/",
+   "metricas": {
+    "likes": 6,
+    "reach": 127,
+    "saved": 0,
+    "views": 230,
+    "shares": 1,
+    "comments": 5,
+    "total_interactions": 12
+   },
+   "metricas_em": "2026-11-10T19:15:10.691+00:00"
+  },
+  {
+   "id": "2026-11-05-story-1900",
+   "tipo": "story",
+   "abordagem": "story: Gás acabou no meio do almoço? Relaxa.",
+   "agendado_para": "2026-11-05T22:00:00+00:00",
+   "publicado_em": "2026-11-05T22:00:20.104+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4023981623016142519",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-06-story-0830",
+   "tipo": "story",
+   "abordagem": "story: Bom dia! Já baixou o app?",
+   "agendado_para": "2026-11-06T11:30:00+00:00",
+   "publicado_em": "2026-11-06T11:30:24.859+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4024389331234017391",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-06-feed-receita-arroz",
+   "tipo": "carrossel",
+   "abordagem": "Receita: arroz soltinho",
+   "agendado_para": "2026-11-06T12:30:00+00:00",
+   "publicado_em": "2026-11-06T12:30:45.996+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfZnGX2E3p_/",
+   "metricas": {
+    "likes": 2,
+    "reach": 28,
+    "saved": 0,
+    "views": 70,
+    "shares": 0,
+    "comments": 2,
+    "total_interactions": 4
+   },
+   "metricas_em": "2026-11-10T19:15:12.878+00:00"
+  },
+  {
+   "id": "2026-11-06-feed-pague-na-entrega",
+   "tipo": "carrossel",
+   "abordagem": "Pague só na entrega",
+   "agendado_para": "2026-11-06T16:00:00+00:00",
+   "publicado_em": "2026-11-06T16:00:47.053+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfZ_IUQE9lj/",
+   "metricas": {
+    "likes": 2,
+    "reach": 31,
+    "saved": 0,
+    "views": 64,
+    "shares": 0,
+    "comments": 2,
+    "total_interactions": 4
+   },
+   "metricas_em": "2026-11-10T19:15:11.584+00:00"
+  },
+  {
+   "id": "2026-11-06-feed-receita-feijao",
+   "tipo": "carrossel",
+   "abordagem": "Receita: feijão na pressão",
+   "agendado_para": "2026-11-06T22:30:00+00:00",
+   "publicado_em": "2026-11-06T22:30:34.166+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/Dfarv16kxNC/",
+   "metricas": {
+    "likes": 2,
+    "reach": 33,
+    "saved": 0,
+    "views": 80,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 2
+   },
+   "metricas_em": "2026-11-10T19:15:13.875+00:00"
+  },
+  {
+   "id": "2026-11-07-story-0830",
+   "tipo": "story",
+   "abordagem": "story: Compare antes de pedir",
+   "agendado_para": "2026-11-07T11:30:00+00:00",
+   "publicado_em": "2026-11-07T11:30:22.026+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4025114078552992615",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-07-feed-receita-macarrao",
+   "tipo": "carrossel",
+   "abordagem": "Receita: macarrão de uma panela",
+   "agendado_para": "2026-11-07T12:30:00+00:00",
+   "publicado_em": "2026-11-07T12:30:34.726+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfcL3u2kyGi/",
+   "metricas": {
+    "likes": 3,
+    "reach": 39,
+    "saved": 0,
+    "views": 72,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:09.084+00:00"
+  },
+  {
+   "id": "2026-11-07-feed-compare-precos",
+   "tipo": "carrossel",
+   "abordagem": "Compare preços antes de pedir",
+   "agendado_para": "2026-11-07T16:00:00+00:00",
+   "publicado_em": "2026-11-07T16:00:51.074+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/Dfcj71WExKf/",
+   "metricas": {
+    "likes": 1,
+    "reach": 30,
+    "saved": 0,
+    "views": 60,
+    "shares": 0,
+    "comments": 2,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:11.16+00:00"
+  },
+  {
+   "id": "2026-11-07-feed-receita-ovos",
+   "tipo": "carrossel",
+   "abordagem": "Receita: ovos mexidos cremosos",
+   "agendado_para": "2026-11-07T22:30:00+00:00",
+   "publicado_em": "2026-11-07T22:30:38.028+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfdQjMIAe9j/",
+   "metricas": {
+    "likes": 3,
+    "reach": 49,
+    "saved": 0,
+    "views": 119,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:09.569+00:00"
+  },
+  {
+   "id": "2026-11-08-story-0830",
+   "tipo": "story",
+   "abordagem": "story: Tem botijão vazio? Peça a troca",
+   "agendado_para": "2026-11-08T11:30:00+00:00",
+   "publicado_em": "2026-11-08T11:30:19.157+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4025838805152127452",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-08-feed-faq-cadastro",
+   "tipo": "carrossel",
+   "abordagem": "FAQ: preciso criar conta?",
+   "agendado_para": "2026-11-08T12:30:00+00:00",
+   "publicado_em": "2026-11-08T12:30:46.903+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfewsJnE46A/",
+   "metricas": {
+    "likes": 3,
+    "reach": 50,
+    "saved": 0,
+    "views": 147,
+    "shares": 0,
+    "comments": 1,
+    "total_interactions": 4
+   },
+   "metricas_em": "2026-11-10T19:15:14.291+00:00"
+  },
+  {
+   "id": "2026-11-08-feed-troca-ou-completo",
+   "tipo": "carrossel",
+   "abordagem": "Troca ou botijão completo",
+   "agendado_para": "2026-11-08T16:00:00+00:00",
+   "publicado_em": "2026-11-08T16:00:50.289+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DffIuhcEypL/",
+   "metricas": {
+    "likes": 3,
+    "reach": 30,
+    "saved": 0,
+    "views": 72,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:11.985+00:00"
+  },
+  {
+   "id": "2026-11-08-feed-faq-marca",
+   "tipo": "carrossel",
+   "abordagem": "FAQ: posso escolher a marca?",
+   "agendado_para": "2026-11-08T22:30:00+00:00",
+   "publicado_em": "2026-11-08T22:30:29.97+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/Dff1UqnExj5/",
+   "metricas": {
+    "likes": 2,
+    "reach": 22,
+    "saved": 0,
+    "views": 47,
+    "shares": 0,
+    "comments": 1,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:10.11+00:00"
+  },
+  {
+   "id": "2026-11-09-story-0830",
+   "tipo": "story",
+   "abordagem": "story: Domingo é dia de almoço em família",
+   "agendado_para": "2026-11-09T11:30:00+00:00",
+   "publicado_em": "2026-11-09T11:30:17.579+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4026563582561063306",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-09-feed-faq-entrega-inclusa",
+   "tipo": "carrossel",
+   "abordagem": "FAQ: a entrega está inclusa?",
+   "agendado_para": "2026-11-09T12:30:00+00:00",
+   "publicado_em": "2026-11-09T12:30:31.508+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfhVdVFE84l/",
+   "metricas": {
+    "likes": 3,
+    "reach": 14,
+    "saved": 0,
+    "views": 20,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:14.738+00:00"
+  },
+  {
+   "id": "2026-11-09-feed-economia",
+   "tipo": "carrossel",
+   "abordagem": "Dicas de economia de gás",
+   "agendado_para": "2026-11-09T16:00:00+00:00",
+   "publicado_em": "2026-11-09T16:00:41.456+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfhtgfDk2nO/",
+   "metricas": {
+    "likes": 1,
+    "reach": 16,
+    "saved": 0,
+    "views": 31,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 1
+   },
+   "metricas_em": "2026-11-10T19:15:13.414+00:00"
+  },
+  {
+   "id": "2026-11-09-feed-passo-baixar",
+   "tipo": "carrossel",
+   "abordagem": "Passo a passo: baixe o app",
+   "agendado_para": "2026-11-09T22:30:00+00:00",
+   "publicado_em": "2026-11-09T22:30:37.937+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfiaI27GXM3/",
+   "metricas": {
+    "likes": 3,
+    "reach": 10,
+    "saved": 0,
+    "views": 13,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:16.454+00:00"
+  },
+  {
+   "id": "2026-11-10-story-0830",
+   "tipo": "story",
+   "abordagem": "story: Segunda começou sem gás?",
+   "agendado_para": "2026-11-10T11:30:00+00:00",
+   "publicado_em": "2026-11-10T11:30:22.497+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4027288407248172405",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-10-feed-passo-acompanhar",
+   "tipo": "carrossel",
+   "abordagem": "Passo a passo: acompanhe o pedido",
+   "agendado_para": "2026-11-10T12:30:00+00:00",
+   "publicado_em": "2026-11-10T12:30:42.048+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/Dfj6RVnk2-Y/",
+   "metricas": {
+    "likes": 2,
+    "reach": 11,
+    "saved": 0,
+    "views": 25,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 2
+   },
+   "metricas_em": "2026-11-10T19:15:15.799+00:00"
+  },
+  {
+   "id": "2026-11-10-feed-quanto-dura",
+   "tipo": "carrossel",
+   "abordagem": "Quanto dura um botijão P13",
+   "agendado_para": "2026-11-10T16:00:00+00:00",
+   "publicado_em": "2026-11-10T16:00:50.786+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfkSUazE2TF/",
+   "metricas": {
+    "likes": 3,
+    "reach": 7,
+    "saved": 0,
+    "views": 17,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 3
+   },
+   "metricas_em": "2026-11-10T19:15:15.288+00:00"
+  },
+  {
+   "id": "2026-11-12-reels-botijao-deitado",
+   "tipo": "reels",
+   "abordagem": "Reels: botijão deitado rende mais?",
+   "agendado_para": "2026-11-10T20:30:00+00:00",
+   "publicado_em": "2026-11-10T20:30:49.54+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/reel/DfkxK6DNFX8/",
+   "metricas": null,
+   "metricas_em": null
+  }
+ ]
+}
