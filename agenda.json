@@ -350,6 +350,25 @@
   "lote": "semana3-estrategia"
  },
  {
+  "id": "2026-11-11-reels-ovo-cozido",
+  "tipo": "reels",
+  "abordagem": "Reels: ovo cozido gastando menos gás",
+  "legenda": "O truque do ovo cozido que gasta menos gás 🥚\n\nVocê não precisa deixar o fogo ligado o tempo todo.\n\n🔖 Salva e testa amanhã no café da manhã.\n\n#dicasdecasa #economiadomestica #gasdecozinha #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
+   "posts/2026-11-11-reels-ovo-cozido/capa.jpg"
+  ],
+  "video": "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
+  "capa": "posts/2026-11-11-reels-ovo-cozido/capa.jpg",
+  "agendado_para": "2026-11-11T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva o truque",
+  "lote": "reels-semana3"
+ },
+ {
   "id": "2026-11-11-feed-botijao-deitado-mito",
   "tipo": "carrossel",
   "abordagem": "Mitos e verdades: botijão deitado",
@@ -486,6 +505,25 @@
   "objetivo": "compartilhar",
   "cta": "Marca quem já passou pela fase 3",
   "lote": "semana3-estrategia"
+ },
+ {
+  "id": "2026-11-13-reels-7-habitos",
+  "tipo": "reels",
+  "abordagem": "Reels: 3 hábitos que fazem o gás render",
+  "legenda": "3 hábitos que fazem o botijão durar mais 🔥\n\nO terceiro quase ninguém faz.\n\n🔖 Salva pra lembrar na hora de cozinhar.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-13-reels-7-habitos/reel.mp4",
+   "posts/2026-11-13-reels-7-habitos/capa.jpg"
+  ],
+  "video": "posts/2026-11-13-reels-7-habitos/reel.mp4",
+  "capa": "posts/2026-11-13-reels-7-habitos/capa.jpg",
+  "agendado_para": "2026-11-13T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva o vídeo",
+  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-13-feed-7-habitos-gas-render",
@@ -853,6 +891,25 @@
   "lote": "semana3-estrategia"
  },
  {
+  "id": "2026-11-18-reels-casa-da-mae",
+  "tipo": "reels",
+  "abordagem": "Reels: gás na casa da mãe sem sair de casa",
+  "legenda": "Dá pra mandar gás pra casa da sua mãe sem sair de casa 💗\n\nNo app você coloca o CEP de lá e o pagamento é na entrega.\n\n👉 Manda esse vídeo pra sua mãe.\n💬 Comente APP que eu te mando o link.\n\n#appdonagas #gasdecozinha #entregadegas #mae",
+  "imagens": [
+   "posts/2026-11-18-reels-casa-da-mae/reel.mp4",
+   "posts/2026-11-18-reels-casa-da-mae/capa.jpg"
+  ],
+  "video": "posts/2026-11-18-reels-casa-da-mae/reel.mp4",
+  "capa": "posts/2026-11-18-reels-casa-da-mae/capa.jpg",
+  "agendado_para": "2026-11-18T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra sua mãe",
+  "lote": "reels-semana3"
+ },
+ {
   "id": "2026-11-18-feed-gas-casa-da-mae",
   "tipo": "carrossel",
   "abordagem": "App: mandar gás para a casa da mãe",
@@ -908,6 +965,25 @@
   "objetivo": "comentar",
   "cta": "Quantas você acertou?",
   "lote": "semana3-estrategia"
+ },
+ {
+  "id": "2026-11-19-reels-3-jantas",
+  "tipo": "reels",
+  "abordagem": "Reels: 3 jantas baratas numa panela só",
+  "legenda": "3 jantas baratas, cada uma numa panela só 🍲\n\nMenos louça, menos gás e comida gostosa.\n\n🔖 Salva e conta qual você faz primeiro.\n\n#receitabarata #jantarrapido #receitafacil #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-19-reels-3-jantas/reel.mp4",
+   "posts/2026-11-19-reels-3-jantas/capa.jpg"
+  ],
+  "video": "posts/2026-11-19-reels-3-jantas/reel.mp4",
+  "capa": "posts/2026-11-19-reels-3-jantas/capa.jpg",
+  "agendado_para": "2026-11-19T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva as 3 jantas",
+  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-19-feed-3-jantas-baratas",

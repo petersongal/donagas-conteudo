@@ -1,0 +1,28 @@
+{
+ "roteiro": "Sabia que dá pra mandar gás pra casa da sua mãe sem sair de casa? No app, você coloca o CEP de lá, escolhe a oferta, e o pagamento é feito na entrega. Manda esse vídeo pra sua mãe!",
+ "transcricao": " Sabia que dá pra mandar gás pra casa da sua mãe sem sair de casa? No app, você coloca o CEP de lá, escolhe a oferta e o pagamento é feito na entrega. Manda esse vídeo pra sua mãe!",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Sabia que dá",
+  "pra mandar gás",
+  "pra casa da",
+  "sua mãe sem",
+  "sair de casa?",
+  "No app,",
+  "você coloca o",
+  "CEP de lá,",
+  "escolhe a oferta,",
+  "e o pagamento",
+  "é feito na",
+  "entrega.",
+  "Manda esse vídeo",
+  "pra sua mãe!"
+ ],
+ "duracao_s": 16.8
+}
