@@ -15,7 +15,7 @@
    "mascote": "mascote-pensando.png",
    "fundo": "marinho",
    "dur": 5,
-   "movimento": "the cartoon man scratches his chin thinking, looks at the camera and raises his eyebrows in surprise, slow camera push-in"
+   "movimento": "the cartoon man scratches his chin with a curious look, then raises his eyebrows surprised with lips closed, slow camera push-in"
   },
   {
    "tipo": "texto",
@@ -30,7 +30,7 @@
    "mascote": "mascote-joia.png",
    "fundo": "rosa",
    "dur": 5,
-   "movimento": "the cartoon man smiles confidently and gives a thumbs up, small nod, gentle camera movement"
+   "movimento": "the cartoon man gives a confident closed-mouth smile, a small nod and a thumbs up, gentle camera movement"
   }
  ],
  "final": {

@@ -37,8 +37,13 @@ TMP = RAIZ / ".reels-tmp"
 
 ESTILO = ("3D animated cartoon mascot, same character design, same face, beard, pink cap and pink uniform "
           "with the logo exactly as in the image, Pixar-like quality, smooth natural motion, stable camera, "
-          "vertical 9:16, no text, no captions, no extra characters")
-NEGATIVO = "text, letters, watermark, deformed hands, extra fingers, extra limbs, blurry face, flicker, distorted logo"
+          "vertical 9:16, no text, no captions, no extra characters. "
+          "IMPORTANT: the character does NOT talk: lips stay closed the whole time; he only reacts with facial "
+          "expressions (eyebrows, eyes, closed-mouth smile, smirk, surprised look with closed lips, nod, head tilt) "
+          "and body gestures, like listening to a narrator")
+# Decisão do Peterson (10/11): o mascote não "fala" (a boca não sincroniza com a voz); só faz caras e bocas.
+NEGATIVO = ("talking, speaking, lip movement, mouth moving, open mouth, lip sync, singing, chewing, "
+            "text, letters, watermark, deformed hands, extra fingers, extra limbs, blurry face, flicker, distorted logo")
 
 
 def log(*a):
