@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-12-reels-botijao-deitado",
+ "quando": "2026-11-12T19:00:00-03:00",
+ "pilar": "C", "objetivo": "comentar", "cta": "Comenta: você achava que era verdade?",
+ "abordagem": "Reels: botijão deitado rende mais?",
+ "lote": "reels-teste",
+ "legenda": "Botijão deitado rende mais? 🤔\n\nMuita gente acredita nisso. Mas não é verdade: botijão é sempre em pé.\n\n💬 Comenta aí: você achava que era verdade?\n\n#mitoouverdade #gasdecozinha #botijao #dicasdecasa",
+ "gancho": "Botijão deitado [rende mais?]",
+ "voz": "Tem gente que deita o botijão achando que o gás rende mais. Mito! Botijão fica sempre em pé. Deitado não rende mais e ainda não é seguro. Comenta aqui: você achava que era verdade?",
+ "cenas": [
+  {"tipo": "ia", "mascote": "mascote-pensando.png", "fundo": "marinho", "dur": 5,
+   "movimento": "the cartoon man scratches his chin thinking, looks at the camera and raises his eyebrows in surprise, slow camera push-in"},
+  {"tipo": "texto", "titulo": "[MITO!] Botijão fica sempre em pé", "sub": "Deitado não rende mais e não é seguro.", "fundo": "claro", "emoji": "❌", "dur": 4},
+  {"tipo": "ia", "mascote": "mascote-joia.png", "fundo": "rosa", "dur": 5,
+   "movimento": "the cartoon man smiles confidently and gives a thumbs up, small nod, gentle camera movement"}
+ ],
+ "final": {"titulo": "Você achava que era [verdade?]", "sub": "Comenta aqui 👇 e segue pra mais dicas", "mascote": "mascote-pensando.png"}
+}

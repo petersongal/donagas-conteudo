@@ -120,12 +120,12 @@ Métricas por post (quando a coleta estiver no ar): views, alcance, % não segui
 
 Peso para decidir o que repetir: compartilhamentos e salvamentos valem mais que curtidas.
 
-## 11. O que o sistema precisa (pendências técnicas)
+## 11. Sistema (estado em 10/11/2026)
 
-1. **Coleta de métricas** de cada post pela API (permissão instagram_manage_insights já existe no app "Dona Gás Respostas") e tela no Admin › Instagram.
-2. **Publicar Reels** no publicador (vídeo MP4 + capa).
-3. **Gerador de Reels automáticos** (texto animado + mascote + fotos + trilha livre de direitos).
-4. Campo `pilar`, `layout`, `objetivo` e `cta` em cada item da agenda.json para a análise comparar.
+1. **Métricas por post:** o publicador coleta a cada 3 h (views, alcance, salvos, compartilhamentos, comentários, curtidas; Reels também tempo médio assistido) e guarda o histórico de seguidores. Tela: Admin › Instagram › "Desempenho dos posts". Relatório em JSON: `GET https://ocjrttaavhjiwugunrrj.supabase.co/functions/v1/instagram-publisher?relatorio=1` (só números de posts públicos). *Entra no ar quando a Lovable aplicar o SQL `supabase/sql/instagram_reels_metricas.sql` e reimplantar a função `instagram-publisher` (código no commit `c927972` do appy-hug).*
+2. **Reels no publicador:** `tipo: "reels"` com `video` (MP4) e `capa` (JPEG) na agenda; mesma dependência do item 1.
+3. **Fábrica de Reels:** `reels/fabrica.py` + GitHub Actions; ver `reels/LEIA-ME.md`. **Decisão: mascote oficial animado por IA (fal.ai: Kling 2.6 Pro + voz ElevenLabs em português), não avatar humano.** Depende do segredo `FAL_KEY` no repositório (Peterson cria a conta e cadastra o pagamento).
+4. Campos `pilar`, `layout`, `objetivo`, `cta` e `lote` em cada item da agenda.json.
 
 ## 12. Quando começar o tráfego pago (projeto "ADS Dona Gás")
 
