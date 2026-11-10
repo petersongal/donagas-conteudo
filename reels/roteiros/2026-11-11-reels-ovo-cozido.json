@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-11-reels-ovo-cozido",
+ "quando": "2026-11-11T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "salvar",
+ "cta": "Salva o truque",
+ "abordagem": "Reels: ovo cozido gastando menos gás",
+ "lote": "reels-semana3",
+ "legenda": "O truque do ovo cozido que gasta menos gás 🥚\n\nVocê não precisa deixar o fogo ligado o tempo todo.\n\n🔖 Salva e testa amanhã no café da manhã.\n\n#dicasdecasa #economiadomestica #gasdecozinha #cozinhapratica",
+ "gancho": "Ovo cozido [gastando menos gás]",
+ "voz": "Quer cozinhar ovo gastando menos gás? Coloque os ovos na água fria e leve ao fogo. Quando ferver, desligue, tampe a panela e espere dez minutos. O calor termina o serviço. Salva esse truque!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "the cartoon chef raises an eyebrow with a curious smirk, then his eyes widen with an open-mouth 'aha!' face, slow camera push-in"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Ferveu? [Desliga e tampa]",
+   "sub": "Espere 10 minutos: o calor termina o serviço.",
+   "fundo": "claro",
+   "emoji": "🥚",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "the cartoon man gives a proud big smile and a thumbs up, small nod, gentle camera movement"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] esse truque 🔖",
+  "sub": "e testa amanhã no café da manhã",
+  "mascote": "mascote-chef.png"
+ }
+}
