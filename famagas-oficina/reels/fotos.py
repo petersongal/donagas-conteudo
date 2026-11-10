@@ -54,8 +54,24 @@ def commons(q, n):
     return out
 
 
+def unsplash(ped):
+    """Fotos escolhidas no Unsplash (licença Unsplash: uso comercial gratuito, sem crédito obrigatório), pelo ID da foto."""
+    pasta = DEST / "unsplash"
+    pasta.mkdir(parents=True, exist_ok=True)
+    for nome, pid in (ped.get("unsplash") or {}).items():
+        arq = pasta / f"{nome}.jpg"
+        if arq.exists():
+            continue
+        try:
+            print(f"[fotos] unsplash {nome}:", baixar(f"https://unsplash.com/photos/{pid}/download?force=true&w=1920", arq), flush=True)
+        except Exception as e:
+            print(f"[fotos] unsplash {nome}: falhou ({e})", flush=True)
+        time.sleep(1.5)
+
+
 def main():
     ped = json.loads((RAIZ / "reels" / "fotos" / "pedido.json").read_text())
+    unsplash(ped)
     n = int(ped.get("por_tema", 5))
     for tema, buscas in ped["temas"].items():
         pasta = DEST / tema

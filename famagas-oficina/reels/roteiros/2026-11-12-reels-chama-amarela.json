@@ -15,7 +15,13 @@
   {
    "tipo": "foto",
    "imagem": "cena-panela.jpg",
-   "dur": 5
+   "dur": 4
+  },
+  {
+   "tipo": "real",
+   "imagem": "chama-azul.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 4
   },
   {
    "tipo": "texto",
@@ -29,7 +35,7 @@
    "tipo": "ia",
    "mascote": "mascote-cafe.png",
    "fundo": "azul",
-   "dur": 5
+   "dur": 4
   }
  ],
  "final": {
