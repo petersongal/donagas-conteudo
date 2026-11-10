@@ -270,470 +270,541 @@
   "aprovado": true
  },
  {
-  "id": "2026-11-10-feed-passo-enderecos",
+  "id": "2026-11-10-feed-tipos-quando-o-gas-acaba",
   "tipo": "carrossel",
-  "abordagem": "Passo a passo: salve seus endereços",
-  "legenda": "Salve seus endereços e peça ainda mais rápido 🏠\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Humor: tipos de pessoa quando o gás acaba",
+  "legenda": "Toda casa tem pelo menos um desses quando o gás acaba 😂\n\nDesliza e descobre qual é o seu. Eu confesso: já fui o nº 3.\n\n👉 Marca aqui quem é o nº 3 da sua casa.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
   "imagens": [
-   "posts/2026-11-10-feed-passo-enderecos/1.jpg",
-   "posts/2026-11-10-feed-passo-enderecos/2.jpg",
-   "posts/2026-11-10-feed-passo-enderecos/3.jpg"
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/1.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/2.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/3.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/4.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/5.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/6.jpg",
+   "posts/2026-11-10-feed-tipos-quando-o-gas-acaba/7.jpg"
   ],
   "agendado_para": "2026-11-10T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "mascote",
+  "objetivo": "compartilhar",
+  "cta": "Marca quem é o nº 3",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-11-story-0830",
+  "id": "2026-11-11-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Confira o lacre",
+  "abordagem": "story: Você balança o botijão pra ver se tem gás?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-11-story-0830/1.jpg"
+   "posts/2026-11-11-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-11T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda SIM ou NÃO 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-11-feed-antes-de-acabar",
+  "id": "2026-11-11-feed-feijao-gastando-gas",
   "tipo": "carrossel",
-  "abordagem": "Confira o gás antes de receber visita",
-  "legenda": "Vai receber visita ou viajar? Confira o gás antes 👀\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Economia: feijão gastando gás à toa",
+  "legenda": "Seu feijão pode estar gastando gás à toa 🫘\n\nSão 4 hábitos simples que fazem o fogo ficar menos tempo ligado. O nº 2 quase todo mundo erra.\n\n🔖 Salva pra lembrar no próximo feijão e manda pra quem cozinha na sua casa.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
   "imagens": [
-   "posts/2026-11-11-feed-antes-de-acabar/1.jpg",
-   "posts/2026-11-11-feed-antes-de-acabar/2.jpg",
-   "posts/2026-11-11-feed-antes-de-acabar/3.jpg"
+   "posts/2026-11-11-feed-feijao-gastando-gas/1.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/2.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/3.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/4.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/5.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/6.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/7.jpg",
+   "posts/2026-11-11-feed-feijao-gastando-gas/8.jpg"
   ],
-  "agendado_para": "2026-11-11T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-11T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva pra não esquecer",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-11-feed-seguranca",
+  "id": "2026-11-11-feed-botijao-deitado-mito",
   "tipo": "carrossel",
-  "abordagem": "Segurança com o botijão",
-  "legenda": "Segurança em primeiro lugar 🛡️ Cuidados simples com o botijão de gás em casa. Em caso de emergência, ligue 193 (Bombeiros).\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Mitos e verdades: botijão deitado",
+  "legenda": "Botijão deitado rende mais? 🤔\n\nTem muita coisa sobre gás de cozinha que a gente ouve desde criança e nem sempre é verdade. Separei 3 mitos e verdades.\n\n💬 Comenta o número do que você achava que era verdade.\n\n#mitoouverdade #gasdecozinha #segurancaemcasa #botijao",
   "imagens": [
-   "posts/2026-11-11-feed-seguranca/1.jpg",
-   "posts/2026-11-11-feed-seguranca/2.jpg",
-   "posts/2026-11-11-feed-seguranca/3.jpg"
-  ],
-  "agendado_para": "2026-11-11T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-11-feed-almoco-familia",
-  "tipo": "carrossel",
-  "abordagem": "Almoço em família com gás garantido",
-  "legenda": "Almoço em família pede cozinha tranquila 💗 Deixe o gás garantido.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-11-feed-almoco-familia/1.jpg",
-   "posts/2026-11-11-feed-almoco-familia/2.jpg",
-   "posts/2026-11-11-feed-almoco-familia/3.jpg"
+   "posts/2026-11-11-feed-botijao-deitado-mito/1.jpg",
+   "posts/2026-11-11-feed-botijao-deitado-mito/2.jpg",
+   "posts/2026-11-11-feed-botijao-deitado-mito/3.jpg",
+   "posts/2026-11-11-feed-botijao-deitado-mito/4.jpg",
+   "posts/2026-11-11-feed-botijao-deitado-mito/5.jpg",
+   "posts/2026-11-11-feed-botijao-deitado-mito/6.jpg"
   ],
   "agendado_para": "2026-11-11T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "mascote",
+  "objetivo": "comentar",
+  "cta": "Qual você achava verdade?",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-12-story-0830",
+  "id": "2026-11-12-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Repita o pedido com um toque",
+  "abordagem": "story: O que vai ter de janta hoje?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-12-story-0830/1.jpg"
+   "posts/2026-11-12-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-12T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-12-feed-cozinha-segura",
+  "id": "2026-11-12-feed-macarrao-alho-oleo",
   "tipo": "carrossel",
-  "abordagem": "Cozinha segura",
-  "legenda": "Pequenos cuidados deixam a cozinha mais segura 🛡️ Em emergência, ligue 193.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Receita: macarrão alho e óleo em 15 minutos",
+  "legenda": "Janta pronta em 15 minutos com 5 ingredientes 🍝\n\nMacarrão alho e óleo: barato, rápido e uma panela só para o macarrão.\n\n🔖 Salva para aquele dia corrido e manda pra quem vive dizendo que não sabe cozinhar 😄\n\n#receitafacil #receitabarata #jantarrapido #cozinhapratica",
   "imagens": [
-   "posts/2026-11-12-feed-cozinha-segura/1.jpg",
-   "posts/2026-11-12-feed-cozinha-segura/2.jpg",
-   "posts/2026-11-12-feed-cozinha-segura/3.jpg"
+   "posts/2026-11-12-feed-macarrao-alho-oleo/1.jpg",
+   "posts/2026-11-12-feed-macarrao-alho-oleo/2.jpg",
+   "posts/2026-11-12-feed-macarrao-alho-oleo/3.jpg",
+   "posts/2026-11-12-feed-macarrao-alho-oleo/4.jpg",
+   "posts/2026-11-12-feed-macarrao-alho-oleo/5.jpg",
+   "posts/2026-11-12-feed-macarrao-alho-oleo/6.jpg"
   ],
-  "agendado_para": "2026-11-12T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-12T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva a receita",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-12-feed-repita-pedido",
+  "id": "2026-11-12-feed-visita-chegando-sem-gas",
   "tipo": "carrossel",
-  "abordagem": "Repita o último pedido",
-  "legenda": "Já pediu uma vez? Então ficou ainda mais fácil: no App Dona Gás você repete o último pedido com um toque. 🔁 Seus endereços ficam salvos e você acompanha o status pelo app.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "App: acabou o gás com visita chegando",
+  "legenda": "Acabou o gás e a visita já está chegando? 😱\n\nRespira. Dá pra resolver pelo celular, sem ligar para ninguém e pagando só na entrega.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
   "imagens": [
-   "posts/2026-11-12-feed-repita-pedido/1.jpg",
-   "posts/2026-11-12-feed-repita-pedido/2.jpg",
-   "posts/2026-11-12-feed-repita-pedido/3.jpg"
-  ],
-  "agendado_para": "2026-11-12T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-12-feed-economize-comparando",
-  "tipo": "carrossel",
-  "abordagem": "Economize comparando",
-  "legenda": "Antes de pedir, compare: o melhor preço pode estar em outra marca 🔍\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-12-feed-economize-comparando/1.jpg",
-   "posts/2026-11-12-feed-economize-comparando/2.jpg",
-   "posts/2026-11-12-feed-economize-comparando/3.jpg"
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/1.jpg",
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/2.jpg",
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/3.jpg",
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/4.jpg",
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/5.jpg",
+   "posts/2026-11-12-feed-visita-chegando-sem-gas/6.jpg"
   ],
   "agendado_para": "2026-11-12T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "mascote",
+  "objetivo": "clique",
+  "cta": "Comente APP",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-13-story-0830",
+  "id": "2026-11-13-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Sexta! Gás em dia?",
+  "abordagem": "story: Sexta! O gás aguenta o fim de semana?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-13-story-0830/1.jpg"
+   "posts/2026-11-13-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-13T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "clique",
+  "cta": "Responda APP a este story 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-13-feed-do-cep-a-porta",
+  "id": "2026-11-13-feed-5-fases-sem-gas",
   "tipo": "carrossel",
-  "abordagem": "Passo a passo do app: do CEP à porta",
-  "legenda": "Do CEP até a sua porta, veja o caminho do pedido no app 📲\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Humor: as 5 fases de quem fica sem gás",
+  "legenda": "As 5 fases de quem fica sem gás 😂\n\nDa negação à aceitação, todo mundo já passou por pelo menos três.\n\n👉 Marca quem já ficou preso na fase 3.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
   "imagens": [
-   "posts/2026-11-13-feed-do-cep-a-porta/1.jpg",
-   "posts/2026-11-13-feed-do-cep-a-porta/2.jpg",
-   "posts/2026-11-13-feed-do-cep-a-porta/3.jpg",
-   "posts/2026-11-13-feed-do-cep-a-porta/4.jpg"
+   "posts/2026-11-13-feed-5-fases-sem-gas/1.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/2.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/3.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/4.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/5.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/6.jpg",
+   "posts/2026-11-13-feed-5-fases-sem-gas/7.jpg"
   ],
-  "agendado_para": "2026-11-13T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-13T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "manchete",
+  "objetivo": "compartilhar",
+  "cta": "Marca quem já passou pela fase 3",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-13-feed-receita-farofa",
+  "id": "2026-11-13-feed-7-habitos-gas-render",
   "tipo": "carrossel",
-  "abordagem": "Receita: farofa de frigideira",
-  "legenda": "Farofa crocante de frigideira, pronta em poucos minutos 🥄\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Economia: 7 hábitos para o gás render",
+  "legenda": "7 hábitos que fazem o botijão durar mais 🔥\n\nNenhum deles custa nada. O nº 5 pouca gente faz.\n\n🔖 Salva e confere quantos você já faz.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
   "imagens": [
-   "posts/2026-11-13-feed-receita-farofa/1.jpg",
-   "posts/2026-11-13-feed-receita-farofa/2.jpg",
-   "posts/2026-11-13-feed-receita-farofa/3.jpg"
-  ],
-  "agendado_para": "2026-11-13T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-13-feed-faq-botijao-vazio",
-  "tipo": "carrossel",
-  "abordagem": "FAQ: preciso devolver o botijão vazio?",
-  "legenda": "Preciso devolver o botijão vazio? Depende do tipo de pedido 🤔\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-13-feed-faq-botijao-vazio/1.jpg",
-   "posts/2026-11-13-feed-faq-botijao-vazio/2.jpg",
-   "posts/2026-11-13-feed-faq-botijao-vazio/3.jpg"
+   "posts/2026-11-13-feed-7-habitos-gas-render/1.jpg",
+   "posts/2026-11-13-feed-7-habitos-gas-render/2.jpg",
+   "posts/2026-11-13-feed-7-habitos-gas-render/3.jpg",
+   "posts/2026-11-13-feed-7-habitos-gas-render/4.jpg",
+   "posts/2026-11-13-feed-7-habitos-gas-render/5.jpg"
   ],
   "agendado_para": "2026-11-13T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva o post",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-14-story-0830",
+  "id": "2026-11-14-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Sábado de cozinha cheia",
+  "abordagem": "story: O gás de cozinha tem cheiro?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-14-story-0830/1.jpg"
+   "posts/2026-11-14-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-14T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda SIM ou NÃO 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-14-feed-sexta-confira-gas",
+  "id": "2026-11-14-feed-por-que-gas-tem-cheiro",
   "tipo": "carrossel",
-  "abordagem": "Antes do fim de semana: confira o gás",
-  "legenda": "Fim de semana chegando? Dê uma olhada no gás antes 👀\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Curiosidade: por que o gás tem cheiro",
+  "legenda": "O gás de cozinha quase não tem cheiro. Então de onde vem aquele cheiro forte? 👃\n\nÉ um alarme colocado de propósito. Desliza para entender.\n\n💬 Você sabia? Comenta SIM ou NÃO.\n\n#mitoouverdade #gasdecozinha #segurancaemcasa #botijao",
   "imagens": [
-   "posts/2026-11-14-feed-sexta-confira-gas/1.jpg",
-   "posts/2026-11-14-feed-sexta-confira-gas/2.jpg",
-   "posts/2026-11-14-feed-sexta-confira-gas/3.jpg"
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/1.jpg",
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/2.jpg",
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/3.jpg",
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/4.jpg",
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/5.jpg",
+   "posts/2026-11-14-feed-por-que-gas-tem-cheiro/6.jpg"
   ],
-  "agendado_para": "2026-11-14T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-14T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "manchete",
+  "objetivo": "comentar",
+  "cta": "Você sabia? SIM ou NÃO",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-14-feed-receita-sopa",
+  "id": "2026-11-14-feed-crepioca-5-minutos",
   "tipo": "carrossel",
-  "abordagem": "Receita: sopa de legumes",
-  "legenda": "Sopa de legumes quentinha para a noite 🥕\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Receita: crepioca em 5 minutos",
+  "legenda": "Lanche quentinho em 5 minutos, numa frigideira só 🍳\n\nCrepioca: ovo, tapioca e o recheio que tiver em casa.\n\n🔖 Salva e me conta qual recheio você usaria.\n\n#receitafacil #receitabarata #jantarrapido #cozinhapratica",
   "imagens": [
-   "posts/2026-11-14-feed-receita-sopa/1.jpg",
-   "posts/2026-11-14-feed-receita-sopa/2.jpg",
-   "posts/2026-11-14-feed-receita-sopa/3.jpg",
-   "posts/2026-11-14-feed-receita-sopa/4.jpg"
-  ],
-  "agendado_para": "2026-11-14T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-14-feed-faq-avaliacoes",
-  "tipo": "carrossel",
-  "abordagem": "FAQ: dá para ver a avaliação da revenda?",
-  "legenda": "Dá para ver a avaliação da revenda antes de pedir? Dá sim ⭐\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-14-feed-faq-avaliacoes/1.jpg",
-   "posts/2026-11-14-feed-faq-avaliacoes/2.jpg",
-   "posts/2026-11-14-feed-faq-avaliacoes/3.jpg"
+   "posts/2026-11-14-feed-crepioca-5-minutos/1.jpg",
+   "posts/2026-11-14-feed-crepioca-5-minutos/2.jpg",
+   "posts/2026-11-14-feed-crepioca-5-minutos/3.jpg",
+   "posts/2026-11-14-feed-crepioca-5-minutos/4.jpg",
+   "posts/2026-11-14-feed-crepioca-5-minutos/5.jpg"
   ],
   "agendado_para": "2026-11-14T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva a receita",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-15-story-0830",
+  "id": "2026-11-15-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Domingo de almoço em família",
+  "abordagem": "story: Quem cozinha lava a louça?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-15-story-0830/1.jpg"
+   "posts/2026-11-15-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-15T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda: time A ou time B 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-15-feed-domingo-panelao",
+  "id": "2026-11-15-feed-quem-cozinha-lava-louca",
   "tipo": "carrossel",
-  "abordagem": "Almoço de domingo",
-  "legenda": "Domingo de panelão e mesa cheia 💗 Deixe o gás em dia.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Debate: quem cozinha lava a louça?",
+  "legenda": "Regra da casa: quem cozinha não lava a louça. Concorda? 🍽️\n\nDomingo é dia de panelão e de pia cheia. Veja os dois lados e escolha o seu time.\n\n💬 Time A ou Time B? Comenta aí.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
   "imagens": [
-   "posts/2026-11-15-feed-domingo-panelao/1.jpg",
-   "posts/2026-11-15-feed-domingo-panelao/2.jpg",
-   "posts/2026-11-15-feed-domingo-panelao/3.jpg"
+   "posts/2026-11-15-feed-quem-cozinha-lava-louca/1.jpg",
+   "posts/2026-11-15-feed-quem-cozinha-lava-louca/2.jpg",
+   "posts/2026-11-15-feed-quem-cozinha-lava-louca/3.jpg",
+   "posts/2026-11-15-feed-quem-cozinha-lava-louca/4.jpg",
+   "posts/2026-11-15-feed-quem-cozinha-lava-louca/5.jpg"
   ],
-  "agendado_para": "2026-11-15T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-15T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "manchete",
+  "objetivo": "comentar",
+  "cta": "Time A ou Time B",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-15-feed-pix-cartao-dinheiro",
+  "id": "2026-11-15-feed-pressao-x-panela-comum",
   "tipo": "carrossel",
-  "abordagem": "Pix, cartão ou dinheiro: como escolher na entrega",
-  "legenda": "Pix, cartão ou dinheiro? Você escolhe na hora da entrega 💳\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Economia: panela de pressão x panela comum",
+  "legenda": "Panela de pressão ou panela comum: qual gasta menos gás? 🍲\n\nPara grãos e carnes, a diferença é grande. Para outras coisas, nem tanto.\n\n🔖 Salva e manda pra quem não larga a panela comum.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
   "imagens": [
-   "posts/2026-11-15-feed-pix-cartao-dinheiro/1.jpg",
-   "posts/2026-11-15-feed-pix-cartao-dinheiro/2.jpg",
-   "posts/2026-11-15-feed-pix-cartao-dinheiro/3.jpg"
-  ],
-  "agendado_para": "2026-11-15T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-15-feed-preco-ou-prazo",
-  "tipo": "carrossel",
-  "abordagem": "Menor preço ou menor prazo?",
-  "legenda": "Menor preço ou menor prazo? No app você escolhe o que pesa mais ⚖️\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-15-feed-preco-ou-prazo/1.jpg",
-   "posts/2026-11-15-feed-preco-ou-prazo/2.jpg",
-   "posts/2026-11-15-feed-preco-ou-prazo/3.jpg",
-   "posts/2026-11-15-feed-preco-ou-prazo/4.jpg"
+   "posts/2026-11-15-feed-pressao-x-panela-comum/1.jpg",
+   "posts/2026-11-15-feed-pressao-x-panela-comum/2.jpg",
+   "posts/2026-11-15-feed-pressao-x-panela-comum/3.jpg",
+   "posts/2026-11-15-feed-pressao-x-panela-comum/4.jpg",
+   "posts/2026-11-15-feed-pressao-x-panela-comum/5.jpg",
+   "posts/2026-11-15-feed-pressao-x-panela-comum/6.jpg"
   ],
   "agendado_para": "2026-11-15T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva o post",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-16-story-0830",
+  "id": "2026-11-16-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Segunda com gás em dia",
+  "abordagem": "story: Segunda com o gás em dia?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-16-story-0830/1.jpg"
+   "posts/2026-11-16-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-16T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "clique",
+  "cta": "Responda APP a este story 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-16-feed-receita-panqueca",
+  "id": "2026-11-16-feed-veja-antes-de-pedir",
   "tipo": "carrossel",
-  "abordagem": "Receita: panqueca de frigideira",
-  "legenda": "Panqueca simples para o jantar 🥞\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "App: o que você vê antes de pedir o gás",
+  "legenda": "3 coisas que você pode ver ANTES de pedir o gás 👀\n\nMarca, preço da sua região e prazo de cada revenda. Sem ligar, sem esperar na linha.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
   "imagens": [
-   "posts/2026-11-16-feed-receita-panqueca/1.jpg",
-   "posts/2026-11-16-feed-receita-panqueca/2.jpg",
-   "posts/2026-11-16-feed-receita-panqueca/3.jpg"
+   "posts/2026-11-16-feed-veja-antes-de-pedir/1.jpg",
+   "posts/2026-11-16-feed-veja-antes-de-pedir/2.jpg",
+   "posts/2026-11-16-feed-veja-antes-de-pedir/3.jpg",
+   "posts/2026-11-16-feed-veja-antes-de-pedir/4.jpg",
+   "posts/2026-11-16-feed-veja-antes-de-pedir/5.jpg"
   ],
-  "agendado_para": "2026-11-16T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-16T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "mascote",
+  "objetivo": "clique",
+  "cta": "Comente APP",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-16-feed-cheiro-de-gas",
+  "id": "2026-11-16-feed-arroz-com-sobras",
   "tipo": "carrossel",
-  "abordagem": "Sentiu cheiro de gás: orientação geral",
-  "legenda": "Sentiu cheiro de gás? Mantenha a calma e siga estas orientações. Emergência: 193 🛡️\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Receita: arroz de sobras numa panela só",
+  "legenda": "Sobrou arroz? Vira janta em 15 minutos 🍚\n\nArroz mexido com o que tiver na geladeira: legumes, ovo, frango desfiado. Nada se perde.\n\n🔖 Salva e manda pra quem odeia desperdiçar comida.\n\n#receitafacil #receitabarata #jantarrapido #cozinhapratica",
   "imagens": [
-   "posts/2026-11-16-feed-cheiro-de-gas/1.jpg",
-   "posts/2026-11-16-feed-cheiro-de-gas/2.jpg",
-   "posts/2026-11-16-feed-cheiro-de-gas/3.jpg"
-  ],
-  "agendado_para": "2026-11-16T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-16-feed-finalize-pedido",
-  "tipo": "carrossel",
-  "abordagem": "Finalizar o pedido: nome e celular",
-  "legenda": "Finalizar o pedido é rápido: só nome e celular 📱\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-16-feed-finalize-pedido/1.jpg",
-   "posts/2026-11-16-feed-finalize-pedido/2.jpg",
-   "posts/2026-11-16-feed-finalize-pedido/3.jpg"
+   "posts/2026-11-16-feed-arroz-com-sobras/1.jpg",
+   "posts/2026-11-16-feed-arroz-com-sobras/2.jpg",
+   "posts/2026-11-16-feed-arroz-com-sobras/3.jpg",
+   "posts/2026-11-16-feed-arroz-com-sobras/4.jpg",
+   "posts/2026-11-16-feed-arroz-com-sobras/5.jpg"
   ],
   "agendado_para": "2026-11-16T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva a receita",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-17-story-0830",
+  "id": "2026-11-17-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Pix, cartão ou dinheiro",
+  "abordagem": "story: Como você sabe que o gás está acabando?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-17-story-0830/1.jpg"
+   "posts/2026-11-17-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-17T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-17-feed-panela-certa",
+  "id": "2026-11-17-feed-sinais-gas-acabando",
   "tipo": "carrossel",
-  "abordagem": "Economia: panela do tamanho certo",
-  "legenda": "Panela do tamanho certo ajuda o gás a render 🍲\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Curiosidade: sinais de que o gás está acabando",
+  "legenda": "4 sinais de que o gás está acabando ⏳\n\nPerceber antes evita aquele susto no meio do almoço.\n\n💬 Qual sinal você usa? Comenta o número.\n\n#mitoouverdade #gasdecozinha #segurancaemcasa #botijao",
   "imagens": [
-   "posts/2026-11-17-feed-panela-certa/1.jpg",
-   "posts/2026-11-17-feed-panela-certa/2.jpg",
-   "posts/2026-11-17-feed-panela-certa/3.jpg"
+   "posts/2026-11-17-feed-sinais-gas-acabando/1.jpg",
+   "posts/2026-11-17-feed-sinais-gas-acabando/2.jpg",
+   "posts/2026-11-17-feed-sinais-gas-acabando/3.jpg",
+   "posts/2026-11-17-feed-sinais-gas-acabando/4.jpg",
+   "posts/2026-11-17-feed-sinais-gas-acabando/5.jpg",
+   "posts/2026-11-17-feed-sinais-gas-acabando/6.jpg"
   ],
-  "agendado_para": "2026-11-17T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-17T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "mascote",
+  "objetivo": "comentar",
+  "cta": "Qual sinal você usa?",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-17-feed-pedir-outro-endereco",
+  "id": "2026-11-17-feed-so-quem-ficou-sem-gas",
   "tipo": "carrossel",
-  "abordagem": "Pedir para outro endereço",
-  "legenda": "Vai mandar gás para a casa da mãe? Dá para pedir para outro endereço 🏠\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Humor: coisas que só quem ficou sem gás entende",
+  "legenda": "Coisas que só quem já ficou sem gás entende 😂\n\nSe você nunca passou por isso, parabéns. Se passou, já sabe.\n\n👉 Manda pra quem sempre deixa o gás acabar.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
   "imagens": [
-   "posts/2026-11-17-feed-pedir-outro-endereco/1.jpg",
-   "posts/2026-11-17-feed-pedir-outro-endereco/2.jpg",
-   "posts/2026-11-17-feed-pedir-outro-endereco/3.jpg"
-  ],
-  "agendado_para": "2026-11-17T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-17-feed-receita-cuscuz",
-  "tipo": "carrossel",
-  "abordagem": "Receita: cuscuz no café da manhã",
-  "legenda": "Cuscuz quentinho no café da manhã ☕\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-17-feed-receita-cuscuz/1.jpg",
-   "posts/2026-11-17-feed-receita-cuscuz/2.jpg",
-   "posts/2026-11-17-feed-receita-cuscuz/3.jpg"
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/1.jpg",
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/2.jpg",
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/3.jpg",
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/4.jpg",
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/5.jpg",
+   "posts/2026-11-17-feed-so-quem-ficou-sem-gas/6.jpg"
   ],
   "agendado_para": "2026-11-17T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "manchete",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem sempre deixa acabar",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-18-story-0830",
+  "id": "2026-11-18-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Já anotou a data da troca?",
+  "abordagem": "story: Forno ligado hoje?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-18-story-0830/1.jpg"
+   "posts/2026-11-18-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-18T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-18-feed-hora-de-pedir",
+  "id": "2026-11-18-feed-forno-5-truques",
   "tipo": "carrossel",
-  "abordagem": "Hora de pedir de novo",
-  "legenda": "Já faz um tempo da última troca? Talvez seja hora de pedir de novo 🔁\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Economia: 5 truques do forno",
+  "legenda": "O forno é um dos maiores gastos de gás da cozinha 🔥\n\n5 truques simples para assar gastando menos. O nº 1 todo mundo faz errado.\n\n🔖 Salva para o próximo bolo.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
   "imagens": [
-   "posts/2026-11-18-feed-hora-de-pedir/1.jpg",
-   "posts/2026-11-18-feed-hora-de-pedir/2.jpg",
-   "posts/2026-11-18-feed-hora-de-pedir/3.jpg"
+   "posts/2026-11-18-feed-forno-5-truques/1.jpg",
+   "posts/2026-11-18-feed-forno-5-truques/2.jpg",
+   "posts/2026-11-18-feed-forno-5-truques/3.jpg",
+   "posts/2026-11-18-feed-forno-5-truques/4.jpg",
+   "posts/2026-11-18-feed-forno-5-truques/5.jpg"
   ],
-  "agendado_para": "2026-11-18T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-18T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva o post",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-18-feed-uso-do-forno",
+  "id": "2026-11-18-feed-gas-casa-da-mae",
   "tipo": "carrossel",
-  "abordagem": "Economia: uso do forno",
-  "legenda": "Forno aceso pede planejamento: aproveite cada fornada 🔥\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "App: mandar gás para a casa da mãe",
+  "legenda": "Dá para mandar gás para a casa da sua mãe sem sair de casa 💗\n\nNo app você pede para outro endereço: informa o CEP de lá e o pagamento é na entrega.\n\n👉 Manda esse post pra sua mãe (ou pro seu irmão que nunca lembra).\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
   "imagens": [
-   "posts/2026-11-18-feed-uso-do-forno/1.jpg",
-   "posts/2026-11-18-feed-uso-do-forno/2.jpg",
-   "posts/2026-11-18-feed-uso-do-forno/3.jpg"
-  ],
-  "agendado_para": "2026-11-18T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-18-feed-faq-aviso-pedido",
-  "tipo": "carrossel",
-  "abordagem": "FAQ: serei avisado do pedido?",
-  "legenda": "Serei avisado sobre o meu pedido? Acompanhe pelo app 🔔\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-18-feed-faq-aviso-pedido/1.jpg",
-   "posts/2026-11-18-feed-faq-aviso-pedido/2.jpg",
-   "posts/2026-11-18-feed-faq-aviso-pedido/3.jpg"
+   "posts/2026-11-18-feed-gas-casa-da-mae/1.jpg",
+   "posts/2026-11-18-feed-gas-casa-da-mae/2.jpg",
+   "posts/2026-11-18-feed-gas-casa-da-mae/3.jpg",
+   "posts/2026-11-18-feed-gas-casa-da-mae/4.jpg",
+   "posts/2026-11-18-feed-gas-casa-da-mae/5.jpg"
   ],
   "agendado_para": "2026-11-18T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "mascote",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra sua mãe",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-19-story-0830",
+  "id": "2026-11-19-story-0830-v2",
   "tipo": "story",
-  "abordagem": "story: Gás de cozinha na sua porta",
+  "abordagem": "story: Gás na casa da mãe?",
   "legenda": "",
   "imagens": [
-   "posts/2026-11-19-story-0830/1.jpg"
+   "posts/2026-11-19-story-0830-v2/1.jpg"
   ],
   "agendado_para": "2026-11-19T08:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "clique",
+  "cta": "Responda APP a este story 💬",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-19-feed-casa-nova",
+  "id": "2026-11-19-feed-mito-verdade-cozinha",
   "tipo": "carrossel",
-  "abordagem": "Casa nova: botijão completo",
-  "legenda": "Mudança de casa? Peça o botijão completo e comece sem susto 📦\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Mitos e verdades da cozinha",
+  "legenda": "Mito ou verdade da cozinha: quantas você acerta? 🧂\n\nTeste rápido com 3 perguntas. Responde antes de deslizar!\n\n💬 Comenta quantas você acertou: 0, 1, 2 ou 3.\n\n#mitoouverdade #gasdecozinha #segurancaemcasa #botijao",
   "imagens": [
-   "posts/2026-11-19-feed-casa-nova/1.jpg",
-   "posts/2026-11-19-feed-casa-nova/2.jpg",
-   "posts/2026-11-19-feed-casa-nova/3.jpg"
+   "posts/2026-11-19-feed-mito-verdade-cozinha/1.jpg",
+   "posts/2026-11-19-feed-mito-verdade-cozinha/2.jpg",
+   "posts/2026-11-19-feed-mito-verdade-cozinha/3.jpg",
+   "posts/2026-11-19-feed-mito-verdade-cozinha/4.jpg",
+   "posts/2026-11-19-feed-mito-verdade-cozinha/5.jpg"
   ],
-  "agendado_para": "2026-11-19T09:30:00-03:00",
-  "aprovado": true
+  "agendado_para": "2026-11-19T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "manchete",
+  "objetivo": "comentar",
+  "cta": "Quantas você acertou?",
+  "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-19-feed-receita-legumes",
+  "id": "2026-11-19-feed-3-jantas-baratas",
   "tipo": "carrossel",
-  "abordagem": "Receita: legumes salteados",
-  "legenda": "Legumes salteados em poucos minutos 🥦\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
+  "abordagem": "Receitas: 3 jantas baratas numa panela só",
+  "legenda": "3 jantas baratas, cada uma numa panela só 🍲\n\nMenos louça, menos gás e comida gostosa na mesa.\n\n🔖 Salva para a semana e conta qual você faz primeiro.\n\n#receitafacil #receitabarata #jantarrapido #cozinhapratica",
   "imagens": [
-   "posts/2026-11-19-feed-receita-legumes/1.jpg",
-   "posts/2026-11-19-feed-receita-legumes/2.jpg",
-   "posts/2026-11-19-feed-receita-legumes/3.jpg"
-  ],
-  "agendado_para": "2026-11-19T13:00:00-03:00",
-  "aprovado": true
- },
- {
-  "id": "2026-11-19-feed-compare-sem-pressa",
-  "tipo": "carrossel",
-  "abordagem": "Compare sem pressa",
-  "legenda": "Antes de confirmar, dê uma olhada em todas as ofertas 🔍\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#gasdecozinha #botijao #entregadegas #gas #appdonagas",
-  "imagens": [
-   "posts/2026-11-19-feed-compare-sem-pressa/1.jpg",
-   "posts/2026-11-19-feed-compare-sem-pressa/2.jpg",
-   "posts/2026-11-19-feed-compare-sem-pressa/3.jpg",
-   "posts/2026-11-19-feed-compare-sem-pressa/4.jpg"
+   "posts/2026-11-19-feed-3-jantas-baratas/1.jpg",
+   "posts/2026-11-19-feed-3-jantas-baratas/2.jpg",
+   "posts/2026-11-19-feed-3-jantas-baratas/3.jpg",
+   "posts/2026-11-19-feed-3-jantas-baratas/4.jpg",
+   "posts/2026-11-19-feed-3-jantas-baratas/5.jpg"
   ],
   "agendado_para": "2026-11-19T19:30:00-03:00",
-  "aprovado": true
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva as 3 jantas",
+  "lote": "semana3-estrategia"
  }
 ]

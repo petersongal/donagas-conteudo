@@ -101,10 +101,12 @@ Palavras-chave do robô hoje: app, baixar, link, gas, aplicativo. Se usar outra 
 - Palavras de busca naturais: gás de cozinha, botijão, economia, receita rápida, cozinha, cidade quando fizer sentido.
 - CTA do item 7. 3 a 5 hashtags específicas.
 
-## 9. Cadência (proposta, depende de OK do Peterson)
+## 9. Cadência (DECIDIDO — Peterson, 10/11/2026: "faça o que for melhor para o projeto crescer")
 
-- **Agora (sem Reels no sistema):** 2 carrosséis por dia (11h30 e 19h30) + 1 story. Qualidade acima de volume.
-- **Com Reels no sistema:** 1 Reels por dia (12h ou 19h) + 1 carrossel por dia + 1 a 2 stories. Reels gravados por gente: meta de 3 por semana.
+- **Agora (sem Reels no sistema):** 2 carrosséis por dia (11h30 e 19h30) + 1 story (08h30). Qualidade acima de volume.
+- **Com Reels no sistema:** 1 Reels por dia (19h) + 1 carrossel por dia (11h30) + 1 story. 
+- **Vídeos:** o Peterson NÃO terá vídeos gravados pela equipe (10/11). Reels serão 100% feitos com IA (animação do mascote e/ou avatar de IA) — ver seção 11. Todo Reels feito com IA leva o rótulo de IA do Instagram quando for realista.
+- Lote 3 (10/11 19h30 a 19/11) refeito neste padrão em 10/11 (`gerador/semana3.py`, layouts em `gerador/arte2.py`).
 
 ## 10. Metas e medição
 
