@@ -409,25 +409,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-12-reels-visita-chegando",
-  "tipo": "reels",
-  "abordagem": "Reels: acabou o gás com visita chegando",
-  "legenda": "Acabou o gás e a visita já está chegando? 😱\n\nCalma: dá pra resolver pelo celular e pagar só na entrega.\n\n💬 Comente APP que eu te mando o link no direct.\n\n#gasdecozinha #appdonagas #entregadegas #botijao",
-  "imagens": [
-   "posts/2026-11-12-reels-visita-chegando/reel.mp4",
-   "posts/2026-11-12-reels-visita-chegando/capa.jpg"
-  ],
-  "video": "posts/2026-11-12-reels-visita-chegando/reel.mp4",
-  "capa": "posts/2026-11-12-reels-visita-chegando/capa.jpg",
-  "agendado_para": "2026-11-12T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "F",
-  "layout": "reels",
-  "objetivo": "clique",
-  "cta": "Comente APP",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-12-feed-visita-chegando-sem-gas",
   "tipo": "carrossel",
   "abordagem": "App: acabou o gás com visita chegando",

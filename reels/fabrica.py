@@ -247,6 +247,38 @@ def _norm(t):
     return re.findall(r"[a-z0-9]+", t)
 
 
+def alinhar(rot, falas):
+    """Legenda SEMPRE com o texto do roteiro; os tempos vêm do Whisper, casando palavra por palavra.
+    Palavras do roteiro sem par (ex.: Whisper ouviu "a app" no lugar de "APP") recebem tempo interpolado."""
+    import difflib
+    if not falas:
+        return []
+    a = [(_norm(w) or [""])[0] for w in rot]
+    b = [(_norm(f["w"]) or [""])[0] for f in falas]
+    tempos = [None] * len(rot)
+    for blk in difflib.SequenceMatcher(None, a, b, autojunk=False).get_matching_blocks():
+        for k in range(blk.size):
+            f = falas[blk.b + k]
+            tempos[blk.a + k] = (f["s"], f["e"])
+    # interpola os buracos entre vizinhos conhecidos
+    ini, fim = falas[0]["s"], falas[-1]["e"]
+    i = 0
+    while i < len(rot):
+        if tempos[i] is None:
+            j = i
+            while j < len(rot) and tempos[j] is None:
+                j += 1
+            t0 = tempos[i - 1][1] if i > 0 else ini
+            t1 = tempos[j][0] if j < len(rot) else fim
+            passo = max(0.05, (t1 - t0) / (j - i))
+            for k in range(i, j):
+                tempos[k] = (t0 + (k - i) * passo, t0 + (k - i + 1) * passo)
+            i = j
+        else:
+            i += 1
+    return [{"w": w, "s": t[0], "e": t[1]} for w, t in zip(rot, tempos)]
+
+
 def conferir_audio(audio_url, texto_roteiro):
     """Transcreve a narração com Whisper e compara com o texto do roteiro (0 a 1)."""
     import difflib
@@ -264,10 +296,7 @@ def conferir_audio(audio_url, texto_roteiro):
         if w and ts and ts[0] is not None:
             palavras.append({"w": w, "s": float(ts[0]), "e": float(ts[1] if ts[1] is not None else ts[0] + 0.3)})
     # As legendas mostram o texto do ROTEIRO (ortografia certa) nos tempos do Whisper, quando a contagem bate.
-    rot = texto_roteiro.split()
-    if palavras and len(palavras) == len(rot):
-        for p, w in zip(palavras, rot):
-            p["w"] = w                         # mesma contagem: texto do roteiro, tempo do Whisper
+    palavras = alinhar(texto_roteiro.split(), palavras)
     langs = r.get("inferred_languages") or []
     return {"transcricao": transc, "similaridade": round(sim, 3), "idiomas": langs, "palavras": palavras}
 
