@@ -1,0 +1,9 @@
+{
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "voz": "Liam",
+ "similaridade_minima": 0.85,
+ "animacao_mascote": "poses",
+ "musica": "reels/musica/opcao-1-pagode-leve.mp3",
+ "volume_musica_db": -9
+}

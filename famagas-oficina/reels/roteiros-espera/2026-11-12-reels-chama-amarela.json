@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-12-reels-chama-amarela",
+ "quando": "2026-11-12T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e manda pra quem cozinha",
+ "palavra": "CANAL",
+ "abordagem": "Reels: chama amarela gasta mais gás",
+ "lote": "reels-semana1",
+ "legenda": "Se a chama do seu fogão está AMARELA, seu gás está indo embora mais rápido 🔥\n\nChama boa é azul. Amarela ou laranja é sinal de boca suja: o gás queima mal, a panela fica preta e o botijão dura menos. Com o fogão desligado e frio, limpe os furinhos da boca com uma escova seca.\n\n🔖 Salva pra conferir hoje e manda pra quem cozinha na sua casa.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #economiadomestica #dicasdecasa #cozinha #famagas",
+ "gancho": "Chama [amarela]? Você está perdendo gás",
+ "voz": "Olha a chama do seu fogão agora. Está amarela? Então você está perdendo gás. Chama boa é azul. Amarela é sinal de boca suja. Com o fogão desligado e frio, limpe os furinhos com uma escova seca. Salva essa dica!",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Chama boa é [azul]",
+   "sub": "Amarela ou laranja = boca suja. O gás queima mal e acaba antes.",
+   "fundo": "noite",
+   "emoji": "🔥",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e manda pra quem cozinha na sua casa",
+  "mascote": "mascote-cafe.png"
+ }
+}

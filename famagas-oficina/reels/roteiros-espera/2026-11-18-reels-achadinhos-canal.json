@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-18-reels-achadinhos-canal",
+ "quando": "2026-11-18T18:30:00-03:00",
+ "pilar": "F",
+ "formato": "canal",
+ "objetivo": "comentar",
+ "cta": "Comente ACHADINHOS",
+ "palavra": "ACHADINHOS",
+ "abordagem": "Reels: canal de achadinhos (ACHADINHOS)",
+ "legenda": "Eu garimpo os achadinhos de casa pra você não perder tempo 🛒\n\nToda semana: panela, pote e utilidade de cozinha com nota alta e preço bom, num canal de graça no WhatsApp.\n\n💛 Comente ACHADINHOS que eu te mando o link no direct.\n\n#achadinhos #ofertas #utilidadesdomesticas #cozinha #famagas",
+ "gancho": "[Achadinhos] toda semana",
+ "voz": "Toda semana eu escolho achadinhos pra sua casa, com nota alta e preço bom. Panela, pote, utilidade de cozinha. Tudo num canal de graça no WhatsApp. Quer entrar? Comente achadinhos que eu te mando o link.",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-aquecedor.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Nota alta. [Preço bom.]",
+   "sub": "Canal de graça no WhatsApp, toda semana.",
+   "fundo": "noite",
+   "emoji": "🛒",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "Comente [ACHADINHOS]",
+  "sub": "e receba o link no direct",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}

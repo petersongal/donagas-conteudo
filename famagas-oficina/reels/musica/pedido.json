@@ -1,0 +1,7 @@
+{
+ "duracao_ms": 30000,
+ "opcoes": [
+  {"nome": "1-pagode-leve", "prompt": "Short upbeat instrumental background loop for a friendly Brazilian family brand on social media: light samba-pagode groove with cavaquinho, pandeiro, tantan and acoustic guitar, happy Sunday family lunch feeling, simple catchy melody that repeats, steady 104 bpm, no vocals, mixable under a voiceover, seamless loop"},
+  {"nome": "2-forro-alegre", "prompt": "Cheerful modern forro-pop instrumental for short social videos: accordion hook, zabumba and triangle, bright and playful, catchy four-bar melody, 112 bpm, no vocals, sits quietly under narration, seamless loop"}
+ ]
+}

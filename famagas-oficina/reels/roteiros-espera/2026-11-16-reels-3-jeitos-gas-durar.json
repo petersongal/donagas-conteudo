@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-16-reels-3-jeitos-gas-durar",
+ "quando": "2026-11-16T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "lista",
+ "objetivo": "salvar",
+ "cta": "Comente OFERTA",
+ "palavra": "OFERTA",
+ "abordagem": "Reels: 3 jeitos de o gás durar mais (OFERTA)",
+ "legenda": "3 jeitos simples de fazer o gás durar mais 👇\n\n1. Panela sempre com tampa.\n2. Feijão e carne na panela de pressão.\n3. Chama azul e do tamanho do fundo da panela.\n\n🔖 Salva pra lembrar.\n💛 Quer ofertas pra sua cozinha toda semana? Comente OFERTA que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "[3 jeitos] de o gás durar mais",
+ "voz": "Três jeitos de fazer o gás durar mais. Um: panela sempre com tampa. Dois: feijão e carne na panela de pressão. Três: chama azul, do tamanho do fundo da panela. Quer ofertas pra sua cozinha? Comente oferta.",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[1] Tampa\n[2] Pressão\n[3] Chama azul",
+   "sub": "Três hábitos, botijão durando mais.",
+   "fundo": "creme",
+   "dur": 5
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "Comente [OFERTA]",
+  "sub": "e receba ofertas pra sua cozinha",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}

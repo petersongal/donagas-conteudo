@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-17-reels-validade-mangueira",
+ "quando": "2026-11-17T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Confere a sua hoje",
+ "palavra": null,
+ "abordagem": "Reels: a mangueira do gás tem validade",
+ "legenda": "A mangueira do seu gás tem DATA DE VALIDADE e quase ninguém olha 👀\n\nA data vem impressa na própria mangueira e ela vale 5 anos. Passou da data, ressecou ou rachou? É hora de trocar.\n\n🔖 Salva e confere a sua hoje.\n📲 Manda no grupo da família.\n\nEm caso de cheiro forte de gás, saia do local e ligue 193.\n\n#gasdecozinha #segurancaemcasa #dicasdecasa #cozinha #famagas",
+ "gancho": "Sua mangueira [tem validade]",
+ "voz": "A mangueira do seu gás tem data de validade, e quase ninguém olha. A data vem impressa na própria mangueira, e ela vale cinco anos. Passou da data, ressecou ou rachou? É hora de trocar. Confere a sua hoje!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "noite",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Vale [5 anos]",
+   "sub": "A data vem impressa na própria mangueira.",
+   "fundo": "amarelo",
+   "emoji": "👀",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "[Confere] a sua hoje",
+  "sub": "e manda no grupo da família",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}

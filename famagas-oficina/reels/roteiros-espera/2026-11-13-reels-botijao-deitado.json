@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-13-reels-botijao-deitado",
+ "quando": "2026-11-13T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "mito",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem faz isso",
+ "palavra": null,
+ "abordagem": "Reels: botijão deitado rende mais? (mito)",
+ "legenda": "Botijão deitado rende mais? MITO, e ainda é perigoso 🚫\n\nDeitado, o gás pode sair na forma líquida e causar acidente. Não rende nem um pouquinho a mais. Botijão é sempre em pé.\n\n📲 Manda pra aquela pessoa que deita o botijão no fim do gás.\n👇 Você já viu alguém fazer isso? Conta aqui.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Botijão [deitado] rende mais?",
+ "voz": "Tem gente que deita o botijão pra render mais. Não faça isso! Deitado, o gás pode sair líquido e causar acidente. E não rende nada a mais. Botijão é sempre em pé. Manda pra aquela pessoa que faz isso!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "noite",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Mito!] Não rende mais",
+   "sub": "Deitado, o gás pode sair líquido. É perigoso.",
+   "fundo": "amarelo",
+   "emoji": "🚫",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "Botijão é [sempre em pé]",
+  "sub": "Manda pra quem deita o botijão",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}

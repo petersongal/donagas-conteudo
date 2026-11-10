@@ -1,0 +1,13 @@
+{
+ "por_tema": 5,
+ "temas": {
+  "chama-azul": ["gas stove blue flame", "gas burner flame"],
+  "fogao-limpeza": ["cleaning gas stove", "stove burner cleaning", "dirty stove burner"],
+  "botijao": ["gas cylinder kitchen", "lpg cylinder", "botijão de gás"],
+  "macarrao-panela": ["pasta cooking in pan", "spaghetti pot stove"],
+  "almoco-familia": ["family lunch table food", "rice cooking pot"],
+  "panela-pressao": ["pressure cooker", "pot with lid on stove"],
+  "mangueira-gas": ["gas hose regulator", "gas regulator cylinder"],
+  "utensilios-cozinha": ["kitchen utensils pots pans", "cookware set"]
+ }
+}

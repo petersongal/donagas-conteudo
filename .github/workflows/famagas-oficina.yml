@@ -1,0 +1,53 @@
+name: Oficina FamaGás (temporária)
+
+# Produz os Reels do @famagas_ dentro de famagas-oficina/ enquanto o repositório famagas-conteudo não existe.
+# Não mexe em nada do @appdonagas (agenda.json da raiz, posts/, reels/).
+on:
+  push:
+    branches: [main]
+    paths: ["famagas-oficina/reels/**", "famagas-oficina/gerador/arte.py", ".github/workflows/famagas-oficina.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: famagas-oficina
+  cancel-in-progress: false
+
+jobs:
+  oficina:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q playwright pillow requests
+          python -m playwright install --with-deps chromium >/dev/null
+          cd famagas-oficina/gerador && npm i --silent
+      - name: Fotos reais (candidatas)
+        run: cd famagas-oficina && python reels/fotos.py || true
+      - name: Produzir Reels
+        env:
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+          MAX_REELS: "8"
+        run: cd famagas-oficina && python reels/fabrica.py
+      - name: Salvar
+        run: |
+          git config user.name "oficina-famagas"
+          git config user.email "oficina-famagas@users.noreply.github.com"
+          git add famagas-oficina
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -q -m "Oficina FamaGás: fotos e Reels"
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 8; done
+          exit 1

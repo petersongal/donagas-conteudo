@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-14-reels-macarrao-uma-panela",
+ "quando": "2026-11-14T18:30:00-03:00",
+ "pilar": "D",
+ "formato": "receita",
+ "objetivo": "comentar",
+ "cta": "Comente RECEITA",
+ "palavra": "RECEITA",
+ "abordagem": "Reels: janta em uma panela só (RECEITA)",
+ "legenda": "Janta pronta em UMA panela só e em 20 minutos 🍝\n\nMacarrão, molho e tempero, tudo junto. Menos louça na pia e menos gás no fogão.\n\n💛 Comente RECEITA que eu te mando o passo a passo completo no direct.\n🔖 Salva pra fazer hoje à noite.\n\n#receitafacil #jantarapida #macarrao #cozinha #famagas",
+ "gancho": "Janta em [uma panela só]",
+ "voz": "Janta em uma panela só, e em vinte minutos. Macarrão, molho e tempero, tudo junto. Menos louça e menos gás. Quer a receita completa? Comente receita que eu te mando agora no seu direct.",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Tudo junto. [20 minutos.]",
+   "sub": "Macarrão, molho e tempero na mesma panela.",
+   "fundo": "creme",
+   "emoji": "🍝",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "Comente [RECEITA]",
+  "sub": "e receba o passo a passo no direct",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}

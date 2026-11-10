@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-15-reels-gas-acaba-domingo",
+ "quando": "2026-11-15T18:30:00-03:00",
+ "pilar": "A",
+ "formato": "humor",
+ "objetivo": "compartilhar",
+ "cta": "Marca quem só lembra do gás quando acaba",
+ "palavra": null,
+ "abordagem": "Reels: o gás só acaba no pior momento (humor)",
+ "legenda": "O gás NUNCA acaba numa terça à tarde 😅\n\nÉ sempre no domingo, com o arroz pela metade e a visita na sala.\n\n📲 Marca aquela pessoa que só lembra do gás quando ele acaba.\n👇 Qual foi o pior momento em que o seu gás acabou?\n\n#gasdecozinha #humor #domingo #vidadecasa #famagas",
+ "gancho": "O gás só acaba [nessa hora]",
+ "voz": "O gás nunca acaba numa terça à tarde. Ele acaba no domingo, com o arroz pela metade, a visita na sala e a chuva lá fora. Marca aquela pessoa que só lembra do gás quando ele acaba!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Domingo. [Arroz pela metade.]",
+   "sub": "Visita na sala. Chuva lá fora.",
+   "fundo": "noite",
+   "emoji": "😅",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "[Marca] essa pessoa",
+  "sub": "que só lembra do gás quando acaba",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana1"
+}
