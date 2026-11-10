@@ -1,6 +1,6 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-10T22:29:05.640Z",
+ "gerado_em": "2026-11-10T23:06:36.102Z",
  "ultima_coleta": "2026-11-10T22:15:07.384Z",
  "seguidores_hist": [
   {
@@ -369,6 +369,39 @@
    "publicado_em": "2026-11-10T20:30:49.54+00:00",
    "status": "publicado",
    "permalink": "https://www.instagram.com/reel/DfkxK6DNFX8/",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-11-reels-ovo-cozido",
+   "tipo": "reels",
+   "abordagem": "Reels: ovo cozido gastando menos gás",
+   "agendado_para": "2026-11-10T22:20:00+00:00",
+   "publicado_em": "2026-11-10T22:30:46.196+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/reel/Dfk-6B9AkkZ/",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-10-feed-passo-enderecos",
+   "tipo": "carrossel",
+   "abordagem": "Passo a passo: salve seus endereços",
+   "agendado_para": "2026-11-10T22:30:00+00:00",
+   "publicado_em": "2026-11-10T22:45:37.176+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DflApHQE1nM/",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-10-feed-tipos-quando-o-gas-acaba",
+   "tipo": "carrossel",
+   "abordagem": "Humor: tipos de pessoa quando o gás acaba",
+   "agendado_para": "2026-11-10T22:30:00+00:00",
+   "publicado_em": "2026-11-10T23:01:12.776+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DflCbHNE8V2/",
    "metricas": null,
    "metricas_em": null
   }
