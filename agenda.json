@@ -331,6 +331,25 @@
   "lote": "semana3-estrategia"
  },
  {
+  "id": "2026-11-12-reels-botijao-deitado",
+  "tipo": "reels",
+  "abordagem": "Reels: botijão deitado rende mais?",
+  "legenda": "Botijão deitado rende mais? 🤔\n\nMuita gente acredita nisso. Mas não é verdade: botijão é sempre em pé.\n\n💬 Comenta aí: você achava que era verdade?\n\n#mitoouverdade #gasdecozinha #botijao #dicasdecasa",
+  "imagens": [
+   "posts/2026-11-12-reels-botijao-deitado/reel.mp4",
+   "posts/2026-11-12-reels-botijao-deitado/capa.jpg"
+  ],
+  "video": "posts/2026-11-12-reels-botijao-deitado/reel.mp4",
+  "capa": "posts/2026-11-12-reels-botijao-deitado/capa.jpg",
+  "agendado_para": "2026-11-11T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comenta: você achava que era verdade?",
+  "lote": "reels-teste"
+ },
+ {
   "id": "2026-11-11-feed-botijao-deitado-mito",
   "tipo": "carrossel",
   "abordagem": "Mitos e verdades: botijão deitado",

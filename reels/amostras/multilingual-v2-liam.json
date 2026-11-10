@@ -1,0 +1,9 @@
+{
+ "modelo": "fal-ai/elevenlabs/tts/multilingual-v2",
+ "voz": "Liam",
+ "transcricao": " Fala, gente! Sabia que tampar a panela faz o gás render muito mais? Comenta aqui se você já fazia isso.",
+ "similaridade": 1.0,
+ "idiomas": [
+  "pt"
+ ]
+}

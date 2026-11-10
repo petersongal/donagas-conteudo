@@ -1,0 +1,27 @@
+{
+ "roteiro": "Tem gente que deita o botijão achando que o gás rende mais. Mito! Botijão fica sempre em pé. Deitado não rende mais e ainda não é seguro. Comenta aqui: você achava que era verdade?",
+ "transcricao": " Tem gente que deita o botijão achando que o gás rende mais. Mito! Botijão fica sempre em pé. Deitado não rende mais e ainda não é seguro. Comenta aqui, você achava que era verdade?",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Tem gente que",
+  "deita o botijão",
+  "achando que o",
+  "gás rende mais.",
+  "Mito!",
+  "Botijão fica sempre",
+  "em pé.",
+  "Deitado não rende",
+  "mais e ainda",
+  "não é seguro.",
+  "Comenta aqui:",
+  "você achava que",
+  "era verdade?"
+ ],
+ "duracao_s": 16.8
+}
