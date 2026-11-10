@@ -57,3 +57,7 @@ Desde então `reels/config.json` usa `"animacao_mascote": "poses"`: cada cena "i
 balançando e trocando de pose no meio da cena (`POSE_SEGUINTE` em fabrica.py, ou a lista `"poses"` na cena). A boca nunca se mexe.
 O campo `movimento` fica sem uso nesse modo. Só a voz (ElevenLabs) e a conferência (Whisper) gastam créditos.
 Para voltar à IA de vídeo só com aprovação do Peterson, depois de testar e conferir a boca quadro a quadro.
+
+## Trilha padrão (escolha do Peterson em 10/11)
+Todos os Reels levam a trilha `reels/musica/opcao-1-alegre-violao.mp3` (ElevenLabs Music, instrumental, violão alegre),
+em loop, a -16 dB, com fade e abaixando sozinha enquanto a voz fala. Configurada em `reels/config.json` (`musica`, `volume_musica_db`).
