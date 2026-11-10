@@ -350,25 +350,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-11-reels-ovo-cozido",
-  "tipo": "reels",
-  "abordagem": "Reels: ovo cozido gastando menos gás",
-  "legenda": "O truque do ovo cozido que gasta menos gás 🥚\n\nVocê não precisa deixar o fogo ligado o tempo todo.\n\n🔖 Salva e testa amanhã no café da manhã.\n\n#dicasdecasa #economiadomestica #gasdecozinha #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
-   "posts/2026-11-11-reels-ovo-cozido/capa.jpg"
-  ],
-  "video": "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
-  "capa": "posts/2026-11-11-reels-ovo-cozido/capa.jpg",
-  "agendado_para": "2026-11-11T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "B",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva o truque",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-11-feed-botijao-deitado-mito",
   "tipo": "carrossel",
   "abordagem": "Mitos e verdades: botijão deitado",
@@ -505,25 +486,6 @@
   "objetivo": "compartilhar",
   "cta": "Marca quem já passou pela fase 3",
   "lote": "semana3-estrategia"
- },
- {
-  "id": "2026-11-13-reels-7-habitos",
-  "tipo": "reels",
-  "abordagem": "Reels: 3 hábitos que fazem o gás render",
-  "legenda": "3 hábitos que fazem o botijão durar mais 🔥\n\nO terceiro quase ninguém faz.\n\n🔖 Salva pra lembrar na hora de cozinhar.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-13-reels-7-habitos/reel.mp4",
-   "posts/2026-11-13-reels-7-habitos/capa.jpg"
-  ],
-  "video": "posts/2026-11-13-reels-7-habitos/reel.mp4",
-  "capa": "posts/2026-11-13-reels-7-habitos/capa.jpg",
-  "agendado_para": "2026-11-13T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "B",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva o vídeo",
-  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-13-feed-7-habitos-gas-render",

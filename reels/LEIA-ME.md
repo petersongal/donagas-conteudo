@@ -46,3 +46,7 @@ nunca escreva "talking", "says" ou "explains". A fábrica já reforça isso no p
 
 Conferência: depois que a fábrica roda, baixar `posts/<id>/reel.mp4`, extrair quadros (ffmpeg -ss) e olhar com Read.
 Se o mascote deformou, marcar `"aprovado": false` no item da agenda e refazer o roteiro com outro movimento.
+
+## Pronúncia (voz Brian, escolhida pelo Peterson em 10/11)
+- A conferência (Whisper) mostrou que a voz pronuncia mal "tampe" (saiu "tanque"/"tante"): use "coloque a tampa", "com tampa", "tampada".
+- Sempre que a transcrição trocar uma palavra do roteiro por outra parecida (não números nem pontuação), reescreva a frase e refaça o Reels.
