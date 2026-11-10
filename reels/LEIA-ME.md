@@ -50,3 +50,10 @@ Se o mascote deformou, marcar `"aprovado": false` no item da agenda e refazer o 
 ## Pronúncia (voz Brian, escolhida pelo Peterson em 10/11)
 - A conferência (Whisper) mostrou que a voz pronuncia mal "tampe" (saiu "tanque"/"tante"): use "coloque a tampa", "com tampa", "tampada".
 - Sempre que a transcrição trocar uma palavra do roteiro por outra parecida (não números nem pontuação), reescreva a frase e refaça o Reels.
+
+## Animação do mascote SEM IA (decisão de 10/11, à noite)
+A IA de vídeo (Kling) mexia a boca do mascote como se ele falasse, mesmo com o pedido de não falar, e isso ficou ruim no 1º Reels publicado.
+Desde então `reels/config.json` usa `"animacao_mascote": "poses"`: cada cena "ia" vira o mascote oficial (PNG) entrando com um pulo,
+balançando e trocando de pose no meio da cena (`POSE_SEGUINTE` em fabrica.py, ou a lista `"poses"` na cena). A boca nunca se mexe.
+O campo `movimento` fica sem uso nesse modo. Só a voz (ElevenLabs) e a conferência (Whisper) gastam créditos.
+Para voltar à IA de vídeo só com aprovação do Peterson, depois de testar e conferir a boca quadro a quadro.

@@ -31,6 +31,7 @@ MODELO_VIDEO = os.environ.get("MODELO_VIDEO") or CFG.get("modelo_video", "fal-ai
 MODELO_VOZ = os.environ.get("MODELO_VOZ") or CFG.get("modelo_voz", "elevenlabs/tts/eleven-v4-turbo")
 VOZ = os.environ.get("VOZ") or CFG.get("voz", "Brian")
 SIMILARIDADE_MINIMA = float(CFG.get("similaridade_minima", 0.85))
+ANIMACAO = CFG.get("animacao_mascote", "poses")   # "poses" (sem IA, boca parada) ou "ia" (Kling)
 MAX_POR_EXECUCAO = int(os.environ.get("MAX_REELS", "3"))
 W, H = 1080, 1920
 TMP = RAIZ / ".reels-tmp"
@@ -75,6 +76,52 @@ def quadro_cena(mascote, fundo="marinho"):
     <img class="mascote" src="{m}" style="height:1180px;left:50%;transform:translateX(-50%);top:430px">
     """
     return doc(W, H, body, cls)
+
+
+def quadro_fundo(fundo="marinho"):
+    """Cenário da marca SEM o mascote (o mascote entra por cima, animado pelo ffmpeg)."""
+    cls = "marinho tx-listras" if fundo == "marinho" else "rosa tx-listras"
+    palco = "palco" if fundo == "marinho" else "palco rosa-p"
+    body = f"""
+    <div class="brilho" style="width:900px;height:900px;background:{'#FF47A3' if fundo=='marinho' else '#fff'};opacity:.35;left:90px;top:520px"></div>
+    {chama_bg(-160, 1300, 560, -16)}{chama_bg(760, 160, 380, 12)}
+    <div class="{palco}" style="width:820px;height:820px;left:130px;top:620px"></div>
+    """
+    return doc(W, H, body, cls)
+
+
+# Decisão de 10/11 (Peterson): a IA de vídeo mexia a boca como se falasse. O mascote passa a ser
+# animado SEM IA: as poses oficiais entram pulando, balançam e trocam a cada parte da frase.
+# A boca nunca se mexe. Para cada pose principal, a pose que entra em seguida ("caras e bocas"):
+POSE_SEGUINTE = {
+    "mascote-pensando.png": "mascote-joia.png", "mascote-chef.png": "mascote-joia.png",
+    "mascote-celular.png": "mascote-joia.png", "mascote-correndo.png": "mascote-pensando.png",
+    "mascote-joia.png": "mascote-celular.png", "mascote-maquininha.png": "mascote-joia.png",
+}
+
+
+def cena_pose(fundo_png, poses, dur, dest):
+    """Cada pose ocupa uma fatia do tempo: entra de baixo com um pulo, balança de leve e respira."""
+    partes = []
+    fatia = dur / len(poses)
+    for i, pose in enumerate(poses):
+        out = str(dest).replace(".mp4", f"-p{i}.mp4")
+        alt = 1060 if pose != "mascote-joia.png" else 880   # joia é mais largo: menor para caber no palco
+        topo = 600 if pose != "mascote-joia.png" else 760   # abaixo do gancho (até ~560 px); pés perto de 1660
+        filtro = (
+            f"[1:v]scale=-1:{alt},format=rgba,"
+            f"rotate='0.03*sin(2*PI*t*0.8)':c=none:ow=rotw(0.06):oh=roth(0.06)[m];"
+            f"[0:v][m]overlay=x='(W-w)/2':"
+            f"y='{topo}+14*sin(2*PI*t*1.1)+if(lt(t,0.32),(0.32-t)*(0.32-t)*5200,0)':shortest=1,"
+            f"fps=30,format=yuv420p"
+        )
+        sh(["ffmpeg", "-y", "-v", "error", "-loop", "1", "-i", str(fundo_png), "-loop", "1", "-i", str(A / pose),
+            "-filter_complex", filtro, "-t", f"{fatia:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", out])
+        partes.append(out)
+    lista = str(dest).replace(".mp4", "-lista.txt")
+    Path(lista).write_text("".join(f"file '{p}'\n" for p in partes))
+    sh(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lista, "-c", "copy", str(dest)])
+    return dest
 
 
 def cartao_texto(titulo, sub="", fundo="claro", emoji=""):
@@ -369,7 +416,10 @@ def produzir(rot):
     # 2) cenas
     jobs, cenas = [], rot["cenas"]
     for i, c in enumerate(cenas):
-        if c["tipo"] == "ia":
+        if c["tipo"] == "ia" and ANIMACAO == "poses":
+            jobs.append((quadro_fundo(c.get("fundo", "marinho")), str(pasta / f"fundo{i}.png")))
+            jobs.append((quadro_cena(c["mascote"], c.get("fundo", "marinho")), str(pasta / f"q{i}.png")))  # capa
+        elif c["tipo"] == "ia":
             jobs.append((quadro_cena(c["mascote"], c.get("fundo", "marinho")), str(pasta / f"q{i}.png")))
         else:
             jobs.append((cartao_texto(c["titulo"], c.get("sub", ""), c.get("fundo", "claro"), c.get("emoji", "")), str(pasta / f"q{i}.png")))
@@ -384,7 +434,10 @@ def produzir(rot):
     clipes = []
     for i, c in enumerate(cenas):
         dest = pasta / f"c{i}.mp4"
-        if c["tipo"] == "ia":
+        if c["tipo"] == "ia" and ANIMACAO == "poses":
+            poses = c.get("poses") or [c["mascote"], POSE_SEGUINTE.get(c["mascote"], "mascote-joia.png")]
+            cena_pose(pasta / f"fundo{i}.png", poses, c.get("dur", 5), dest)
+        elif c["tipo"] == "ia":
             ia_dur = min(10, c.get("dur", 5))
             cena_ia(pasta / f"q{i}.png", c.get("movimento", "the character smiles and waves"), ia_dur, dest)
             if c.get("dur", 5) > ia_dur + 0.05:  # completa com o último quadro parado

@@ -2,5 +2,6 @@
  "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
  "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
  "voz": "Brian",
- "similaridade_minima": 0.85
+ "similaridade_minima": 0.85,
+ "animacao_mascote": "poses"
 }

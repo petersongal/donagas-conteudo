@@ -40,7 +40,7 @@ jobs:
       - name: Produzir Reels
         env:
           FAL_KEY: ${{ secrets.FAL_KEY }}
-          MAX_REELS: "4"
+          MAX_REELS: "12"
         run: python reels/fabrica.py
       - name: Salvar no repositório
         env:
