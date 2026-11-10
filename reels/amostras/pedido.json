@@ -1,0 +1,9 @@
+{
+ "texto": "Fala, gente! Sabia que tampar a panela faz o gás render muito mais? Comenta aqui se você já fazia isso!",
+ "candidatas": [
+  {"modelo": "elevenlabs/tts/eleven-v4-turbo", "voz": "Brian"},
+  {"modelo": "elevenlabs/tts/eleven-v4-turbo", "voz": "Liam"},
+  {"modelo": "elevenlabs/tts/eleven-v4-turbo", "voz": "Eric"},
+  {"modelo": "fal-ai/elevenlabs/tts/multilingual-v2", "voz": "Liam"}
+ ]
+}

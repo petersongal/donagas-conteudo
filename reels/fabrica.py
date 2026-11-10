@@ -25,9 +25,12 @@ sys.path.insert(0, str(RAIZ / "gerador"))
 from arte import A, b64, doc, esc, chama_bg, marca, render  # noqa: E402
 
 FAL_KEY = os.environ.get("FAL_KEY", "").strip()
-MODELO_VIDEO = os.environ.get("MODELO_VIDEO", "fal-ai/kling-video/v2.6/pro/image-to-video")
-MODELO_VOZ = os.environ.get("MODELO_VOZ", "elevenlabs/tts/eleven-v4-turbo")
-VOZ = os.environ.get("VOZ", "Brian")
+_CFG_P = Path(__file__).resolve().parent / "config.json"
+CFG = json.loads(_CFG_P.read_text()) if _CFG_P.exists() else {}
+MODELO_VIDEO = os.environ.get("MODELO_VIDEO") or CFG.get("modelo_video", "fal-ai/kling-video/v2.6/pro/image-to-video")
+MODELO_VOZ = os.environ.get("MODELO_VOZ") or CFG.get("modelo_voz", "elevenlabs/tts/eleven-v4-turbo")
+VOZ = os.environ.get("VOZ") or CFG.get("voz", "Brian")
+SIMILARIDADE_MINIMA = float(CFG.get("similaridade_minima", 0.85))
 MAX_POR_EXECUCAO = int(os.environ.get("MAX_REELS", "3"))
 W, H = 1080, 1920
 TMP = RAIZ / ".reels-tmp"
@@ -212,7 +215,43 @@ def narracao(texto, dest):
     mp3 = str(dest).replace(".m4a", ".mp3")
     baixar(res["audio"]["url"], mp3)
     sh(["ffmpeg", "-y", "-v", "error", "-i", mp3, "-c:a", "aac", "-b:a", "160k", str(dest)])
+    # Conferência independente: outra IA (Whisper) ouve a voz e transcreve com tempo por palavra.
+    conf = conferir_audio(res["audio"]["url"], texto)
+    globals()["_ULTIMA_CONFERENCIA"] = conf
+    if conf.get("palavras"):
+        return dest, conf["palavras"]          # legendas sincronizadas com o que foi realmente falado
     return dest, palavras_dos_tempos(res.get("timestamps"), texto, duracao(dest))
+
+
+def _norm(t):
+    t = unicodedata.normalize("NFKD", t.lower())
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    return re.findall(r"[a-z0-9]+", t)
+
+
+def conferir_audio(audio_url, texto_roteiro):
+    """Transcreve a narração com Whisper e compara com o texto do roteiro (0 a 1)."""
+    import difflib
+    try:
+        r = fal("fal-ai/whisper", {"audio_url": audio_url, "task": "transcribe", "language": "pt", "chunk_level": "word"}, timeout=300)
+    except Exception as e:
+        log("conferência de áudio falhou:", e)
+        return {"erro": str(e)}
+    transc = r.get("text", "")
+    sim = difflib.SequenceMatcher(None, _norm(texto_roteiro), _norm(transc)).ratio()
+    palavras = []
+    for c in r.get("chunks") or []:
+        ts = c.get("timestamp") or [c.get("start"), c.get("end")]
+        w = str(c.get("text", "")).strip()
+        if w and ts and ts[0] is not None:
+            palavras.append({"w": w, "s": float(ts[0]), "e": float(ts[1] if ts[1] is not None else ts[0] + 0.3)})
+    # As legendas mostram o texto do ROTEIRO (ortografia certa) nos tempos do Whisper, quando a contagem bate.
+    rot = texto_roteiro.split()
+    if palavras and len(palavras) == len(rot):
+        for p, w in zip(palavras, rot):
+            p["w"] = w                         # mesma contagem: texto do roteiro, tempo do Whisper
+    langs = r.get("inferred_languages") or []
+    return {"transcricao": transc, "similaridade": round(sim, 3), "idiomas": langs, "palavras": palavras}
 
 
 def palavras_dos_tempos(ts, texto, dur_total):
@@ -344,8 +383,31 @@ def produzir(rot):
     capa_png = pasta / "capa.png"
     sh(["ffmpeg", "-y", "-v", "error", "-i", str(pasta / "q0.png"), "-i", str(pasta / "gancho.png"), "-filter_complex", "overlay=0:0", str(capa_png)])
     sh(["ffmpeg", "-y", "-v", "error", "-i", str(capa_png), "-q:v", "3", str(saida / "capa.jpg")])
-    log(rid, f"pronto: {final.relative_to(RAIZ)} ({duracao(final):.1f}s, {final.stat().st_size/1e6:.1f} MB)")
+    conf = globals().get("_ULTIMA_CONFERENCIA") or {}
+    (saida / "verificacao.json").write_text(json.dumps({
+        "roteiro": rot["voz"], "transcricao": conf.get("transcricao"), "similaridade": conf.get("similaridade"),
+        "idiomas_detectados": conf.get("idiomas"), "voz": VOZ, "modelo_voz": MODELO_VOZ, "modelo_video": MODELO_VIDEO,
+        "legendas": [b["t"] for b in blocos], "duracao_s": round(duracao(final), 1),
+    }, ensure_ascii=False, indent=1))
+    log(rid, f"pronto: {final.relative_to(RAIZ)} ({duracao(final):.1f}s, {final.stat().st_size/1e6:.1f} MB), similaridade da voz {conf.get('similaridade')}")
     return final
+
+
+def amostras():
+    """Gera amostras de voz (reels/amostras/pedido.json) para o Peterson escolher de ouvido."""
+    pasta = RAIZ / "reels" / "amostras"
+    ped = json.loads((pasta / "pedido.json").read_text())
+    for c in ped["candidatas"]:
+        nome = re.sub(r"[^a-z0-9]+", "-", f"{c['modelo'].split('/')[-1]}-{c['voz']}".lower())
+        mp3 = pasta / f"{nome}.mp3"
+        if mp3.exists():
+            continue
+        res = fal(c["modelo"], {"text": ped["texto"], "voice": c["voz"], "language_code": "pt", "stability": 0.45, "similarity_boost": 0.8}, timeout=300)
+        baixar(res["audio"]["url"], mp3)
+        conf = conferir_audio(res["audio"]["url"], ped["texto"])
+        conf.pop("palavras", None)
+        (pasta / f"{nome}.json").write_text(json.dumps({"modelo": c["modelo"], "voz": c["voz"], **conf}, ensure_ascii=False, indent=1))
+        log("amostra", nome, conf.get("similaridade"))
 
 
 def main():
@@ -365,7 +427,11 @@ def main():
         log("produzindo", rid, "(MODO TESTE, sem IA)" if not FAL_KEY else "")
         produzir(rot)
         feitos += 1
-        if FAL_KEY and rid not in ids:  # só agenda vídeo de verdade
+        conf = globals().get("_ULTIMA_CONFERENCIA") or {}
+        voz_ok = (conf.get("similaridade") or 0) >= SIMILARIDADE_MINIMA
+        if FAL_KEY and not voz_ok:
+            log(rid, "VOZ REPROVADA na conferência (similaridade", conf.get("similaridade"), ") — não vai para a agenda")
+        if FAL_KEY and voz_ok and rid not in ids:  # só agenda vídeo de verdade e com a voz conferida
             from datetime import datetime, timedelta, timezone
             quando = datetime.fromisoformat(rot["quando"])
             agora = datetime.now(timezone.utc)
@@ -386,4 +452,9 @@ def main():
 
 
 if __name__ == "__main__":
+    if FAL_KEY and (RAIZ / "reels" / "amostras" / "pedido.json").exists():
+        try:
+            amostras()
+        except Exception as e:
+            log("amostras de voz falharam:", e)
     main()
