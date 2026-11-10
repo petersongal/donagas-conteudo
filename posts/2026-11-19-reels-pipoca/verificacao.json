@@ -1,0 +1,28 @@
+{
+ "roteiro": "Pipoca de panela gastando menos gás. Use fogo médio e panela com tampa. Quando os estouros diminuírem, desligue o fogo: o calor da panela termina o serviço. Salva esse truque pra sessão de filme!",
+ "transcricao": " Tipoca de panela gastando menos gás. Use fogo médio e panela com tampa. Quando os estouros diminuírem, desligue o fogo. O calor da panela termina o serviço. Salva esse truque para a sessão de filme!",
+ "similaridade": 0.928,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Pipoca de panela",
+  "gastando menos gás.",
+  "Use fogo médio",
+  "e panela com",
+  "tampa.",
+  "Quando os estouros",
+  "diminuírem,",
+  "desligue o fogo:",
+  "o calor da",
+  "panela termina o",
+  "serviço.",
+  "Salva esse truque",
+  "pra sessão de",
+  "filme!"
+ ],
+ "duracao_s": 16.8
+}
