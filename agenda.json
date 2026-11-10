@@ -350,25 +350,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-11-reels-ovo-cozido",
-  "tipo": "reels",
-  "abordagem": "Reels: ovo cozido gastando menos gás",
-  "legenda": "O truque do ovo cozido que gasta menos gás 🥚\n\nVocê não precisa deixar o fogo ligado o tempo todo.\n\n🔖 Salva e testa amanhã no café da manhã.\n\n#dicasdecasa #economiadomestica #gasdecozinha #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
-   "posts/2026-11-11-reels-ovo-cozido/capa.jpg"
-  ],
-  "video": "posts/2026-11-11-reels-ovo-cozido/reel.mp4",
-  "capa": "posts/2026-11-11-reels-ovo-cozido/capa.jpg",
-  "agendado_para": "2026-11-11T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "B",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva o truque",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-11-feed-botijao-deitado-mito",
   "tipo": "carrossel",
   "abordagem": "Mitos e verdades: botijão deitado",
@@ -426,25 +407,6 @@
   "objetivo": "salvar",
   "cta": "Salva a receita",
   "lote": "semana3-estrategia"
- },
- {
-  "id": "2026-11-12-reels-visita-chegando",
-  "tipo": "reels",
-  "abordagem": "Reels: acabou o gás com visita chegando",
-  "legenda": "Acabou o gás e a visita já está chegando? 😱\n\nCalma: dá pra resolver pelo celular e pagar só na entrega.\n\n💬 Comente APP que eu te mando o link no direct.\n\n#gasdecozinha #appdonagas #entregadegas #botijao",
-  "imagens": [
-   "posts/2026-11-12-reels-visita-chegando/reel.mp4",
-   "posts/2026-11-12-reels-visita-chegando/capa.jpg"
-  ],
-  "video": "posts/2026-11-12-reels-visita-chegando/reel.mp4",
-  "capa": "posts/2026-11-12-reels-visita-chegando/capa.jpg",
-  "agendado_para": "2026-11-12T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "F",
-  "layout": "reels",
-  "objetivo": "clique",
-  "cta": "Comente APP",
-  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-12-feed-visita-chegando-sem-gas",
@@ -507,25 +469,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-13-reels-7-habitos",
-  "tipo": "reels",
-  "abordagem": "Reels: 3 hábitos que fazem o gás render",
-  "legenda": "3 hábitos que fazem o botijão durar mais 🔥\n\nO terceiro quase ninguém faz.\n\n🔖 Salva pra lembrar na hora de cozinhar.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-13-reels-7-habitos/reel.mp4",
-   "posts/2026-11-13-reels-7-habitos/capa.jpg"
-  ],
-  "video": "posts/2026-11-13-reels-7-habitos/reel.mp4",
-  "capa": "posts/2026-11-13-reels-7-habitos/capa.jpg",
-  "agendado_para": "2026-11-13T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "B",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva o vídeo",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-13-feed-7-habitos-gas-render",
   "tipo": "carrossel",
   "abordagem": "Economia: 7 hábitos para o gás render",
@@ -584,25 +527,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-14-reels-crepioca",
-  "tipo": "reels",
-  "abordagem": "Reels: crepioca em 5 minutos",
-  "legenda": "Lanche quentinho em 5 minutos, numa frigideira só 🍳\n\nOvo, tapioca e o recheio que tiver em casa.\n\n🔖 Salva e conta qual recheio você usaria.\n\n#receitafacil #receitabarata #lanche #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-14-reels-crepioca/reel.mp4",
-   "posts/2026-11-14-reels-crepioca/capa.jpg"
-  ],
-  "video": "posts/2026-11-14-reels-crepioca/reel.mp4",
-  "capa": "posts/2026-11-14-reels-crepioca/capa.jpg",
-  "agendado_para": "2026-11-14T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "D",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva a receita",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-14-feed-crepioca-5-minutos",
   "tipo": "carrossel",
   "abordagem": "Receita: crepioca em 5 minutos",
@@ -658,25 +582,6 @@
   "objetivo": "comentar",
   "cta": "Time A ou Time B",
   "lote": "semana3-estrategia"
- },
- {
-  "id": "2026-11-15-reels-pressao-x-comum",
-  "tipo": "reels",
-  "abordagem": "Reels: pressão ou panela comum",
-  "legenda": "Panela de pressão ou panela comum: qual gasta menos gás? 🍲\n\nPara feijão e carne, a diferença é grande.\n\n💬 Você é time pressão ou time panela comum?\n\n#economiadomestica #gasdecozinha #paneladepressao #dicasdecasa",
-  "imagens": [
-   "posts/2026-11-15-reels-pressao-x-comum/reel.mp4",
-   "posts/2026-11-15-reels-pressao-x-comum/capa.jpg"
-  ],
-  "video": "posts/2026-11-15-reels-pressao-x-comum/reel.mp4",
-  "capa": "posts/2026-11-15-reels-pressao-x-comum/capa.jpg",
-  "agendado_para": "2026-11-15T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "B",
-  "layout": "reels",
-  "objetivo": "comentar",
-  "cta": "Time pressão ou panela comum?",
-  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-15-feed-pressao-x-panela-comum",
@@ -737,25 +642,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-16-reels-arroz-sobras",
-  "tipo": "reels",
-  "abordagem": "Reels: arroz de sobras vira janta",
-  "legenda": "Sobrou arroz? Vira janta em 15 minutos 🍚\n\nNada se perde e quase não gasta gás.\n\n🔖 Salva e manda pra quem odeia desperdício.\n\n#receitafacil #semdesperdicio #jantarrapido #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-16-reels-arroz-sobras/reel.mp4",
-   "posts/2026-11-16-reels-arroz-sobras/capa.jpg"
-  ],
-  "video": "posts/2026-11-16-reels-arroz-sobras/reel.mp4",
-  "capa": "posts/2026-11-16-reels-arroz-sobras/capa.jpg",
-  "agendado_para": "2026-11-16T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "D",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva a receita",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-16-feed-arroz-com-sobras",
   "tipo": "carrossel",
   "abordagem": "Receita: arroz de sobras numa panela só",
@@ -812,25 +698,6 @@
   "objetivo": "comentar",
   "cta": "Qual sinal você usa?",
   "lote": "semana3-estrategia"
- },
- {
-  "id": "2026-11-17-reels-so-quem-ficou-sem-gas",
-  "tipo": "reels",
-  "abordagem": "Reels: só quem já ficou sem gás entende",
-  "legenda": "Só quem já ficou sem gás entende 😂\n\nSe você nunca passou por isso, parabéns.\n\n👉 Manda pra quem sempre deixa o gás acabar.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
-  "imagens": [
-   "posts/2026-11-17-reels-so-quem-ficou-sem-gas/reel.mp4",
-   "posts/2026-11-17-reels-so-quem-ficou-sem-gas/capa.jpg"
-  ],
-  "video": "posts/2026-11-17-reels-so-quem-ficou-sem-gas/reel.mp4",
-  "capa": "posts/2026-11-17-reels-so-quem-ficou-sem-gas/capa.jpg",
-  "agendado_para": "2026-11-17T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "A",
-  "layout": "reels",
-  "objetivo": "compartilhar",
-  "cta": "Manda pra quem sempre deixa acabar",
-  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-17-feed-so-quem-ficou-sem-gas",
@@ -891,25 +758,6 @@
   "lote": "semana3-estrategia"
  },
  {
-  "id": "2026-11-18-reels-casa-da-mae",
-  "tipo": "reels",
-  "abordagem": "Reels: gás na casa da mãe sem sair de casa",
-  "legenda": "Dá pra mandar gás pra casa da sua mãe sem sair de casa 💗\n\nNo app você coloca o CEP de lá e o pagamento é na entrega.\n\n👉 Manda esse vídeo pra sua mãe.\n💬 Comente APP que eu te mando o link.\n\n#appdonagas #gasdecozinha #entregadegas #mae",
-  "imagens": [
-   "posts/2026-11-18-reels-casa-da-mae/reel.mp4",
-   "posts/2026-11-18-reels-casa-da-mae/capa.jpg"
-  ],
-  "video": "posts/2026-11-18-reels-casa-da-mae/reel.mp4",
-  "capa": "posts/2026-11-18-reels-casa-da-mae/capa.jpg",
-  "agendado_para": "2026-11-18T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "F",
-  "layout": "reels",
-  "objetivo": "compartilhar",
-  "cta": "Manda pra sua mãe",
-  "lote": "reels-semana3"
- },
- {
   "id": "2026-11-18-feed-gas-casa-da-mae",
   "tipo": "carrossel",
   "abordagem": "App: mandar gás para a casa da mãe",
@@ -965,25 +813,6 @@
   "objetivo": "comentar",
   "cta": "Quantas você acertou?",
   "lote": "semana3-estrategia"
- },
- {
-  "id": "2026-11-19-reels-3-jantas",
-  "tipo": "reels",
-  "abordagem": "Reels: 3 jantas baratas numa panela só",
-  "legenda": "3 jantas baratas, cada uma numa panela só 🍲\n\nMenos louça, menos gás e comida gostosa.\n\n🔖 Salva e conta qual você faz primeiro.\n\n#receitabarata #jantarrapido #receitafacil #cozinhapratica",
-  "imagens": [
-   "posts/2026-11-19-reels-3-jantas/reel.mp4",
-   "posts/2026-11-19-reels-3-jantas/capa.jpg"
-  ],
-  "video": "posts/2026-11-19-reels-3-jantas/reel.mp4",
-  "capa": "posts/2026-11-19-reels-3-jantas/capa.jpg",
-  "agendado_para": "2026-11-19T19:00:00-03:00",
-  "aprovado": true,
-  "pilar": "D",
-  "layout": "reels",
-  "objetivo": "salvar",
-  "cta": "Salva as 3 jantas",
-  "lote": "reels-semana3"
  },
  {
   "id": "2026-11-19-feed-3-jantas-baratas",

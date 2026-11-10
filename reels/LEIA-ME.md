@@ -60,4 +60,4 @@ Para voltar à IA de vídeo só com aprovação do Peterson, depois de testar e 
 
 ## Trilha padrão (escolha do Peterson em 10/11)
 Todos os Reels levam a trilha `reels/musica/opcao-1-alegre-violao.mp3` (ElevenLabs Music, instrumental, violão alegre),
-em loop, a -16 dB, com fade e abaixando sozinha enquanto a voz fala. Configurada em `reels/config.json` (`musica`, `volume_musica_db`).
+em loop, a -9 dB (a trilha original é baixa, ~-21 dB; assim fica ~-30 dB sozinha), com fade e abaixando sozinha enquanto a voz fala. Configurada em `reels/config.json` (`musica`, `volume_musica_db`).
