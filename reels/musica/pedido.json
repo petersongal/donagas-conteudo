@@ -1,0 +1,8 @@
+{
+ "duracao_ms": 30000,
+ "opcoes": [
+  {"nome": "1-alegre-violao", "prompt": "Short upbeat instrumental background loop for a friendly Brazilian home-delivery brand on social media: acoustic guitar, light ukulele, soft claps and shaker, cheerful and warm, simple catchy melody, steady 110 bpm, no vocals, mixable under a voiceover, seamless loop"},
+  {"nome": "2-pop-leve", "prompt": "Light modern pop instrumental for short social videos: soft synth plucks, gentle beat, bright and positive, catchy four-note hook that repeats, 105 bpm, no vocals, sits quietly under narration, seamless loop"},
+  {"nome": "3-bossa-moderna", "prompt": "Modern bossa nova inspired instrumental groove, light nylon guitar, soft percussion and brushed drums, cozy kitchen feeling, playful and warm, 100 bpm, no vocals, background music for voiceover, seamless loop"}
+ ]
+}

@@ -510,6 +510,21 @@ def amostras():
         log("amostra", nome, conf.get("similaridade"))
 
 
+def musicas():
+    """Gera as opções de trilha (reels/musica/pedido.json) para o Peterson escolher."""
+    pasta = RAIZ / "reels" / "musica"
+    ped = json.loads((pasta / "pedido.json").read_text())
+    for o in ped["opcoes"]:
+        mp3 = pasta / f"opcao-{o['nome']}.mp3"
+        if mp3.exists():
+            continue
+        res = fal("fal-ai/elevenlabs/music", {"prompt": o["prompt"], "music_length_ms": ped.get("duracao_ms", 30000),
+                                             "force_instrumental": True}, timeout=600)
+        url = (res.get("audio") or res.get("audio_file") or {}).get("url") or res.get("url")
+        baixar(url, mp3)
+        log("trilha", mp3.name)
+
+
 def main():
     roteiros = sorted((RAIZ / "reels" / "roteiros").glob("*.json"))
     agenda_p = RAIZ / "agenda.json"
@@ -552,6 +567,11 @@ def main():
 
 
 if __name__ == "__main__":
+    if FAL_KEY and (RAIZ / "reels" / "musica" / "pedido.json").exists():
+        try:
+            musicas()
+        except Exception as e:
+            log("trilhas falharam:", e)
     if FAL_KEY and (RAIZ / "reels" / "amostras" / "pedido.json").exists():
         try:
             amostras()

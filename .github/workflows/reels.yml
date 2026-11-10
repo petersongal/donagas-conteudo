@@ -5,7 +5,7 @@ name: Fábrica de Reels
 on:
   push:
     branches: [main]
-    paths: ["reels/roteiros/**", "reels/fabrica.py", "reels/config.json", "reels/amostras/pedido.json"]
+    paths: ["reels/roteiros/**", "reels/fabrica.py", "reels/config.json", "reels/amostras/pedido.json", "reels/musica/pedido.json"]
   schedule:
     - cron: "17 13 * * *"   # 10h17 de Brasília: pega roteiros que ficaram para trás
   workflow_dispatch:
@@ -49,7 +49,7 @@ jobs:
           if [ -z "$FAL_KEY" ]; then echo "Modo teste: nada é salvo."; exit 0; fi
           git config user.name "fabrica-reels"
           git config user.email "fabrica-reels@users.noreply.github.com"
-          git add agenda.json posts/*/reel.mp4 posts/*/capa.jpg posts/*/verificacao.json reels/amostras 2>/dev/null || true
+          git add agenda.json posts/*/reel.mp4 posts/*/capa.jpg posts/*/verificacao.json reels/amostras reels/musica 2>/dev/null || true
           if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
           git commit -m "Reels produzidos pela fábrica"
           ok=0
