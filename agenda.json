@@ -363,12 +363,13 @@
    "posts/2026-11-11-feed-botijao-deitado-mito/6.jpg"
   ],
   "agendado_para": "2026-11-11T19:30:00-03:00",
-  "aprovado": true,
+  "aprovado": false,
   "pilar": "C",
   "layout": "mascote",
   "objetivo": "comentar",
   "cta": "Qual você achava verdade?",
-  "lote": "semana3-estrategia"
+  "lote": "semana3-estrategia",
+  "obs": "substituído pelo Reels de mesmo tema (11/11 19h00) — fica de reserva"
  },
  {
   "id": "2026-11-12-story-0830-v2",
