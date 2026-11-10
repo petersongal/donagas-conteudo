@@ -474,10 +474,26 @@ def produzir(rot):
         filtros.append(f"{ult}[{3+j}:v]overlay=0:0:enable='between(t,{s:.2f},{e:.2f})'[v{j+1}]")
         ult = f"[v{j+1}]"
     final = saida / "reel.mp4"
-    sh(["ffmpeg", "-y", "-v", "error", *ins, "-filter_complex", ";".join(filtros), "-map", ult, "-map", "1:a",
-        "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p", "-r", "30",
-        "-c:a", "aac", "-b:a", "160k", "-af", f"apad=pad_dur={max(0.1, total - dur_voz):.2f}", "-t", f"{total:.2f}",
-        "-movflags", "+faststart", str(final)])
+    musica = CFG.get("musica")
+    musica_p = RAIZ / musica if musica else None
+    if musica_p and musica_p.exists():
+        # Trilha padrão: em loop, baixinha, com fade, e abaixa sozinha enquanto a voz fala (ducking).
+        n = len(ins) // 2
+        ins_m = ins + ["-stream_loop", "-1", "-i", str(musica_p)]
+        vol = 10 ** (float(CFG.get("volume_musica_db", -16)) / 20)
+        fa = (f"[1:a]apad=pad_dur={max(0.1, total - dur_voz):.2f},asplit=2[voz][sc];"
+              f"[{n}:a]volume={vol:.3f},afade=t=in:d=0.4,afade=t=out:st={max(0, total - 1.2):.2f}:d=1.2[mus];"
+              f"[mus][sc]sidechaincompress=threshold=0.02:ratio=6:attack=15:release=350[musd];"
+              f"[voz][musd]amix=inputs=2:duration=first:normalize=0[aout]")
+        sh(["ffmpeg", "-y", "-v", "error", *ins_m, "-filter_complex", ";".join(filtros) + ";" + fa,
+            "-map", ult, "-map", "[aout]",
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p", "-r", "30",
+            "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", str(final)])
+    else:
+        sh(["ffmpeg", "-y", "-v", "error", *ins, "-filter_complex", ";".join(filtros), "-map", ult, "-map", "1:a",
+            "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-pix_fmt", "yuv420p", "-r", "30",
+            "-c:a", "aac", "-b:a", "160k", "-af", f"apad=pad_dur={max(0.1, total - dur_voz):.2f}", "-t", f"{total:.2f}",
+            "-movflags", "+faststart", str(final)])
 
     # 4) capa (quadro da 1ª cena + gancho)
     capa_png = pasta / "capa.png"
