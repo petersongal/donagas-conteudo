@@ -38,11 +38,12 @@ TMP = RAIZ / ".reels-tmp"
 ESTILO = ("3D animated cartoon mascot, same character design, same face, beard, pink cap and pink uniform "
           "with the logo exactly as in the image, Pixar-like quality, smooth natural motion, stable camera, "
           "vertical 9:16, no text, no captions, no extra characters. "
-          "IMPORTANT: the character does NOT talk: lips stay closed the whole time; he only reacts with facial "
-          "expressions (eyebrows, eyes, closed-mouth smile, smirk, surprised look with closed lips, nod, head tilt) "
-          "and body gestures, like listening to a narrator")
-# Decisão do Peterson (10/11): o mascote não "fala" (a boca não sincroniza com a voz); só faz caras e bocas.
-NEGATIVO = ("talking, speaking, lip movement, mouth moving, open mouth, lip sync, singing, chewing, "
+          "IMPORTANT: the character does NOT talk or speak. He only reacts with expressive faces and gestures "
+          "(raised eyebrows, wide eyes, big open-mouth smile, laughing, surprised 'oh!' face with mouth open, smirk, "
+          "nod, head tilt, thumbs up). The mouth may open for an expression and then hold it, but never moves as if saying words")
+# Decisão do Peterson (10/11): o mascote não "fala" (a boca não sincroniza com a voz); faz caras e bocas,
+# podendo abrir a boca para surpresa, sorriso ou risada, mas nunca como se estivesse falando.
+NEGATIVO = ("talking, speaking, saying words, lip sync, repeated mouth movements, mouth flapping, singing, chewing, "
             "text, letters, watermark, deformed hands, extra fingers, extra limbs, blurry face, flicker, distorted logo")
 
 

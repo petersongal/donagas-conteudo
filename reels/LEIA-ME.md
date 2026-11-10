@@ -40,7 +40,8 @@ Sem o segredo `FAL_KEY` no repositório, a fábrica roda em modo teste (sem IA, 
 Regras: no máximo 2 cenas "ia" por Reels (custo); poses disponíveis em `gerador/assets/mascote-*.png`
 (nunca `mascote-senhora.png`); `movimento` simples (um gesto) para a IA não deformar o personagem;
 nenhum texto pedido à IA (texto é sempre colocado pela fábrica). **O mascote NÃO fala** (decisão do Peterson, 10/11: a boca não sincroniza com a voz):
-o `movimento` descreve só expressões e gestos de boca fechada (sobrancelha, olhar, sorriso fechado, cara de surpresa, aceno de cabeça, joinha);
+o `movimento` descreve só expressões e gestos — pode abrir a boca para reagir (cara de surpresa, sorrisão, risada) e
+segurar a expressão, mas nunca mexer a boca como quem fala (sobrancelha, olhar, sorriso, aceno de cabeça, joinha);
 nunca escreva "talking", "says" ou "explains". A fábrica já reforça isso no prompt e no negative prompt. Mesmas regras de conteúdo da ESTRATEGIA-CRESCIMENTO.md.
 
 Conferência: depois que a fábrica roda, baixar `posts/<id>/reel.mp4`, extrair quadros (ffmpeg -ss) e olhar com Read.
