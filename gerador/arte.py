@@ -70,8 +70,19 @@ def chama_bg(x, y, size, rot=-12):
     return f'<img class="chama-bg" src="{LOGO}" style="left:{x}px;top:{y}px;width:{size}px;transform:rotate({rot}deg)">'
 
 
-def marca(x, y, cor_texto="#fff", marinho=False):
-    return f'<div class="marca" style="left:{x}px;top:{y}px;color:{cor_texto}"><img src="{LOGO_M if marinho else LOGO}"><span><b>Dona</b><i>GÁS</i></span></div>'
+# Logo oficial (marca/assets/Logos), versão pelo fundo, como manda o guia da marca:
+# fundo claro/rosa-claro → fundo-claro · marinho → fundo-escuro · rosa-marca → branco.
+LOGO_H = {k: b64(A / f"logo-horizontal-{k}.png") for k in ("fundo-claro", "fundo-escuro", "branco")}
+
+
+def marca(x, y, cor_texto="#fff", marinho=False, altura=62):
+    if cor_texto.lower() != "#fff":
+        versao = "fundo-claro"      # texto escuro → fundo claro
+    elif marinho:
+        versao = "branco"           # fundo rosa-marca
+    else:
+        versao = "fundo-escuro"     # fundo marinho
+    return f'<img src="{LOGO_H[versao]}" alt="Dona Gás" style="position:absolute;left:{x}px;top:{y}px;height:{altura}px;width:auto">'
 
 
 def doc(w, h, body, cls=""):
