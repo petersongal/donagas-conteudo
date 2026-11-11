@@ -1,0 +1,31 @@
+{
+ "roteiro": "Três jeitos de fazer o gás durar mais. Um: panela sempre com tampa. Dois: feijão e carne na panela de pressão. Três: chama azul, do tamanho do fundo da panela. Quer ofertas pra sua cozinha? Comente oferta.",
+ "transcricao": " Três jeitos de fazer o gás durar mais. 1. Panela sempre com tampa. 2. Feijão e carne na panela de pressão. 3. Chama azul, do tamanho do fundo da panela. Quer ofertas para a sua cozinha? Comente oferta.",
+ "similaridade": 0.88,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Três jeitos de",
+  "fazer o gás",
+  "durar mais.",
+  "Um:",
+  "panela sempre com",
+  "tampa.",
+  "Dois:",
+  "feijão e carne",
+  "na panela de",
+  "pressão.",
+  "Três:",
+  "chama azul,",
+  "do tamanho do",
+  "fundo da panela.",
+  "Quer ofertas pra",
+  "sua cozinha?",
+  "Comente oferta."
+ ],
+ "duracao_s": 18.7
+}

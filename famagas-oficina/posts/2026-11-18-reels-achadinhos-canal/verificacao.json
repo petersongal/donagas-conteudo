@@ -1,0 +1,29 @@
+{
+ "roteiro": "Toda semana eu escolho achadinhos pra sua casa, com nota alta e preço bom. Panela, pote, utilidade de cozinha. Tudo num canal de graça no WhatsApp. Quer entrar? Comente achadinhos que eu te mando o link.",
+ "transcricao": " Toda semana eu escolho achadinhos para sua casa, com nota alta e preço bom. Panela, pote, utilidade de cozinha, tudo num canal de graça no WhatsApp. Quer entrar? Comente achadinhos que eu te mando o link.",
+ "similaridade": 0.972,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Toda semana eu",
+  "escolho achadinhos",
+  "pra sua casa,",
+  "com nota alta",
+  "e preço bom.",
+  "Panela,",
+  "pote,",
+  "utilidade de cozinha.",
+  "Tudo num canal",
+  "de graça no",
+  "WhatsApp.",
+  "Quer entrar?",
+  "Comente achadinhos",
+  "que eu te",
+  "mando o link."
+ ],
+ "duracao_s": 16.8
+}

@@ -1,0 +1,28 @@
+{
+ "roteiro": "O gás nunca acaba numa terça à tarde. Ele acaba no domingo, com o arroz pela metade, a visita na sala e a chuva lá fora. Marca aquela pessoa que só lembra do gás quando ele acaba!",
+ "transcricao": " O gás nunca acaba numa terça-tarde. Ele acaba no domingo, com o arroz pela metade, a visita na sala e a chuva lá fora. Marca aquela pessoa que só lembra do gás quando ele acaba.",
+ "similaridade": 0.986,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "O gás nunca",
+  "acaba numa terça",
+  "à tarde.",
+  "Ele acaba no",
+  "domingo,",
+  "com o arroz",
+  "pela metade,",
+  "a visita na",
+  "sala e a",
+  "chuva lá fora.",
+  "Marca aquela pessoa",
+  "que só lembra",
+  "do gás quando",
+  "ele acaba!"
+ ],
+ "duracao_s": 16.8
+}

@@ -1,0 +1,30 @@
+{
+ "roteiro": "A mangueira do seu gás tem data de validade, e quase ninguém olha. A data vem impressa na própria mangueira, e ela vale cinco anos. Passou da data, ressecou ou rachou? É hora de trocar. Confere a sua hoje!",
+ "transcricao": " A mangueira do seu gás tem data de validade e quase ninguém olha. A data vem impressa na própria mangueira e ela vale 5 anos. Passou da data? Ressecou ou rachou? É hora de trocar! Confere a sua hoje!",
+ "similaridade": 0.974,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "A mangueira do",
+  "seu gás tem",
+  "data de validade,",
+  "e quase ninguém",
+  "olha.",
+  "A data vem",
+  "impressa na própria",
+  "mangueira,",
+  "e ela vale",
+  "cinco anos.",
+  "Passou da data,",
+  "ressecou ou rachou?",
+  "É hora de",
+  "trocar.",
+  "Confere a sua",
+  "hoje!"
+ ],
+ "duracao_s": 17.0
+}

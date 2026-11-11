@@ -20,5 +20,137 @@
   "palavra": "CANAL",
   "gancho": "Chama [amarela]? Você está perdendo gás",
   "formato": "alerta"
+ },
+ {
+  "id": "2026-11-13-reels-botijao-deitado",
+  "tipo": "reels",
+  "abordagem": "Reels: botijão deitado rende mais? (mito)",
+  "legenda": "Botijão deitado rende mais? MITO, e ainda é perigoso 🚫\n\nDeitado, o gás pode sair na forma líquida e causar acidente. Não rende nem um pouquinho a mais. Botijão é sempre em pé.\n\n📲 Manda pra aquela pessoa que deita o botijão no fim do gás.\n👇 Você já viu alguém fazer isso? Conta aqui.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-13-reels-botijao-deitado/reel.mp4",
+   "posts/2026-11-13-reels-botijao-deitado/capa.jpg"
+  ],
+  "video": "posts/2026-11-13-reels-botijao-deitado/reel.mp4",
+  "capa": "posts/2026-11-13-reels-botijao-deitado/capa.jpg",
+  "agendado_para": "2026-11-13T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem faz isso",
+  "lote": "reels-semana1",
+  "palavra": null,
+  "gancho": "Botijão [deitado] rende mais?",
+  "formato": "mito"
+ },
+ {
+  "id": "2026-11-14-reels-macarrao-uma-panela",
+  "tipo": "reels",
+  "abordagem": "Reels: janta em uma panela só (RECEITA)",
+  "legenda": "Janta pronta em UMA panela só e em 20 minutos 🍝\n\nMacarrão, molho e tempero, tudo junto. Menos louça na pia e menos gás no fogão.\n\n💛 Comente RECEITA que eu te mando o passo a passo completo no direct.\n🔖 Salva pra fazer hoje à noite.\n\n#receitafacil #jantarapida #macarrao #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-14-reels-macarrao-uma-panela/reel.mp4",
+   "posts/2026-11-14-reels-macarrao-uma-panela/capa.jpg"
+  ],
+  "video": "posts/2026-11-14-reels-macarrao-uma-panela/reel.mp4",
+  "capa": "posts/2026-11-14-reels-macarrao-uma-panela/capa.jpg",
+  "agendado_para": "2026-11-14T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comente RECEITA",
+  "lote": "reels-semana1",
+  "palavra": "RECEITA",
+  "gancho": "Janta em [uma panela só]",
+  "formato": "receita"
+ },
+ {
+  "id": "2026-11-15-reels-gas-acaba-domingo",
+  "tipo": "reels",
+  "abordagem": "Reels: o gás só acaba no pior momento (humor)",
+  "legenda": "O gás NUNCA acaba numa terça à tarde 😅\n\nÉ sempre no domingo, com o arroz pela metade e a visita na sala.\n\n📲 Marca aquela pessoa que só lembra do gás quando ele acaba.\n👇 Qual foi o pior momento em que o seu gás acabou?\n\n#gasdecozinha #humor #domingo #vidadecasa #famagas",
+  "imagens": [
+   "posts/2026-11-15-reels-gas-acaba-domingo/reel.mp4",
+   "posts/2026-11-15-reels-gas-acaba-domingo/capa.jpg"
+  ],
+  "video": "posts/2026-11-15-reels-gas-acaba-domingo/reel.mp4",
+  "capa": "posts/2026-11-15-reels-gas-acaba-domingo/capa.jpg",
+  "agendado_para": "2026-11-15T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Marca quem só lembra do gás quando acaba",
+  "lote": "reels-semana1",
+  "palavra": null,
+  "gancho": "O gás só acaba [nessa hora]",
+  "formato": "humor"
+ },
+ {
+  "id": "2026-11-16-reels-3-jeitos-gas-durar",
+  "tipo": "reels",
+  "abordagem": "Reels: 3 jeitos de o gás durar mais (OFERTA)",
+  "legenda": "3 jeitos simples de fazer o gás durar mais 👇\n\n1. Panela sempre com tampa.\n2. Feijão e carne na panela de pressão.\n3. Chama azul e do tamanho do fundo da panela.\n\n🔖 Salva pra lembrar.\n💛 Quer ofertas pra sua cozinha toda semana? Comente OFERTA que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-16-reels-3-jeitos-gas-durar/reel.mp4",
+   "posts/2026-11-16-reels-3-jeitos-gas-durar/capa.jpg"
+  ],
+  "video": "posts/2026-11-16-reels-3-jeitos-gas-durar/reel.mp4",
+  "capa": "posts/2026-11-16-reels-3-jeitos-gas-durar/capa.jpg",
+  "agendado_para": "2026-11-16T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Comente OFERTA",
+  "lote": "reels-semana1",
+  "palavra": "OFERTA",
+  "gancho": "[3 jeitos] de o gás durar mais",
+  "formato": "lista"
+ },
+ {
+  "id": "2026-11-17-reels-validade-mangueira",
+  "tipo": "reels",
+  "abordagem": "Reels: a mangueira do gás tem validade",
+  "legenda": "A mangueira do seu gás tem DATA DE VALIDADE e quase ninguém olha 👀\n\nA data vem impressa na própria mangueira e ela vale 5 anos. Passou da data, ressecou ou rachou? É hora de trocar.\n\n🔖 Salva e confere a sua hoje.\n📲 Manda no grupo da família.\n\nEm caso de cheiro forte de gás, saia do local e ligue 193.\n\n#gasdecozinha #segurancaemcasa #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-17-reels-validade-mangueira/reel.mp4",
+   "posts/2026-11-17-reels-validade-mangueira/capa.jpg"
+  ],
+  "video": "posts/2026-11-17-reels-validade-mangueira/reel.mp4",
+  "capa": "posts/2026-11-17-reels-validade-mangueira/capa.jpg",
+  "agendado_para": "2026-11-17T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Confere a sua hoje",
+  "lote": "reels-semana1",
+  "palavra": null,
+  "gancho": "Sua mangueira [tem validade]",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-18-reels-achadinhos-canal",
+  "tipo": "reels",
+  "abordagem": "Reels: canal de achadinhos (ACHADINHOS)",
+  "legenda": "Eu garimpo os achadinhos de casa pra você não perder tempo 🛒\n\nToda semana: panela, pote e utilidade de cozinha com nota alta e preço bom, num canal de graça no WhatsApp.\n\n💛 Comente ACHADINHOS que eu te mando o link no direct.\n\n#achadinhos #ofertas #utilidadesdomesticas #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-18-reels-achadinhos-canal/reel.mp4",
+   "posts/2026-11-18-reels-achadinhos-canal/capa.jpg"
+  ],
+  "video": "posts/2026-11-18-reels-achadinhos-canal/reel.mp4",
+  "capa": "posts/2026-11-18-reels-achadinhos-canal/capa.jpg",
+  "agendado_para": "2026-11-18T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comente ACHADINHOS",
+  "lote": "reels-semana1",
+  "palavra": "ACHADINHOS",
+  "gancho": "[Achadinhos] toda semana",
+  "formato": "canal"
  }
 ]

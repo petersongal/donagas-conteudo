@@ -1,0 +1,29 @@
+{
+ "roteiro": "Janta em uma panela só, e em vinte minutos. Macarrão, molho e tempero, tudo junto. Menos louça e menos gás. Quer a receita completa? Comente receita que eu te mando agora no seu direct.",
+ "transcricao": " Janta em uma panela só e em 20 minutos. Macarrão, molho e tempero, tudo junto. Menos louça e menos gás. Quer a receita completa? Comente receita que eu te mando agora no seu direct.",
+ "similaridade": 0.971,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Janta em uma",
+  "panela só,",
+  "e em vinte",
+  "minutos.",
+  "Macarrão,",
+  "molho e tempero,",
+  "tudo junto.",
+  "Menos louça e",
+  "menos gás.",
+  "Quer a receita",
+  "completa?",
+  "Comente receita que",
+  "eu te mando",
+  "agora no seu",
+  "direct."
+ ],
+ "duracao_s": 16.8
+}

@@ -1,0 +1,29 @@
+{
+ "roteiro": "Tem gente que deita o botijão pra render mais. Não faça isso! Deitado, o gás pode sair líquido e causar acidente. E não rende nada a mais. Botijão é sempre em pé. Manda pra aquela pessoa que faz isso!",
+ "transcricao": " Tem gente que deita o botijão para render mais. Não faça isso! Deitado, o gás pode sair líquido e causar acidente. E não rende nada a mais. Botijão é sempre em pé. Manda para aquela pessoa que faz isso.",
+ "similaridade": 0.949,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Tem gente que",
+  "deita o botijão",
+  "pra render mais.",
+  "Não faça isso!",
+  "Deitado,",
+  "o gás pode",
+  "sair líquido e",
+  "causar acidente.",
+  "E não rende",
+  "nada a mais.",
+  "Botijão é sempre",
+  "em pé.",
+  "Manda pra aquela",
+  "pessoa que faz",
+  "isso!"
+ ],
+ "duracao_s": 16.8
+}
