@@ -1,6 +1,6 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-11T11:26:52.114Z",
+ "gerado_em": "2026-11-11T12:59:43.141Z",
  "ultima_coleta": "2026-11-11T10:45:04.429Z",
  "seguidores_hist": [
   {
@@ -432,6 +432,17 @@
     "total_interactions": 1
    },
    "metricas_em": "2026-11-11T10:45:24.54+00:00"
+  },
+  {
+   "id": "2026-11-11-story-0830-v2",
+   "tipo": "story",
+   "abordagem": "story: Você balança o botijão pra ver se tem gás?",
+   "agendado_para": "2026-11-11T11:30:00+00:00",
+   "publicado_em": "2026-11-11T11:30:19.709+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4028013160984472131",
+   "metricas": null,
+   "metricas_em": null
   }
  ]
 }
