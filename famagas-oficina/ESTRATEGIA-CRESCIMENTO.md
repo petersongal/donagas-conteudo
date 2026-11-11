@@ -70,7 +70,8 @@ O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PRO
 - **Depois de 19/11:** a análise semanal decide com os números. Hipótese inicial: 1 Reels/dia + 1 carrossel/dia (alternando receita e economia) + 1 story; menos peças, melhores.
 
 ## 11. Sistema
-- Reels: `reels/roteiros/*.json` → GitHub Actions → `posts/<id>/` + `agenda.json` → publicador do site posta. Ver `reels/LEIA-ME.md`.
+- Tudo fica na pasta `famagas-oficina/` do repositório `petersongal/donagas-conteudo` (que já tem a chave da fal.ai). Reels: `reels/roteiros/*.json` → workflow "Oficina FamaGás" → `posts/<id>/` + `agenda.json` → publicador do site posta. Ver `reels/LEIA-ME.md`.
+- **Fotos reais** (pedido do Peterson, 10/11): cada Reels deve mostrar o assunto com pelo menos 1 foto real de banco gratuito, sempre revisada antes de usar.
 - Números: `metricas/relatorio.json` (a cada 3 h): views, alcance, salvos, compartilhamentos, comentários, curtidas, tempo médio assistido (Reels), seguidores por dia, palavras comentadas por post e por dia.
 - Carrosséis e stories atuais ficam no repositório do site (`src/data/instagram-agenda.json` + `public/instagram/`) e dependem de Publish.
 
