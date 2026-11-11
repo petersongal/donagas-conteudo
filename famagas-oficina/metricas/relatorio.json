@@ -1,1 +1,24 @@
-{}
+{
+ "conta": "famagas_",
+ "gerado_em": "2026-11-11T12:19:22.225Z",
+ "ultima_coleta": null,
+ "seguidores_hist": [],
+ "palavras_por_dia": {
+  "2026-11-03": {
+   "comentario:canal": 3
+  },
+  "2026-11-05": {
+   "comentario:canal": 2,
+   "comentario:receita": 1
+  },
+  "2026-11-06": {
+   "comentario:receita": 1,
+   "comentario:canal": 1
+  },
+  "2026-11-07": {
+   "comentario:canal": 1,
+   "comentario:receita": 1
+  }
+ },
+ "posts": []
+}
