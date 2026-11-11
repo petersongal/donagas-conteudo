@@ -11,7 +11,7 @@ de contas com pessoas geradas por IA sem rótulo.
 - Custo típico: 2 cenas de IA de 5 s + voz ≈ US$ 0,72 por Reels (≈ US$ 22/mês com 1 Reels por dia).
 
 ## Fluxo
-1. A tarefa semanal (ou a análise de 5 dias) escreve `reels/roteiros/<id>.json` e dá push.
+1. O fechamento semanal (quintas 20h43) escreve `reels/roteiros/<id>.json` e dá push.
 2. O GitHub Actions (`.github/workflows/reels.yml`) roda `reels/fabrica.py`: quadros da marca → IA anima o mascote →
    voz com tempos por palavra → ffmpeg monta 1080x1920 com gancho na tela, legendas animadas e cartão final → capa.
 3. O vídeo vai para `posts/<id>/reel.mp4` + `capa.jpg` e entra no `agenda.json` como `tipo: "reels"`.

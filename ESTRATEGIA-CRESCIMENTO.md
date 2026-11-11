@@ -1,6 +1,6 @@
 # @appdonagas — Estratégia de crescimento orgânico
 
-Documento-mestre. **Toda tarefa que gera conteúdo para o @appdonagas lê este arquivo antes de criar qualquer peça.** Ele vale mais do que os exemplos antigos (semana1/2). Atualizado a cada análise de 5 dias (ver "Diário de testes" no fim).
+Documento-mestre. **Toda tarefa que gera conteúdo para o @appdonagas lê este arquivo antes de criar qualquer peça.** Ele vale mais do que os exemplos antigos (semana1/2). Atualizado no fechamento de cada semana de posts (sexta a quinta; a tarefa roda às quintas 20h43): análise da semana que fechou + estratégia e lote da semana seguinte, numa única mensagem ao Peterson (ver "Diário de testes" no fim). Sem análises diárias ou parciais (pedido do Peterson, 11/11/2026).
 
 Meta do Peterson: **500.000 visualizações por mês sem anúncio**, com mais downloads e pedidos no app.
 
@@ -139,7 +139,7 @@ Pedido do Peterson (10/11): avisar quando a comunicação estiver eficaz e padro
 5. Lista fechada das cidades com revenda ativa no app e oferta/preço conferidos em cada uma.
 6. Medição de conversão: UTM do anúncio no /baixar e, se possível, pixel/eventos da Meta no site.
 
-**Data estimada:** a partir de **01/12/2026**, se os itens 1 e 2 andarem no ritmo previsto. Cada análise de 5 dias informa ao Peterson quantos itens já estão ✅ e confirma ou ajusta a data. Quando todos estiverem ✅, a análise avisa: "Prontos para ADS" e sugere abrir o projeto de tráfego pago.
+**Data estimada:** a partir de **01/12/2026**, se os itens 1 e 2 andarem no ritmo previsto. Cada fechamento semanal informa ao Peterson quantos itens já estão ✅ e confirma ou ajusta a data. Quando todos estiverem ✅, a análise avisa: "Prontos para ADS" e sugere abrir o projeto de tráfego pago.
 
 ---
 
