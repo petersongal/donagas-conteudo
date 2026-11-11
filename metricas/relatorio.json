@@ -1,6 +1,6 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-10T23:06:36.102Z",
+ "gerado_em": "2026-11-11T01:28:38.085Z",
  "ultima_coleta": "2026-11-10T22:15:07.384Z",
  "seguidores_hist": [
   {
@@ -384,17 +384,6 @@
    "metricas_em": null
   },
   {
-   "id": "2026-11-10-feed-passo-enderecos",
-   "tipo": "carrossel",
-   "abordagem": "Passo a passo: salve seus endereços",
-   "agendado_para": "2026-11-10T22:30:00+00:00",
-   "publicado_em": "2026-11-10T22:45:37.176+00:00",
-   "status": "publicado",
-   "permalink": "https://www.instagram.com/p/DflApHQE1nM/",
-   "metricas": null,
-   "metricas_em": null
-  },
-  {
    "id": "2026-11-10-feed-tipos-quando-o-gas-acaba",
    "tipo": "carrossel",
    "abordagem": "Humor: tipos de pessoa quando o gás acaba",
@@ -402,6 +391,17 @@
    "publicado_em": "2026-11-10T23:01:12.776+00:00",
    "status": "publicado",
    "permalink": "https://www.instagram.com/p/DflCbHNE8V2/",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-10-feed-passo-enderecos",
+   "tipo": "carrossel",
+   "abordagem": "Passo a passo: salve seus endereços",
+   "agendado_para": "2026-11-10T22:30:00+00:00",
+   "publicado_em": "2026-11-10T22:45:37.176+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DflApHQE1nM/",
    "metricas": null,
    "metricas_em": null
   }
