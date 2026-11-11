@@ -1,11 +1,15 @@
-name: Oficina FamaGás (temporária)
+name: Oficina FamaGás
 
-# Produz os Reels do @famagas_ dentro de famagas-oficina/ enquanto o repositório famagas-conteudo não existe.
+# Produz os Reels do @famagas_ dentro de famagas-oficina/ (o publicador do site famagas.com.br lê famagas-oficina/agenda.json)
+# e guarda os números do @famagas_ em famagas-oficina/metricas/relatorio.json.
 # Não mexe em nada do @appdonagas (agenda.json da raiz, posts/, reels/).
 on:
   push:
     branches: [main]
     paths: ["famagas-oficina/reels/**", "famagas-oficina/gerador/arte.py", ".github/workflows/famagas-oficina.yml"]
+  schedule:
+    - cron: "23 13 * * *"    # 10h23 de Brasília: roteiros que ficaram para trás
+    - cron: "47 */3 * * *"   # números do @famagas_
   workflow_dispatch:
 
 permissions:
@@ -17,6 +21,7 @@ concurrency:
 
 jobs:
   oficina:
+    if: github.event.schedule != '47 */3 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -49,5 +54,25 @@ jobs:
           git add famagas-oficina
           if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
           git commit -q -m "Oficina FamaGás: fotos e Reels"
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 8; done
+          exit 1
+
+  relatorio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Baixar relatório do @famagas_
+        run: |
+          curl -sf -m 60 "https://famagas.com.br/api/public/instagram-relatorio" -o /tmp/r.json || { echo "Relatório ainda não disponível (site sem o Publish novo?)"; exit 0; }
+          mkdir -p famagas-oficina/metricas
+          python3 -c "import json;d=json.load(open('/tmp/r.json'));print(d.get('gerado_em'), len(d.get('posts',[])), 'posts');json.dump(d,open('famagas-oficina/metricas/relatorio.json','w'),ensure_ascii=False,indent=1)"
+          git config user.name "relatorio-famagas"
+          git config user.email "relatorio-famagas@users.noreply.github.com"
+          git add famagas-oficina/metricas/relatorio.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "Relatório do Instagram @famagas_"
           for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 8; done
           exit 1

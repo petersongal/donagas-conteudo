@@ -51,3 +51,13 @@ Problema → `"aprovado": false` no item da agenda e refazer.
 ## Voz e trilha
 Voz "Liam" (ElevenLabs v4 Turbo, português). Trilha padrão `reels/musica/opcao-1-pagode-leve.mp3` (instrumental, pagode leve com cavaquinho),
 gerada na 1ª execução com a chave; alternativa `opcao-2-forro-alegre.mp3`. Troca em `reels/config.json`.
+
+## Fotos reais (pedido do Peterson, 10/11)
+Ele quer fotos reais nos Reels para mostrar o assunto (chama, fogão, panela...), de bancos públicos e gratuitos.
+- Cena: `{"tipo": "real", "imagem": "chama-azul.jpg", "reserva": "cena-panela.jpg", "dur": 4}` (arquivo em `gerador/assets/fotos/`; se faltar, entra a cena reserva do mascote).
+- A sessão do Claude não alcança os bancos de imagem; quem baixa é o GitHub Actions (`reels/fotos.py`, temas em `reels/fotos/pedido.json`):
+  Openverse e Wikimedia Commons, só CC0/domínio público, para `gerador/assets/fotos/candidatas/<tema>/` com `creditos.json`.
+- **Toda candidata é olhada (Read) antes de usar**; a escolhida é copiada para `gerador/assets/fotos/<nome>.jpg`. Em 10/11, de 32 candidatas só as de chama azul serviam
+  (domínio público traz muita foto de arquivo antiga). Download do Unsplash por ID falhou sem chave.
+- Para fotos melhores (Pexels/Pixabay/Unsplash) é preciso uma chave gratuita de API como segredo do repositório (ex.: `PEXELS_KEY`) e acrescentar a fonte em `fotos.py`.
+- Nunca foto de pessoa famosa, marca concorrente ou criança identificável.
