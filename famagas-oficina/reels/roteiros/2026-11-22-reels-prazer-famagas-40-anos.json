@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-22-reels-prazer-famagas-40-anos",
+ "quando": "2026-11-22T18:30:00-03:00",
+ "pilar": "E",
+ "formato": "humor",
+ "objetivo": "seguir",
+ "cta": "Segue a FamaGás",
+ "palavra": null,
+ "abordagem": "Reels: prazer, FamaGás (40 anos, lojas, frota)",
+ "legenda": "Prazer, FamaGás! 💛\n\nHá mais de 40 anos levando gás de cozinha com segurança: mais de 40 lojas, 200 veículos próprios e 22 cidades atendidas.\n\n👉 Segue a gente pra receber dica de economia, receita e segurança todo dia.\n👇 De qual cidade você é? Conta aqui.\n\n#entregadegas #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "Há [40 anos] na sua cozinha",
+ "voz": "Prazer, eu sou o mascote da FamaGás. Há mais de quarenta anos a gente leva gás com segurança pra sua casa. São mais de quarenta lojas e duzentos veículos próprios. Segue a FamaGás pra ganhar dica boa todo dia!",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-empilhadeira.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[40+] lojas\n[200] veículos\n[22] cidades",
+   "sub": "Há mais de 40 anos cuidando da sua casa.",
+   "fundo": "creme",
+   "dur": 6
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "[Segue] a FamaGás",
+  "sub": "dica boa todo dia",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}

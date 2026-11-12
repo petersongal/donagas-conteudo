@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-23-reels-ofertas-de-cozinha-canal",
+ "quando": "2026-11-23T18:30:00-03:00",
+ "pilar": "F",
+ "formato": "canal",
+ "objetivo": "comentar",
+ "cta": "Comente OFERTA",
+ "palavra": "OFERTA",
+ "abordagem": "Reels: canal de ofertas de cozinha (OFERTA)",
+ "legenda": "Sua panela já está pedindo aposentadoria? 🍳\n\nEu separo as ofertas de panela, pote e utilidade de cozinha com nota alta e preço bom, num canal de graça no WhatsApp. Sem bagunça: só oferta boa.\n\n💛 Comente OFERTA que eu te mando o link no direct.\n\n#ofertas #achadinhos #utilidadesdomesticas #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "Panela velha? [Olha isso]",
+ "voz": "Sua panela já está pedindo aposentadoria? Toda semana eu separo ofertas de panela, pote e utilidade de cozinha, com nota alta e preço bom. É um canal de graça no WhatsApp. Comente oferta que eu te mando o link.",
+ "cenas": [
+  {
+   "tipo": "foto",
+   "imagem": "cena-aquecedor.jpg",
+   "dur": 4
+  },
+  {
+   "tipo": "real",
+   "imagem": "chaleira-fogao.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Só [oferta boa]",
+   "sub": "Canal de graça no WhatsApp, toda semana.",
+   "fundo": "noite",
+   "emoji": "🛒",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "Comente [OFERTA]",
+  "sub": "e receba o link no direct",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}

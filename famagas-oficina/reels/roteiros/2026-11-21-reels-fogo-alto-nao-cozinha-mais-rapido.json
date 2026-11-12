@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido",
+ "quando": "2026-11-21T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels: fogo alto não cozinha mais rápido depois que ferve",
+ "legenda": "Fogo alto NÃO cozinha mais rápido 🔥\n\nDepois que a água ferve, ela não passa de 100 graus. Fogo alto só faz a água evaporar e o gás ir embora. Ferveu? Abaixe o fogo e tampe a panela: cozinha no mesmo tempo.\n\n🔖 Salva pra lembrar na hora do almoço.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "Fogo alto? [Gás jogado fora]",
+ "voz": "Fogo alto não cozinha mais rápido. Depois que a água ferve, ela não esquenta mais. O fogo alto só gasta o seu gás. Ferveu? Abaixe o fogo e tampe a panela. Cozinha no mesmo tempo. Salva essa dica!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "agua-fervendo.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Ferveu? [Abaixe o fogo]",
+   "sub": "A água não passa de 100 graus. Fogo alto só gasta gás.",
+   "fundo": "noite",
+   "emoji": "🔥",
+   "dur": 5
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 6
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}

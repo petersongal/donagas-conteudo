@@ -1,0 +1,40 @@
+{
+ "agua-fervendo.jpg": {
+  "fonte": "wikimedia",
+  "licenca": "cc0",
+  "autor": "Tomwsulcer",
+  "pagina": "https://commons.wikimedia.org/w/index.php?curid=24565325",
+  "titulo": "File:Water boiling in a pot on a stove.jpg"
+ },
+ "fogao-desligado.jpg": {
+  "fonte": "stocksnap",
+  "licenca": "cc0",
+  "autor": "Tim Sullivan",
+  "pagina": "https://stocksnap.io/photo/gas-stove-ZMB1IUO6X0",
+  "titulo": "Gas Stove"
+ },
+ "chaleira-fogao.jpg": {
+  "fonte": "rawpixel",
+  "licenca": "cc0",
+  "autor": null,
+  "pagina": "https://www.rawpixel.com/image/5927494/photo-image-background-public-domain-kitchen",
+  "titulo": "Free steel tea kettle boiling"
+ },
+ "pizza-fatia.jpg": {
+  "fonte": "wikimedia commons",
+  "licenca": "cc0",
+  "autor": "Daderot",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Deep_dish_pizza_slice_with_tomato_paste,_chicken_breast,_mozarella_and_cheddar_cheeses,_and_black_pepper_-_Massachusetts.jpg",
+  "titulo": "File:Deep dish pizza slice with tomato paste, chicken breast, mozarella and cheddar cheeses, and black pepper - Massachusetts.jpg"
+ },
+ "chama-azul.jpg": {
+  "fonte": "flickr",
+  "licenca": "cc0",
+  "nota": "escolhida em 10/11/2026 (candidatas/chama-azul)"
+ },
+ "chama-azul-escuro.jpg": {
+  "fonte": "flickr",
+  "licenca": "cc0",
+  "nota": "escolhida em 10/11/2026 (candidatas/chama-azul)"
+ }
+}

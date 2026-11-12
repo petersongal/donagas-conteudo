@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-24-reels-botijao-agua-quente",
+ "quando": "2026-11-24T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "mito",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem faz isso",
+ "palavra": null,
+ "abordagem": "Reels: água quente ou sol no botijão para render (mito perigoso)",
+ "legenda": "Jogar água quente no botijão pra \"render mais\"? NUNCA faça isso 🚫\n\nBotijão não pode ser aquecido: nem água quente, nem sol, nem perto do fogo. Calor aumenta a pressão lá dentro e é perigoso. Acabou o gás? A solução segura é pedir outro.\n\n📲 Manda pra quem ainda faz isso.\n👇 Você já viu alguém fazer?\n\nEm caso de cheiro forte de gás, saia do local e ligue 193.\n\n#segurancaemcasa #mitoouverdade #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "[Água quente] no botijão?",
+ "voz": "Tem gente que joga água quente no botijão pra render mais. Nunca faça isso! Botijão não pode ser aquecido: nem água quente, nem sol, nem perto do fogo. É perigoso. Acabou o gás? Peça outro. Manda pra quem faz isso!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "noite",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Nunca] aqueça o botijão",
+   "sub": "Nem água quente, nem sol, nem perto do fogo.",
+   "fundo": "amarelo",
+   "emoji": "🚫",
+   "dur": 5
+  },
+  {
+   "tipo": "real",
+   "imagem": "chama-azul.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem faz isso",
+  "sub": "botijão não pode ser aquecido",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}

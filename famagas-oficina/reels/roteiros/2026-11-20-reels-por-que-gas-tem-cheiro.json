@@ -1,0 +1,46 @@
+{
+ "id": "2026-11-20-reels-por-que-gas-tem-cheiro",
+ "quando": "2026-11-20T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "mito",
+ "objetivo": "compartilhar",
+ "cta": "Manda no grupo da família",
+ "palavra": null,
+ "abordagem": "Reels: o gás de cozinha não tem cheiro (curiosidade de segurança)",
+ "legenda": "Você sabia? O gás de cozinha NÃO tem cheiro 👃\n\nO cheiro forte é colocado de propósito, para qualquer pessoa perceber um vazamento na hora. É um aviso de segurança.\n\nSentiu cheiro forte de gás? Não acenda nada, saia do local e ligue 193.\n\n📲 Manda no grupo da família: todo mundo precisa saber.\n\n#segurancaemcasa #vocesabia #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "O gás [não tem cheiro]",
+ "voz": "O gás de cozinha não tem cheiro. Aquele cheiro forte é colocado de propósito, pra você perceber um vazamento na hora. Sentiu cheiro forte de gás? Não acenda nada, saia do local e ligue um nove três. Manda no grupo da família!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "noite",
+   "dur": 4
+  },
+  {
+   "tipo": "real",
+   "imagem": "chama-azul-escuro.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Cheiro forte? [Ligue 193]",
+   "sub": "Não acenda nada e saia do local.",
+   "fundo": "amarelo",
+   "emoji": "👃",
+   "dur": 5
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 3
+  }
+ ],
+ "final": {
+  "titulo": "Manda no [grupo da família]",
+  "sub": "todo mundo precisa saber",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-18-reels-tipos-quando-gas-acaba",
+ "quando": "2026-11-18T18:30:00-03:00",
+ "pilar": "A",
+ "formato": "humor",
+ "objetivo": "compartilhar",
+ "cta": "Marca quem é cada um",
+ "palavra": null,
+ "abordagem": "Reels: 3 tipos de pessoa quando o gás acaba (humor)",
+ "legenda": "Quando o gás acaba, toda casa tem esses 3 😂\n\n1. O calmo: \"relaxa, ainda dá pra fazer o arroz\".\n2. O desesperado: \"e agora, o que a gente come?!\".\n3. O prevenido: já deixou o número da FamaGás salvo no celular.\n\n📲 Marca quem é cada um na sua casa.\n👇 E você, qual dos três?\n\n#humor #vidadecasa #gasdecozinha #dicasdecasa #cozinha #famagas",
+ "gancho": "[3 tipos] quando o gás acaba",
+ "voz": "Quando o gás acaba, toda casa tem esses três. O calmo: relaxa, ainda dá pra fazer o arroz. O desesperado: e agora, o que a gente vai comer? E o prevenido, que já tem o número da FamaGás salvo. Marca quem é cada um!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "fogao-desligado.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[1] O calmo\n[2] O desesperado\n[3] O prevenido",
+   "sub": "Toda casa tem os três.",
+   "fundo": "noite",
+   "dur": 7
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 5
+  }
+ ],
+ "final": {
+  "titulo": "[Marca] quem é cada um",
+  "sub": "e conta qual é você",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana2"
+}
