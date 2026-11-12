@@ -1,0 +1,31 @@
+{
+ "roteiro": "O gás de cozinha não tem cheiro. Aquele cheiro forte é colocado de propósito, pra você perceber um vazamento na hora. Sentiu cheiro forte de gás? Não acenda nada, saia do local e ligue um nove três. Manda no grupo da família!",
+ "transcricao": " O gás de cozinha não tem cheiro. Aquele cheiro forte é colocado de propósito, para você perceber um vazamento na hora. Sentiu cheiro forte de gás? Não acenda nada, saia do local e ligue 193. Manda no grupo da família!",
+ "similaridade": 0.927,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "O gás de",
+  "cozinha não tem",
+  "cheiro.",
+  "Aquele cheiro forte",
+  "é colocado de",
+  "propósito,",
+  "pra você perceber",
+  "um vazamento na",
+  "hora.",
+  "Sentiu cheiro forte",
+  "de gás?",
+  "Não acenda nada,",
+  "saia do local",
+  "e ligue um",
+  "nove três.",
+  "Manda no grupo",
+  "da família!"
+ ],
+ "duracao_s": 19.8
+}

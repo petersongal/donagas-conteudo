@@ -1,0 +1,28 @@
+{
+ "roteiro": "Prazer, eu sou o mascote da FamaGás. Há mais de quarenta anos a gente leva gás com segurança pra sua casa. São mais de quarenta lojas e duzentos veículos próprios. Segue a FamaGás pra ganhar dica boa todo dia!",
+ "transcricao": " Prazer! Eu sou o mascote da FamaGas. Há mais de 40 anos a gente leva gás com segurança para a sua casa. São mais de 40 lojas e 200 veículos próprios. Segue a FamaGas para ganhar dica boa todo dia!",
+ "similaridade": 0.861,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Prazer,",
+  "eu sou o",
+  "mascote da FamaGás.",
+  "Há mais de",
+  "quarenta anos a",
+  "gente leva gás",
+  "com segurança pra",
+  "sua casa.",
+  "São mais de",
+  "quarenta lojas e",
+  "duzentos veículos próprios.",
+  "Segue a FamaGás",
+  "pra ganhar dica",
+  "boa todo dia!"
+ ],
+ "duracao_s": 18.8
+}

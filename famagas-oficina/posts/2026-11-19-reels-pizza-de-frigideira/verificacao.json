@@ -1,0 +1,29 @@
+{
+ "roteiro": "Pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Quer o passo a passo? Comente receita que eu te mando agora no seu direct.",
+ "transcricao": " pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Quero passo a passo? Comente a receita que eu te mando agora no seu direct.",
+ "similaridade": 0.949,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Pizza sem ligar",
+  "o forno.",
+  "A massa vai",
+  "direto na frigideira,",
+  "com tampa e",
+  "fogo baixo.",
+  "Fica pronta rapidinho",
+  "e gasta bem",
+  "menos gás.",
+  "Quer o passo",
+  "a passo?",
+  "Comente receita que",
+  "eu te mando",
+  "agora no seu",
+  "direct."
+ ],
+ "duracao_s": 18.8
+}

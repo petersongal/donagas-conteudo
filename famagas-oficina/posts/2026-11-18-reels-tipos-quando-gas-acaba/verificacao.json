@@ -1,0 +1,32 @@
+{
+ "roteiro": "Quando o gás acaba, toda casa tem esses três. O calmo: relaxa, ainda dá pra fazer o arroz. O desesperado: e agora, o que a gente vai comer? E o prevenido, que já tem o número da FamaGás salvo. Marca quem é cada um!",
+ "transcricao": " Quando o gás acaba, toda casa tem esses três. O calmo. Relaxa, ainda dá para fazer o arroz. O desesperado. E agora, o que a gente vai comer? E o prevenido, que já tem o número da fama gás salvo. Marca quem é cada um.",
+ "similaridade": 0.944,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Quando o gás",
+  "acaba,",
+  "toda casa tem",
+  "esses três.",
+  "O calmo:",
+  "relaxa,",
+  "ainda dá pra",
+  "fazer o arroz.",
+  "O desesperado:",
+  "e agora,",
+  "o que a",
+  "gente vai comer?",
+  "E o prevenido,",
+  "que já tem",
+  "o número da",
+  "FamaGás salvo.",
+  "Marca quem é",
+  "cada um!"
+ ],
+ "duracao_s": 19.8
+}

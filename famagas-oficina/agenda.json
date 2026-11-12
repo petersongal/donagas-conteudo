@@ -152,5 +152,159 @@
   "palavra": "ACHADINHOS",
   "gancho": "[Achadinhos] toda semana",
   "formato": "canal"
+ },
+ {
+  "id": "2026-11-18-reels-tipos-quando-gas-acaba",
+  "tipo": "reels",
+  "abordagem": "Reels: 3 tipos de pessoa quando o gás acaba (humor)",
+  "legenda": "Quando o gás acaba, toda casa tem esses 3 😂\n\n1. O calmo: \"relaxa, ainda dá pra fazer o arroz\".\n2. O desesperado: \"e agora, o que a gente come?!\".\n3. O prevenido: já deixou o número da FamaGás salvo no celular.\n\n📲 Marca quem é cada um na sua casa.\n👇 E você, qual dos três?\n\n#humor #vidadecasa #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-18-reels-tipos-quando-gas-acaba/reel.mp4",
+   "posts/2026-11-18-reels-tipos-quando-gas-acaba/capa.jpg"
+  ],
+  "video": "posts/2026-11-18-reels-tipos-quando-gas-acaba/reel.mp4",
+  "capa": "posts/2026-11-18-reels-tipos-quando-gas-acaba/capa.jpg",
+  "agendado_para": "2026-11-18T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Marca quem é cada um",
+  "lote": "reels-semana2",
+  "palavra": null,
+  "gancho": "[3 tipos] quando o gás acaba",
+  "formato": "humor"
+ },
+ {
+  "id": "2026-11-19-reels-pizza-de-frigideira",
+  "tipo": "reels",
+  "abordagem": "Reels: pizza de frigideira, sem forno (RECEITA)",
+  "legenda": "Pizza SEM forno, feita na frigideira 🍕\n\nA massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás do que ligar o forno.\n\n💛 Comente RECEITA que eu te mando o passo a passo no direct.\n🔖 Salva pra fazer no fim de semana.\n\n#receitafacil #pizzadefrigideira #semforno #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-19-reels-pizza-de-frigideira/reel.mp4",
+   "posts/2026-11-19-reels-pizza-de-frigideira/capa.jpg"
+  ],
+  "video": "posts/2026-11-19-reels-pizza-de-frigideira/reel.mp4",
+  "capa": "posts/2026-11-19-reels-pizza-de-frigideira/capa.jpg",
+  "agendado_para": "2026-11-19T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comente RECEITA",
+  "lote": "reels-semana2",
+  "palavra": "RECEITA",
+  "gancho": "Pizza [sem forno]",
+  "formato": "receita"
+ },
+ {
+  "id": "2026-11-20-reels-por-que-gas-tem-cheiro",
+  "tipo": "reels",
+  "abordagem": "Reels: o gás de cozinha não tem cheiro (curiosidade de segurança)",
+  "legenda": "Você sabia? O gás de cozinha NÃO tem cheiro 👃\n\nO cheiro forte é colocado de propósito, para qualquer pessoa perceber um vazamento na hora. É um aviso de segurança.\n\nSentiu cheiro forte de gás? Não acenda nada, saia do local e ligue 193.\n\n📲 Manda no grupo da família: todo mundo precisa saber.\n\n#segurancaemcasa #vocesabia #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-20-reels-por-que-gas-tem-cheiro/reel.mp4",
+   "posts/2026-11-20-reels-por-que-gas-tem-cheiro/capa.jpg"
+  ],
+  "video": "posts/2026-11-20-reels-por-que-gas-tem-cheiro/reel.mp4",
+  "capa": "posts/2026-11-20-reels-por-que-gas-tem-cheiro/capa.jpg",
+  "agendado_para": "2026-11-20T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda no grupo da família",
+  "lote": "reels-semana2",
+  "palavra": null,
+  "gancho": "O gás [não tem cheiro]",
+  "formato": "mito"
+ },
+ {
+  "id": "2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido",
+  "tipo": "reels",
+  "abordagem": "Reels: fogo alto não cozinha mais rápido depois que ferve",
+  "legenda": "Fogo alto NÃO cozinha mais rápido 🔥\n\nDepois que a água ferve, ela não passa de 100 graus. Fogo alto só faz a água evaporar e o gás ir embora. Ferveu? Abaixe o fogo e tampe a panela: cozinha no mesmo tempo.\n\n🔖 Salva pra lembrar na hora do almoço.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido/reel.mp4",
+   "posts/2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido/capa.jpg"
+  ],
+  "video": "posts/2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido/reel.mp4",
+  "capa": "posts/2026-11-21-reels-fogo-alto-nao-cozinha-mais-rapido/capa.jpg",
+  "agendado_para": "2026-11-21T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e comente CANAL",
+  "lote": "reels-semana2",
+  "palavra": "CANAL",
+  "gancho": "Fogo alto? [Gás jogado fora]",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-22-reels-prazer-famagas-40-anos",
+  "tipo": "reels",
+  "abordagem": "Reels: prazer, FamaGás (40 anos, lojas, frota)",
+  "legenda": "Prazer, FamaGás! 💛\n\nHá mais de 40 anos levando gás de cozinha com segurança: mais de 40 lojas, 200 veículos próprios e 22 cidades atendidas.\n\n👉 Segue a gente pra receber dica de economia, receita e segurança todo dia.\n👇 De qual cidade você é? Conta aqui.\n\n#entregadegas #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-22-reels-prazer-famagas-40-anos/reel.mp4",
+   "posts/2026-11-22-reels-prazer-famagas-40-anos/capa.jpg"
+  ],
+  "video": "posts/2026-11-22-reels-prazer-famagas-40-anos/reel.mp4",
+  "capa": "posts/2026-11-22-reels-prazer-famagas-40-anos/capa.jpg",
+  "agendado_para": "2026-11-22T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "E",
+  "layout": "reels",
+  "objetivo": "seguir",
+  "cta": "Segue a FamaGás",
+  "lote": "reels-semana2",
+  "palavra": null,
+  "gancho": "Há [40 anos] na sua cozinha",
+  "formato": "humor"
+ },
+ {
+  "id": "2026-11-23-reels-ofertas-de-cozinha-canal",
+  "tipo": "reels",
+  "abordagem": "Reels: canal de ofertas de cozinha (OFERTA)",
+  "legenda": "Sua panela já está pedindo aposentadoria? 🍳\n\nEu separo as ofertas de panela, pote e utilidade de cozinha com nota alta e preço bom, num canal de graça no WhatsApp. Sem bagunça: só oferta boa.\n\n💛 Comente OFERTA que eu te mando o link no direct.\n\n#ofertas #achadinhos #utilidadesdomesticas #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-23-reels-ofertas-de-cozinha-canal/reel.mp4",
+   "posts/2026-11-23-reels-ofertas-de-cozinha-canal/capa.jpg"
+  ],
+  "video": "posts/2026-11-23-reels-ofertas-de-cozinha-canal/reel.mp4",
+  "capa": "posts/2026-11-23-reels-ofertas-de-cozinha-canal/capa.jpg",
+  "agendado_para": "2026-11-23T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comente OFERTA",
+  "lote": "reels-semana2",
+  "palavra": "OFERTA",
+  "gancho": "Panela velha? [Olha isso]",
+  "formato": "canal"
+ },
+ {
+  "id": "2026-11-24-reels-botijao-agua-quente",
+  "tipo": "reels",
+  "abordagem": "Reels: água quente ou sol no botijão para render (mito perigoso)",
+  "legenda": "Jogar água quente no botijão pra \"render mais\"? NUNCA faça isso 🚫\n\nBotijão não pode ser aquecido: nem água quente, nem sol, nem perto do fogo. Calor aumenta a pressão lá dentro e é perigoso. Acabou o gás? A solução segura é pedir outro.\n\n📲 Manda pra quem ainda faz isso.\n👇 Você já viu alguém fazer?\n\nEm caso de cheiro forte de gás, saia do local e ligue 193.\n\n#segurancaemcasa #mitoouverdade #gasdecozinha #dicasdecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-24-reels-botijao-agua-quente/reel.mp4",
+   "posts/2026-11-24-reels-botijao-agua-quente/capa.jpg"
+  ],
+  "video": "posts/2026-11-24-reels-botijao-agua-quente/reel.mp4",
+  "capa": "posts/2026-11-24-reels-botijao-agua-quente/capa.jpg",
+  "agendado_para": "2026-11-24T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem faz isso",
+  "lote": "reels-semana2",
+  "palavra": null,
+  "gancho": "[Água quente] no botijão?",
+  "formato": "mito"
  }
 ]

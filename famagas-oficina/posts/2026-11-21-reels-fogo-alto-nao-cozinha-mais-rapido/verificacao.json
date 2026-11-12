@@ -1,0 +1,30 @@
+{
+ "roteiro": "Fogo alto não cozinha mais rápido. Depois que a água ferve, ela não esquenta mais. O fogo alto só gasta o seu gás. Ferveu? Abaixe o fogo e tampe a panela. Cozinha no mesmo tempo. Salva essa dica!",
+ "transcricao": " Fogo alto não cozinha mais rápido. Depois que a água ferve, ela não esquenta mais. O fogo alto só gasta o seu gás. Ferveu? Abaixe o fogo e tampe a panela. Cozinha no mesmo tempo. Salva essa dica!",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Fogo alto não",
+  "cozinha mais rápido.",
+  "Depois que a",
+  "água ferve,",
+  "ela não esquenta",
+  "mais.",
+  "O fogo alto",
+  "só gasta o",
+  "seu gás.",
+  "Ferveu?",
+  "Abaixe o fogo",
+  "e tampe a",
+  "panela.",
+  "Cozinha no mesmo",
+  "tempo.",
+  "Salva essa dica!"
+ ],
+ "duracao_s": 18.8
+}

@@ -1,0 +1,30 @@
+{
+ "roteiro": "Tem gente que joga água quente no botijão pra render mais. Nunca faça isso! Botijão não pode ser aquecido: nem água quente, nem sol, nem perto do fogo. É perigoso. Acabou o gás? Peça outro. Manda pra quem faz isso!",
+ "transcricao": " Tem gente que joga água quente no botijão para render mais. Nunca faça isso! Botijão não pode ser aquecido. Nem água quente, nem sol, nem perto do fogo. É perigoso. Acabou o gás? Peça outro. Manda para quem faz isso!",
+ "similaridade": 0.95,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Tem gente que",
+  "joga água quente",
+  "no botijão pra",
+  "render mais.",
+  "Nunca faça isso!",
+  "Botijão não pode",
+  "ser aquecido:",
+  "nem água quente,",
+  "nem sol,",
+  "nem perto do",
+  "fogo.",
+  "É perigoso.",
+  "Acabou o gás?",
+  "Peça outro.",
+  "Manda pra quem",
+  "faz isso!"
+ ],
+ "duracao_s": 20.8
+}
