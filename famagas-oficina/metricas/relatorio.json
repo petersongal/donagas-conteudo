@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-12T10:10:36.391Z",
- "ultima_coleta": "2026-11-12T10:10:03.872+00:00",
+ "gerado_em": "2026-11-12T11:50:51.541Z",
+ "ultima_coleta": "2026-11-12T11:20:02.719+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -702,7 +702,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-12T07:55:02.134+00:00",
+   "metricas_em": "2026-11-12T10:55:03.451+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -764,15 +764,30 @@
    "status": "publicado",
    "permalink": "https://www.instagram.com/p/Dfnnt0yjPHT/",
    "metricas": {
-    "likes": 2,
+    "likes": 3,
     "reach": 8,
     "saved": 0,
-    "views": 21,
+    "views": 22,
     "shares": 0,
     "comments": 0,
-    "total_interactions": 2
+    "total_interactions": 3
    },
-   "metricas_em": "2026-11-12T08:15:05.364+00:00",
+   "metricas_em": "2026-11-12T11:20:02.719+00:00",
+   "erro": null,
+   "palavras": {}
+  },
+  {
+   "id": "2026-11-13-story-1",
+   "tipo": "story",
+   "abordagem": "Dica de gás + chamada da receita",
+   "palavra": "CANAL",
+   "meta": {},
+   "agendado_para": "2026-11-12T11:30:00+00:00",
+   "publicado_em": "2026-11-12T11:30:13.941+00:00",
+   "status": "publicado",
+   "permalink": null,
+   "metricas": null,
+   "metricas_em": null,
    "erro": null,
    "palavras": {}
   }
