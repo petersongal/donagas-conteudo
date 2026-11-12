@@ -1,7 +1,7 @@
 {
- "roteiro": "Pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Quer o passo a passo? Comente receita que eu te mando agora no seu direct.",
- "transcricao": " pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Quero passo a passo? Comente a receita que eu te mando agora no seu direct.",
- "similaridade": 0.949,
+ "roteiro": "Pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Para receber o passo a passo, comente a palavra receita, que eu te mando agora no seu direct.",
+ "transcricao": " Pizza sem ligar o forno. A massa vai direto na frigideira, com tampa e fogo baixo. Fica pronta rapidinho e gasta bem menos gás. Para receber o passo a passo, comente a palavra receita, que eu te mando agora no seu direct.",
+ "similaridade": 1.0,
  "idiomas_detectados": [
   "pt"
  ],
@@ -18,12 +18,13 @@
   "Fica pronta rapidinho",
   "e gasta bem",
   "menos gás.",
-  "Quer o passo",
-  "a passo?",
-  "Comente receita que",
-  "eu te mando",
-  "agora no seu",
-  "direct."
+  "Para receber o",
+  "passo a passo,",
+  "comente a palavra",
+  "receita,",
+  "que eu te",
+  "mando agora no",
+  "seu direct."
  ],
  "duracao_s": 18.8
 }

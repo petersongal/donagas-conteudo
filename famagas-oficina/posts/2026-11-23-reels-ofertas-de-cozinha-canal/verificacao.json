@@ -1,6 +1,6 @@
 {
- "roteiro": "Sua panela já está pedindo aposentadoria? Toda semana eu separo ofertas de panela, pote e utilidade de cozinha, com nota alta e preço bom. É um canal de graça no WhatsApp. Comente oferta que eu te mando o link.",
- "transcricao": " Sua panela já está pedindo aposentadoria? Toda semana eu separo ofertas de panela, pote e utilidade de cozinha com nota alta e preço bom. É um canal de graça no WhatsApp. Comente oferta que eu te mando o link.",
+ "roteiro": "Sua panela já deu o que tinha que dar? Toda semana eu separo ofertas de panela, pote e utilidade de cozinha, com nota alta e preço bom. É um canal de graça no WhatsApp. Comente oferta que eu te mando o link.",
+ "transcricao": " Sua panela já deu o que tinha que dar? Toda semana eu separo ofertas de panela, pote e utilidade de cozinha com nota alta e preço bom. É um canal de graça no WhatsApp. Comente oferta que eu te mando o link.",
  "similaridade": 1.0,
  "idiomas_detectados": [
   "pt"
@@ -10,7 +10,8 @@
  "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
  "legendas": [
   "Sua panela já",
-  "está pedindo aposentadoria?",
+  "deu o que",
+  "tinha que dar?",
   "Toda semana eu",
   "separo ofertas de",
   "panela,",
