@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-12T10:02:22.429Z",
- "ultima_coleta": "2026-11-12T10:00:03.959+00:00",
+ "gerado_em": "2026-11-12T10:10:36.391Z",
+ "ultima_coleta": "2026-11-12T10:10:03.872+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -122,7 +122,7 @@
     "comments": 1,
     "total_interactions": 7
    },
-   "metricas_em": "2026-11-12T07:05:02.405+00:00",
+   "metricas_em": "2026-11-12T10:10:03.872+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -160,7 +160,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-12T07:00:05.975+00:00",
+   "metricas_em": "2026-11-12T10:05:04.531+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -316,7 +316,7 @@
     "comments": 3,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-12T07:00:03.846+00:00",
+   "metricas_em": "2026-11-12T10:05:02.528+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -356,7 +356,7 @@
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-12T07:00:04.769+00:00",
+   "metricas_em": "2026-11-12T10:05:03.264+00:00",
    "erro": null,
    "palavras": {
     "canal": 1
@@ -389,14 +389,14 @@
    "permalink": "https://www.instagram.com/p/DfcSwQ_DZAI/",
    "metricas": {
     "likes": 4,
-    "reach": 60,
+    "reach": 61,
     "saved": 0,
-    "views": 137,
+    "views": 138,
     "shares": 0,
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-12T07:00:05.035+00:00",
+   "metricas_em": "2026-11-12T10:05:03.555+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -474,7 +474,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-12T07:00:05.378+00:00",
+   "metricas_em": "2026-11-12T10:05:03.926+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -550,7 +550,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-12T07:00:04.165+00:00",
+   "metricas_em": "2026-11-12T10:05:02.776+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -626,7 +626,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-12T07:00:04.505+00:00",
+   "metricas_em": "2026-11-12T10:05:02.993+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -664,7 +664,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-12T07:00:05.643+00:00",
+   "metricas_em": "2026-11-12T10:05:04.23+00:00",
    "erro": null,
    "palavras": {}
   },
