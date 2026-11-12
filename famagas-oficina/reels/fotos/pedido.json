@@ -1,5 +1,5 @@
 {
- "por_tema": 5,
+ "por_tema": 8,
  "temas": {
   "chama-azul": [
    "gas stove blue flame",
@@ -34,6 +34,47 @@
   "utensilios-cozinha": [
    "kitchen utensils pots pans",
    "cookware set"
+  ],
+  "agua-fervendo": [
+   "boiling water pot stove",
+   "pot boiling on gas stove",
+   "boiling pot"
+  ],
+  "pizza-frigideira": [
+   "pizza in frying pan",
+   "skillet pizza",
+   "homemade pizza slice"
+  ],
+  "fogao-cozinhando": [
+   "cooking on gas stove",
+   "frying pan on gas stove",
+   "gas stove kitchen"
+  ],
+  "panela-com-tampa": [
+   "pot with lid on stove",
+   "cooking pot steam lid"
+  ],
+  "botijao-gas": [
+   "propane cylinder",
+   "gas cylinder",
+   "botijão gás cozinha"
+  ],
+  "panelas-cozinha": [
+   "pots and pans kitchen",
+   "cookware kitchen shelf",
+   "kitchen utensils"
+  ],
+  "mesa-jantar": [
+   "homemade dinner table food",
+   "family dinner table"
+  ],
+  "prato-vazio": [
+   "empty plate table",
+   "empty pot kitchen"
+  ],
+  "caminhao-entrega": [
+   "delivery truck street",
+   "gas delivery truck"
   ]
  },
  "unsplash": {

@@ -29,12 +29,26 @@ def baixar(url, dest):
     return im.size
 
 
+# Bancos de fotos atuais dentro do Openverse (as coleções de museu trazem foto de arquivo antiga, que não serve).
+FONTES_BOAS = "flickr,stocksnap,rawpixel"
+
+
 def openverse(q, n):
-    r = requests.get("https://api.openverse.org/v1/images/", headers=UA, timeout=40,
-                     params={"q": q, "license": "cc0,pdm", "page_size": n * 2, "mature": "false"})
-    r.raise_for_status()
+    base = {"q": q, "license": "cc0,pdm", "page_size": min(20, n * 2), "mature": "false"}
+    res = []
+    for extra in ({"source": FONTES_BOAS, "category": "photograph"}, {"source": FONTES_BOAS}, {}):
+        try:
+            r = requests.get("https://api.openverse.org/v1/images/", headers=UA, timeout=40, params={**base, **extra})
+            r.raise_for_status()
+            res = r.json().get("results", [])
+        except Exception as e:
+            print(f"[fotos] openverse {extra or 'sem filtro'}: {e}", flush=True)
+            res = []
+        if len(res) >= 3:
+            break
+        time.sleep(1.0)
     return [{"url": x.get("url"), "autor": x.get("creator"), "licenca": x.get("license"), "fonte": x.get("source"),
-             "pagina": x.get("foreign_landing_url"), "titulo": x.get("title")} for x in r.json().get("results", [])]
+             "pagina": x.get("foreign_landing_url"), "titulo": x.get("title")} for x in res]
 
 
 def commons(q, n):
