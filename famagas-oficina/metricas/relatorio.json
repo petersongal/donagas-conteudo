@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-12T09:50:40.621Z",
- "ultima_coleta": "2026-11-12T09:50:03.683+00:00",
+ "gerado_em": "2026-11-12T10:02:22.429Z",
+ "ultima_coleta": "2026-11-12T10:00:03.959+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -51,7 +51,7 @@
     "comments": 1,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-12T06:50:03.929+00:00",
+   "metricas_em": "2026-11-12T09:55:03.921+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -278,7 +278,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-12T06:50:03.648+00:00",
+   "metricas_em": "2026-11-12T09:55:03.608+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -436,7 +436,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-12T06:50:03.377+00:00",
+   "metricas_em": "2026-11-12T09:55:03.248+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -588,7 +588,7 @@
     "comments": 0,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-12T06:55:03.536+00:00",
+   "metricas_em": "2026-11-12T10:00:03.959+00:00",
    "erro": null,
    "palavras": {}
   },
