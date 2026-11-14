@@ -1,7 +1,7 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-14T10:54:31.701Z",
- "ultima_coleta": "2026-11-14T08:30:08.364Z",
+ "gerado_em": "2026-11-14T18:28:53.752Z",
+ "ultima_coleta": "2026-11-14T17:45:02.062Z",
  "seguidores_hist": [
   {
    "d": "2026-11-10",
@@ -26,7 +26,7 @@
   {
    "d": "2026-11-14",
    "seguidores": 991,
-   "posts": 45
+   "posts": 46
   }
  ],
  "posts": [
@@ -47,7 +47,7 @@
     "comments": 5,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-14T08:30:29.667+00:00"
+   "metricas_em": "2026-11-14T17:45:13.233+00:00"
   },
   {
    "id": "2026-11-05-story-1900",
@@ -88,7 +88,7 @@
     "comments": 2,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-14T08:30:31.524+00:00"
+   "metricas_em": "2026-11-14T17:45:15.931+00:00"
   },
   {
    "id": "2026-11-06-feed-pague-na-entrega",
@@ -107,7 +107,7 @@
     "comments": 2,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-14T08:30:30.479+00:00"
+   "metricas_em": "2026-11-14T17:45:14.543+00:00"
   },
   {
    "id": "2026-11-06-feed-receita-feijao",
@@ -126,7 +126,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-14T05:15:29.143+00:00"
+   "metricas_em": "2026-11-14T17:45:17.387+00:00"
   },
   {
    "id": "2026-11-07-story-0830",
@@ -156,7 +156,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:27.491+00:00"
+   "metricas_em": "2026-11-14T17:45:11.444+00:00"
   },
   {
    "id": "2026-11-07-feed-compare-precos",
@@ -168,14 +168,14 @@
    "permalink": "https://www.instagram.com/p/Dfcj71WExKf/",
    "metricas": {
     "likes": 1,
-    "reach": 30,
+    "reach": 31,
     "saved": 0,
-    "views": 60,
+    "views": 61,
     "shares": 0,
     "comments": 2,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:30.084+00:00"
+   "metricas_em": "2026-11-14T17:45:14.138+00:00"
   },
   {
    "id": "2026-11-07-feed-receita-ovos",
@@ -194,7 +194,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:27.864+00:00"
+   "metricas_em": "2026-11-14T17:45:11.87+00:00"
   },
   {
    "id": "2026-11-08-story-0830",
@@ -217,14 +217,14 @@
    "permalink": "https://www.instagram.com/p/DfewsJnE46A/",
    "metricas": {
     "likes": 4,
-    "reach": 51,
+    "reach": 53,
     "saved": 0,
-    "views": 148,
+    "views": 152,
     "shares": 0,
     "comments": 1,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-14T05:15:29.834+00:00"
+   "metricas_em": "2026-11-14T17:45:17.929+00:00"
   },
   {
    "id": "2026-11-08-feed-troca-ou-completo",
@@ -236,14 +236,14 @@
    "permalink": "https://www.instagram.com/p/DffIuhcEypL/",
    "metricas": {
     "likes": 4,
-    "reach": 32,
+    "reach": 33,
     "saved": 0,
-    "views": 73,
+    "views": 74,
     "shares": 0,
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-14T08:30:31.013+00:00"
+   "metricas_em": "2026-11-14T17:45:14.998+00:00"
   },
   {
    "id": "2026-11-08-feed-faq-marca",
@@ -262,7 +262,7 @@
     "comments": 1,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-14T08:30:28.578+00:00"
+   "metricas_em": "2026-11-14T17:45:12.218+00:00"
   },
   {
    "id": "2026-11-09-story-0830",
@@ -285,14 +285,14 @@
    "permalink": "https://www.instagram.com/p/DfhVdVFE84l/",
    "metricas": {
     "likes": 3,
-    "reach": 15,
+    "reach": 16,
     "saved": 0,
-    "views": 22,
+    "views": 23,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T05:15:30.157+00:00"
+   "metricas_em": "2026-11-14T17:45:18.442+00:00"
   },
   {
    "id": "2026-11-09-feed-economia",
@@ -304,14 +304,14 @@
    "permalink": "https://www.instagram.com/p/DfhtgfDk2nO/",
    "metricas": {
     "likes": 1,
-    "reach": 17,
+    "reach": 18,
     "saved": 0,
-    "views": 34,
+    "views": 36,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-14T08:30:32.283+00:00"
+   "metricas_em": "2026-11-14T17:45:16.337+00:00"
   },
   {
    "id": "2026-11-09-feed-passo-baixar",
@@ -330,7 +330,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:22.858+00:00"
+   "metricas_em": "2026-11-14T14:31:19.825+00:00"
   },
   {
    "id": "2026-11-10-story-0830",
@@ -359,14 +359,14 @@
    "permalink": "https://www.instagram.com/p/Dfj6RVnk2-Y/",
    "metricas": {
     "likes": 3,
-    "reach": 16,
+    "reach": 17,
     "saved": 0,
-    "views": 37,
+    "views": 39,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:22.119+00:00"
+   "metricas_em": "2026-11-14T17:45:19.512+00:00"
   },
   {
    "id": "2026-11-10-feed-quanto-dura",
@@ -378,14 +378,14 @@
    "permalink": "https://www.instagram.com/p/DfkSUazE2TF/",
    "metricas": {
     "likes": 3,
-    "reach": 11,
+    "reach": 12,
     "saved": 0,
-    "views": 33,
+    "views": 34,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:21.622+00:00"
+   "metricas_em": "2026-11-14T17:45:18.923+00:00"
   },
   {
    "id": "2026-11-12-reels-botijao-deitado",
@@ -416,7 +416,7 @@
     "total_interactions": 5,
     "ig_reels_avg_watch_time": 3938
    },
-   "metricas_em": "2026-11-14T08:30:26.633+00:00"
+   "metricas_em": "2026-11-14T14:31:23.916+00:00"
   },
   {
    "id": "2026-11-10-feed-tipos-quando-o-gas-acaba",
@@ -428,14 +428,14 @@
    "permalink": "https://www.instagram.com/p/DflCbHNE8V2/",
    "metricas": {
     "likes": 3,
-    "reach": 10,
+    "reach": 11,
     "saved": 0,
-    "views": 20,
+    "views": 23,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-14T08:30:27.102+00:00"
+   "metricas_em": "2026-11-14T17:45:11.002+00:00"
   },
   {
    "id": "2026-11-10-feed-passo-enderecos",
@@ -477,12 +477,12 @@
     "likes": 3,
     "reach": 18,
     "saved": 0,
-    "views": 38,
+    "views": 40,
     "shares": 0,
     "comments": 1,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-14T08:30:25.486+00:00"
+   "metricas_em": "2026-11-14T14:31:23.284+00:00"
   },
   {
    "id": "2026-11-12-reels-visita-chegando",
@@ -502,7 +502,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 3778
    },
-   "metricas_em": "2026-11-14T08:30:25+00:00"
+   "metricas_em": "2026-11-14T14:31:22.768+00:00"
   },
   {
    "id": "2026-11-12-story-0830-v2",
@@ -538,7 +538,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-14T08:30:24.451+00:00"
+   "metricas_em": "2026-11-14T14:31:21.539+00:00"
   },
   {
    "id": "2026-11-13-reels-7-habitos",
@@ -558,7 +558,7 @@
     "total_interactions": 2,
     "ig_reels_avg_watch_time": 3372
    },
-   "metricas_em": "2026-11-14T08:30:24.025+00:00"
+   "metricas_em": "2026-11-14T14:31:20.352+00:00"
   },
   {
    "id": "2026-11-13-story-0830-v2",
@@ -587,14 +587,14 @@
    "permalink": "https://www.instagram.com/p/Dfr2azVk4CV/",
    "metricas": {
     "likes": 1,
-    "reach": 7,
+    "reach": 10,
     "saved": 0,
-    "views": 10,
+    "views": 17,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-14T05:15:28.669+00:00"
+   "metricas_em": "2026-11-14T17:45:16.873+00:00"
   },
   {
    "id": "2026-11-14-reels-crepioca",
@@ -606,15 +606,45 @@
    "permalink": "https://www.instagram.com/reel/Dfsp7kCv7Mf/",
    "metricas": {
     "likes": 3,
-    "reach": 10,
+    "reach": 15,
     "saved": 0,
-    "views": 19,
+    "views": 24,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3,
-    "ig_reels_avg_watch_time": 4923
+    "ig_reels_avg_watch_time": 4072
    },
-   "metricas_em": "2026-11-14T08:30:29.082+00:00"
+   "metricas_em": "2026-11-14T17:45:12.724+00:00"
+  },
+  {
+   "id": "2026-11-14-story-0830-v2",
+   "tipo": "story",
+   "abordagem": "story: O gás de cozinha tem cheiro?",
+   "agendado_para": "2026-11-14T11:30:00+00:00",
+   "publicado_em": "2026-11-14T11:30:18.91+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4030187476291408686",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-14-feed-por-que-gas-tem-cheiro",
+   "tipo": "carrossel",
+   "abordagem": "Curiosidade: por que o gás tem cheiro",
+   "agendado_para": "2026-11-14T14:30:00+00:00",
+   "publicado_em": "2026-11-14T14:30:58.43+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/DfubNfTE7wg/",
+   "metricas": {
+    "likes": 0,
+    "reach": 3,
+    "saved": 0,
+    "views": 8,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 0
+   },
+   "metricas_em": "2026-11-14T17:45:13.66+00:00"
   }
  ]
 }
