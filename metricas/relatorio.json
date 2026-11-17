@@ -1,7 +1,7 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-17T04:10:36.058Z",
- "ultima_coleta": "2026-11-17T02:00:11.502Z",
+ "gerado_em": "2026-11-17T16:28:55.713Z",
+ "ultima_coleta": "2026-11-17T14:31:00.657Z",
  "seguidores_hist": [
   {
    "d": "2026-11-10",
@@ -40,8 +40,8 @@
   },
   {
    "d": "2026-11-17",
-   "seguidores": 992,
-   "posts": 51
+   "seguidores": 991,
+   "posts": 52
   }
  ],
  "posts": [
@@ -62,7 +62,7 @@
     "comments": 5,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-17T02:00:25.637+00:00"
+   "metricas_em": "2026-11-17T14:31:15.677+00:00"
   },
   {
    "id": "2026-11-05-story-1900",
@@ -103,7 +103,7 @@
     "comments": 2,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-16T22:45:16.919+00:00"
+   "metricas_em": "2026-11-17T11:30:27.428+00:00"
   },
   {
    "id": "2026-11-06-feed-pague-na-entrega",
@@ -122,7 +122,7 @@
     "comments": 2,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-16T22:45:15.416+00:00"
+   "metricas_em": "2026-11-17T11:30:26.006+00:00"
   },
   {
    "id": "2026-11-06-feed-receita-feijao",
@@ -141,7 +141,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-16T22:45:19.029+00:00"
+   "metricas_em": "2026-11-17T11:30:29.439+00:00"
   },
   {
    "id": "2026-11-07-story-0830",
@@ -171,7 +171,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-17T02:00:23.46+00:00"
+   "metricas_em": "2026-11-17T14:31:13.259+00:00"
   },
   {
    "id": "2026-11-07-feed-compare-precos",
@@ -190,7 +190,7 @@
     "comments": 2,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-16T22:45:14.547+00:00"
+   "metricas_em": "2026-11-17T14:31:16.682+00:00"
   },
   {
    "id": "2026-11-07-feed-receita-ovos",
@@ -209,7 +209,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-17T02:00:23.844+00:00"
+   "metricas_em": "2026-11-17T14:31:13.704+00:00"
   },
   {
    "id": "2026-11-08-story-0830",
@@ -239,7 +239,7 @@
     "comments": 1,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-16T22:45:19.418+00:00"
+   "metricas_em": "2026-11-17T11:30:29.848+00:00"
   },
   {
    "id": "2026-11-08-feed-troca-ou-completo",
@@ -258,7 +258,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-16T22:45:15.926+00:00"
+   "metricas_em": "2026-11-17T11:30:26.476+00:00"
   },
   {
    "id": "2026-11-08-feed-faq-marca",
@@ -272,12 +272,12 @@
     "likes": 3,
     "reach": 26,
     "saved": 0,
-    "views": 58,
+    "views": 59,
     "shares": 0,
     "comments": 1,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-17T02:00:24.239+00:00"
+   "metricas_em": "2026-11-17T14:31:14.172+00:00"
   },
   {
    "id": "2026-11-09-story-0830",
@@ -302,12 +302,12 @@
     "likes": 3,
     "reach": 18,
     "saved": 0,
-    "views": 30,
+    "views": 31,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-16T22:45:19.787+00:00"
+   "metricas_em": "2026-11-17T11:30:30.253+00:00"
   },
   {
    "id": "2026-11-09-feed-economia",
@@ -326,7 +326,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-16T22:45:17.471+00:00"
+   "metricas_em": "2026-11-17T11:30:27.864+00:00"
   },
   {
    "id": "2026-11-09-feed-passo-baixar",
@@ -345,7 +345,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-17T02:00:19.194+00:00"
+   "metricas_em": "2026-11-17T11:30:31.77+00:00"
   },
   {
    "id": "2026-11-10-story-0830",
@@ -381,7 +381,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-17T02:00:18.604+00:00"
+   "metricas_em": "2026-11-17T11:30:31.236+00:00"
   },
   {
    "id": "2026-11-10-feed-quanto-dura",
@@ -393,14 +393,14 @@
    "permalink": "https://www.instagram.com/p/DfkSUazE2TF/",
    "metricas": {
     "likes": 3,
-    "reach": 12,
+    "reach": 13,
     "saved": 0,
     "views": 37,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-16T22:45:20.229+00:00"
+   "metricas_em": "2026-11-17T11:30:30.795+00:00"
   },
   {
    "id": "2026-11-12-reels-botijao-deitado",
@@ -431,7 +431,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 3940
    },
-   "metricas_em": "2026-11-17T02:00:21.824+00:00"
+   "metricas_em": "2026-11-17T14:31:11.05+00:00"
   },
   {
    "id": "2026-11-10-feed-passo-enderecos",
@@ -461,7 +461,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-17T02:00:22.182+00:00"
+   "metricas_em": "2026-11-17T14:31:11.515+00:00"
   },
   {
    "id": "2026-11-11-story-0830-v2",
@@ -497,7 +497,7 @@
     "comments": 1,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-17T02:00:21.296+00:00"
+   "metricas_em": "2026-11-17T14:31:10.42+00:00"
   },
   {
    "id": "2026-11-12-reels-visita-chegando",
@@ -517,7 +517,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 3729
    },
-   "metricas_em": "2026-11-17T02:00:20.865+00:00"
+   "metricas_em": "2026-11-17T11:30:33.258+00:00"
   },
   {
    "id": "2026-11-12-story-0830-v2",
@@ -553,7 +553,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-17T02:00:20.439+00:00"
+   "metricas_em": "2026-11-17T11:30:32.784+00:00"
   },
   {
    "id": "2026-11-13-reels-7-habitos",
@@ -573,7 +573,7 @@
     "total_interactions": 2,
     "ig_reels_avg_watch_time": 3305
    },
-   "metricas_em": "2026-11-17T02:00:20.04+00:00"
+   "metricas_em": "2026-11-17T11:30:32.25+00:00"
   },
   {
    "id": "2026-11-13-story-0830-v2",
@@ -609,7 +609,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-16T22:45:18.495+00:00"
+   "metricas_em": "2026-11-17T11:30:29.034+00:00"
   },
   {
    "id": "2026-11-14-reels-crepioca",
@@ -620,16 +620,16 @@
    "status": "publicado",
    "permalink": "https://www.instagram.com/reel/Dfsp7kCv7Mf/",
    "metricas": {
-    "likes": 4,
-    "reach": 21,
+    "likes": 5,
+    "reach": 22,
     "saved": 0,
-    "views": 31,
+    "views": 32,
     "shares": 0,
     "comments": 0,
-    "total_interactions": 5,
-    "ig_reels_avg_watch_time": 4101
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 4077
    },
-   "metricas_em": "2026-11-17T02:00:25.103+00:00"
+   "metricas_em": "2026-11-17T14:31:15.093+00:00"
   },
   {
    "id": "2026-11-14-story-0830-v2",
@@ -658,14 +658,14 @@
    "permalink": "https://www.instagram.com/p/DfubNfTE7wg/",
    "metricas": {
     "likes": 1,
-    "reach": 9,
+    "reach": 10,
     "saved": 0,
-    "views": 17,
+    "views": 18,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-16T22:45:14.037+00:00"
+   "metricas_em": "2026-11-17T14:31:16.234+00:00"
   },
   {
    "id": "2026-11-15-reels-pressao-x-comum",
@@ -685,7 +685,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 5055
    },
-   "metricas_em": "2026-11-16T22:45:17.899+00:00"
+   "metricas_em": "2026-11-17T11:30:28.416+00:00"
   },
   {
    "id": "2026-11-15-story-0830-v2",
@@ -721,7 +721,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-17T02:00:22.553+00:00"
+   "metricas_em": "2026-11-17T14:31:11.878+00:00"
   },
   {
    "id": "2026-11-16-reels-arroz-sobras",
@@ -735,13 +735,13 @@
     "likes": 3,
     "reach": 125,
     "saved": 0,
-    "views": 144,
+    "views": 145,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3,
     "ig_reels_avg_watch_time": 5313
    },
-   "metricas_em": "2026-11-16T22:45:14.919+00:00"
+   "metricas_em": "2026-11-17T14:31:17.509+00:00"
   },
   {
    "id": "2026-11-16-story-0830-v2",
@@ -751,8 +751,14 @@
    "publicado_em": "2026-11-16T11:30:18.83+00:00",
    "status": "publicado",
    "permalink": "https://www.instagram.com/stories/appdonagas/4031637034414358551",
-   "metricas": null,
-   "metricas_em": null
+   "metricas": {
+    "reach": 19,
+    "views": 22,
+    "shares": 0,
+    "replies": 0,
+    "total_interactions": 2
+   },
+   "metricas_em": "2026-11-17T08:15:22.267+00:00"
   },
   {
    "id": "2026-11-16-feed-veja-antes-de-pedir",
@@ -766,12 +772,12 @@
     "likes": 2,
     "reach": 9,
     "saved": 0,
-    "views": 19,
+    "views": 23,
     "shares": 0,
     "comments": 2,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-17T02:00:22.974+00:00"
+   "metricas_em": "2026-11-17T14:31:12.443+00:00"
   },
   {
    "id": "2026-11-17-reels-so-quem-ficou-sem-gas",
@@ -783,15 +789,45 @@
    "permalink": "https://www.instagram.com/reel/Df0YO_aBBSA/",
    "metricas": {
     "likes": 2,
-    "reach": 41,
+    "reach": 45,
     "saved": 0,
-    "views": 50,
+    "views": 55,
     "shares": 0,
     "comments": 0,
     "total_interactions": 2,
-    "ig_reels_avg_watch_time": 2560
+    "ig_reels_avg_watch_time": 2417
    },
-   "metricas_em": "2026-11-17T02:00:24.7+00:00"
+   "metricas_em": "2026-11-17T14:31:14.627+00:00"
+  },
+  {
+   "id": "2026-11-17-story-0830-v2",
+   "tipo": "story",
+   "abordagem": "story: Como você sabe que o gás está acabando?",
+   "agendado_para": "2026-11-17T11:30:00+00:00",
+   "publicado_em": "2026-11-17T11:30:16.101+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/stories/appdonagas/4032361782999995919",
+   "metricas": null,
+   "metricas_em": null
+  },
+  {
+   "id": "2026-11-17-feed-sinais-gas-acabando",
+   "tipo": "carrossel",
+   "abordagem": "Curiosidade: sinais de que o gás está acabando",
+   "agendado_para": "2026-11-17T14:30:00+00:00",
+   "publicado_em": "2026-11-17T14:31:00.231+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/p/Df2JmcXEwpM/",
+   "metricas": {
+    "likes": 0,
+    "reach": 0,
+    "saved": 0,
+    "views": 0,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 0
+   },
+   "metricas_em": "2026-11-17T14:31:06.557+00:00"
   }
  ]
 }
