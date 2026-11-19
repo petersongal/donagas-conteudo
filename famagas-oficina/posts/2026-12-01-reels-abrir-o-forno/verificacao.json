@@ -1,0 +1,25 @@
+{
+ "roteiro": "Cada vez que você abre o forno, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro. Salva essa dica e comente CANAL para receber ofertas.",
+ "transcricao": " Cada vez que você abre o forno, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro. Salva essa dica e comente canal para receber ofertas.",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Cada vez que",
+  "você abre o",
+  "forno,",
+  "o calor escapa.",
+  "O bolo demora",
+  "mais e o",
+  "gás vai embora.",
+  "Espie pelo vidro.",
+  "Salva essa dica",
+  "e comente CANAL",
+  "para receber ofertas."
+ ],
+ "duracao_s": 14.8
+}

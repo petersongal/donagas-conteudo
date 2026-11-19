@@ -306,5 +306,137 @@
   "palavra": null,
   "gancho": "[Água quente] no botijão?",
   "formato": "mito"
+ },
+ {
+  "id": "2026-11-25-reels-panela-sem-tampa",
+  "tipo": "reels",
+  "abordagem": "Reels curto: panela sem tampa gasta mais gás",
+  "legenda": "Panela sem tampa = gás indo embora 💨\n\nSem tampa, o calor escapa e a comida demora mais pra ficar pronta. Tampou, cozinha mais rápido e o botijão dura mais.\n\n🔖 Salva pra lembrar na hora do almoço.\n📲 Manda pra quem cozinha na sua casa.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-25-reels-panela-sem-tampa/reel.mp4",
+   "posts/2026-11-25-reels-panela-sem-tampa/capa.jpg"
+  ],
+  "video": "posts/2026-11-25-reels-panela-sem-tampa/reel.mp4",
+  "capa": "posts/2026-11-25-reels-panela-sem-tampa/capa.jpg",
+  "agendado_para": "2026-11-25T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva essa dica",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Panela [sem tampa] gasta mais",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-26-reels-balanca-o-botijao",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): todo mundo balança o botijão",
+  "legenda": "Todo mundo já balançou o botijão pra ver se ainda tem gás 😅\n\nBalança, levanta, escuta... e continua na dúvida. Aí ele acaba bem no meio do almoço.\n\n📲 Manda pra aquela pessoa que faz isso toda semana.\n👇 Na sua casa, quem é?\n\n#gasdecozinha #humor #vidadecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-26-reels-balanca-o-botijao/reel.mp4",
+   "posts/2026-11-26-reels-balanca-o-botijao/capa.jpg"
+  ],
+  "video": "posts/2026-11-26-reels-balanca-o-botijao/reel.mp4",
+  "capa": "posts/2026-11-26-reels-balanca-o-botijao/capa.jpg",
+  "agendado_para": "2026-11-26T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem faz isso",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "[Balança] o botijão?",
+  "formato": "humor"
+ },
+ {
+  "id": "2026-11-27-reels-pao-de-queijo-de-frigideira",
+  "tipo": "reels",
+  "abordagem": "Reels curto: pão de queijo de frigideira em 10 minutos (RECEITA)",
+  "legenda": "Pão de queijo em 10 minutos, SEM forno 🧀\n\n1 ovo, polvilho, queijo ralado e leite. Mistura com um garfo, joga na frigideira, tampa e deixa no fogo baixo.\n\n💛 Comente RECEITA que eu te mando o passo a passo completo no direct.\n🔖 Salva pra fazer no café da tarde.\n\n#paodequeijo #receitafacil #cafedatarde #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-27-reels-pao-de-queijo-de-frigideira/reel.mp4",
+   "posts/2026-11-27-reels-pao-de-queijo-de-frigideira/capa.jpg"
+  ],
+  "video": "posts/2026-11-27-reels-pao-de-queijo-de-frigideira/reel.mp4",
+  "capa": "posts/2026-11-27-reels-pao-de-queijo-de-frigideira/capa.jpg",
+  "agendado_para": "2026-11-27T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Comente RECEITA",
+  "lote": "reels-semana3",
+  "palavra": "RECEITA",
+  "gancho": "Pão de queijo [em 10 minutos]",
+  "formato": "receita"
+ },
+ {
+  "id": "2026-11-29-reels-feijao-de-molho",
+  "tipo": "reels",
+  "abordagem": "Reels curto: feijão de molho gasta menos gás",
+  "legenda": "Feijão de molho = menos gás no fogo 🫘\n\nDeixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e o botijão dura mais. É de graça e funciona.\n\n🔖 Salva pra lembrar na véspera.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-29-reels-feijao-de-molho/reel.mp4",
+   "posts/2026-11-29-reels-feijao-de-molho/capa.jpg"
+  ],
+  "video": "posts/2026-11-29-reels-feijao-de-molho/reel.mp4",
+  "capa": "posts/2026-11-29-reels-feijao-de-molho/capa.jpg",
+  "agendado_para": "2026-11-29T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e comente CANAL",
+  "lote": "reels-semana3",
+  "palavra": "CANAL",
+  "gancho": "Feijão [de molho] gasta menos gás",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-30-reels-arroz-lava-ou-nao-lava",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): arroz, lava ou não lava? (pergunta que divide)",
+  "legenda": "Arroz: LAVA ou NÃO LAVA? 🍚\n\nEssa pergunta divide qualquer família. Tem quem jure que lavado fica soltinho, tem quem jogue direto na panela.\n\n👇 E na sua casa, como é? Comenta aqui: LAVA ou NÃO LAVA.\n📲 Manda pra quem discorda de você.\n\n#arroz #cozinha #vidadecasa #almoco #famagas",
+  "imagens": [
+   "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/reel.mp4",
+   "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/capa.jpg"
+  ],
+  "video": "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/reel.mp4",
+  "capa": "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/capa.jpg",
+  "agendado_para": "2026-11-30T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Conta nos comentários",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Arroz: [lava] ou não lava?",
+  "formato": "pergunta"
+ },
+ {
+  "id": "2026-12-01-reels-abrir-o-forno",
+  "tipo": "reels",
+  "abordagem": "Reels curto: abrir o forno toda hora gasta gás",
+  "legenda": "Abre o forno toda hora pra espiar o bolo? 👀\n\nCada vez que a porta abre, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro e só abra perto do final.\n\n🔖 Salva pra lembrar no próximo bolo.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-12-01-reels-abrir-o-forno/reel.mp4",
+   "posts/2026-12-01-reels-abrir-o-forno/capa.jpg"
+  ],
+  "video": "posts/2026-12-01-reels-abrir-o-forno/reel.mp4",
+  "capa": "posts/2026-12-01-reels-abrir-o-forno/capa.jpg",
+  "agendado_para": "2026-12-01T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e comente CANAL",
+  "lote": "reels-semana3",
+  "palavra": "CANAL",
+  "gancho": "Abre o forno [toda hora]?",
+  "formato": "alerta"
  }
 ]
