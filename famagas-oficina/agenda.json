@@ -374,6 +374,28 @@
   "formato": "receita"
  },
  {
+  "id": "2026-11-28-reels-por-que-p13",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): por que o botijão se chama P13",
+  "legenda": "Você sabe por que o botijão de casa se chama P13? 🤔\n\nPorque ele leva 13 quilos de gás. O grandão do comércio leva 45 quilos: é o P45.\n\n📲 Manda pra quem não sabia.\n👇 Você já sabia? Conta aqui.\n\n#gasdecozinha #curiosidades #vocesabia #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-28-reels-por-que-p13/reel.mp4",
+   "posts/2026-11-28-reels-por-que-p13/capa.jpg"
+  ],
+  "video": "posts/2026-11-28-reels-por-que-p13/reel.mp4",
+  "capa": "posts/2026-11-28-reels-por-que-p13/capa.jpg",
+  "agendado_para": "2026-11-28T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem não sabia",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Por que se chama [P13]?",
+  "formato": "curiosidade"
+ },
+ {
   "id": "2026-11-29-reels-feijao-de-molho",
   "tipo": "reels",
   "abordagem": "Reels curto: feijão de molho gasta menos gás",
