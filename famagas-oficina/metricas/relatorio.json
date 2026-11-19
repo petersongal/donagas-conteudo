@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-19T20:58:55.771Z",
- "ultima_coleta": "2026-11-19T20:50:01.271+00:00",
+ "gerado_em": "2026-11-19T21:39:28.570Z",
+ "ultima_coleta": "2026-11-19T21:30:39.594+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -1003,7 +1003,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 6304
    },
-   "metricas_em": "2026-11-19T18:25:02.819+00:00",
+   "metricas_em": "2026-11-19T21:30:39.594+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -1282,7 +1282,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-19T18:05:01.593+00:00",
+   "metricas_em": "2026-11-19T21:10:02.335+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1345,14 +1345,14 @@
    "permalink": "https://www.instagram.com/p/Df0fHrfDJDF/",
    "metricas": {
     "likes": 1,
-    "reach": 20,
+    "reach": 21,
     "saved": 0,
-    "views": 43,
+    "views": 44,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-19T18:25:02.553+00:00",
+   "metricas_em": "2026-11-19T21:30:39.268+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1453,14 +1453,14 @@
    "permalink": "https://www.instagram.com/p/Df3D7HUFzte/",
    "metricas": {
     "likes": 3,
-    "reach": 17,
+    "reach": 18,
     "saved": 0,
-    "views": 35,
+    "views": 36,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-19T18:00:01.457+00:00",
+   "metricas_em": "2026-11-19T21:05:02.09+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1546,6 +1546,38 @@
     "total_interactions": 1
    },
    "metricas_em": "2026-11-19T20:35:02.26+00:00",
+   "erro": null,
+   "palavras": {}
+  },
+  {
+   "id": "2026-11-19-reels-pizza-de-frigideira",
+   "tipo": "reels",
+   "abordagem": "Reels: pizza de frigideira, sem forno (RECEITA)",
+   "palavra": "RECEITA",
+   "meta": {
+    "cta": "Comente RECEITA",
+    "lote": "reels-semana2",
+    "pilar": "D",
+    "gancho": "Pizza [sem forno]",
+    "layout": "reels",
+    "formato": "receita",
+    "objetivo": "comentar"
+   },
+   "agendado_para": "2026-11-19T21:30:00+00:00",
+   "publicado_em": "2026-11-19T21:30:38.385+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/reel/Df8DLgznOlf/",
+   "metricas": {
+    "likes": 0,
+    "reach": 0,
+    "saved": 0,
+    "views": 0,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0
+   },
+   "metricas_em": "2026-11-19T21:30:38.9+00:00",
    "erro": null,
    "palavras": {}
   }
