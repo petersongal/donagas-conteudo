@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-24-reels-anote-a-data",
+ "quando": "2026-11-24T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "salvar",
+ "cta": "Salva a dica",
+ "abordagem": "Reels: anotar a data da troca do botijão",
+ "lote": "reels-semana4",
+ "legenda": "Quanto tempo dura o seu botijão? 📅\n\nAnota a data da troca e descubra. Na próxima vez, você pede antes de acabar.\n\n🔖 Salva a dica.\n\n#economiadomestica #gasdecozinha #botijao #dicasdecasa",
+ "gancho": "Quanto dura [o seu botijão?]",
+ "voz": "Quanto tempo dura o seu botijão? Anote a data da troca no calendário. Na próxima troca, conte os dias e descubra o seu ritmo. Assim você pede antes de acabar.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "thoughtful look then smile"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Trocou? [Anote a data]",
+   "sub": "Na próxima troca, conte os dias.",
+   "fundo": "claro",
+   "emoji": "⏰",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-celular.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "waves smiling"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] a dica do calendário",
+  "sub": "Manda pra quem sempre é pego de surpresa",
+  "mascote": "mascote-celular.png"
+ }
+}

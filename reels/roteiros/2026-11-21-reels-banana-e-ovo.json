@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-21-reels-banana-e-ovo",
+ "quando": "2026-11-21T19:00:00-03:00",
+ "pilar": "D",
+ "objetivo": "salvar",
+ "cta": "Salva a receita",
+ "abordagem": "Reels: panqueca de banana e ovo",
+ "lote": "reels-semana4",
+ "legenda": "Café da manhã pronto com 2 ingredientes 🍌🥚\n\nPanqueca de banana: barata, rápida e numa frigideira só.\n\n🔖 Salva a receita e manda pra quem não sabe o que fazer no café.\n\n#receitafacil #receitabarata #cafedamanha #cozinhapratica",
+ "gancho": "Café da manhã com [2 ingredientes]",
+ "voz": "Banana e ovo: só dois ingredientes e o café da manhã está pronto. Amasse uma banana, misture dois ovos e uma pitada de canela. Despeje na frigideira com fogo baixo e com tampa. Vire quando firmar. Fica macia e gasta pouquíssimo gás.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "smiles proudly holding the pan"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[1 banana] + [2 ovos]",
+   "sub": "Canela a gosto. Frigideira com tampa, fogo baixo.",
+   "fundo": "claro",
+   "emoji": "🍌",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "happy thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] a receita do café",
+  "sub": "Manda pra quem nunca sabe o que fazer 🍳",
+  "mascote": "mascote-chef.png"
+ }
+}

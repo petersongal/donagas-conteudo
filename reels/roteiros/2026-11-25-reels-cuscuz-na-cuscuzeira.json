@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-25-reels-cuscuz-na-cuscuzeira",
+ "quando": "2026-11-25T19:00:00-03:00",
+ "pilar": "D",
+ "objetivo": "salvar",
+ "cta": "Salva a receita",
+ "abordagem": "Reels: cuscuz rápido",
+ "lote": "reels-semana4",
+ "legenda": "Cuscuz de 10 minutos 🌽\n\nBarato, quentinho e usa pouco gás.\n\n🔖 Salva a receita pro próximo café ou janta.\n\n#receitafacil #receitabarata #cuscuz #cozinhapratica",
+ "gancho": "Cuscuz em [10 minutos]",
+ "voz": "Cuscuz em dez minutos. Misture o flocão com água e uma pitada de sal e deixe descansar cinco minutinhos. Coloque na cuscuzeira com a água embaixo, com tampa. Dez minutos no fogo e pronto. Rápido, barato e gasta pouco.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "proud smile"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Flocão + água + sal",
+   "sub": "Descansa 5 min. Cuscuzeira [com tampa], 10 min.",
+   "fundo": "claro",
+   "emoji": "🌽",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "happy thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] pro café de amanhã",
+  "sub": "Manda pra quem ama cuscuz",
+  "mascote": "mascote-chef.png"
+ }
+}

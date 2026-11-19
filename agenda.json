@@ -1514,5 +1514,282 @@
   "agendado_para": "2026-11-19T19:30:00-03:00",
   "aprovado": false,
   "obs": "padrão antigo (lote 2) — bloqueado em 10/11; não publicar"
+ },
+ {
+  "id": "2026-11-20-feed-5-marmitas-1-domingo",
+  "tipo": "carrossel",
+  "abordagem": "Receita: 5 marmitas em um dia",
+  "legenda": "5 marmitas prontas em um dia só 🍱\n\nCozinhar tudo de uma vez deixa o fogo menos tempo ligado e a semana mais tranquila.\n\n🔖 Salva o plano e manda pra quem vive sem tempo de cozinhar.\n\n#receitafacil #receitabarata #cozinhapratica #dicasdecasa",
+  "imagens": [
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/1.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/2.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/3.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/4.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/5.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/6.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/7.jpg",
+   "posts/2026-11-20-feed-5-marmitas-1-domingo/8.jpg"
+  ],
+  "agendado_para": "2026-11-20T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva o plano",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-21-feed-9-coisas-gastam-gas",
+  "tipo": "carrossel",
+  "abordagem": "Economia: 9 coisas que gastam gás sem você perceber",
+  "legenda": "9 coisas que gastam gás sem você perceber 🔥\n\nTem hábito aí que quase todo mundo tem. Desliza e confere quantos são seus.\n\n🔖 Salva e manda pra quem cozinha na sua casa.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/1.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/2.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/3.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/4.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/5.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/6.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/7.jpg",
+   "posts/2026-11-21-feed-9-coisas-gastam-gas/8.jpg"
+  ],
+  "agendado_para": "2026-11-21T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva e confere quantas você faz",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-22-feed-frases-de-mae-na-cozinha",
+  "tipo": "carrossel",
+  "abordagem": "Humor: frases de mãe na cozinha",
+  "legenda": "Frases que toda mãe diz na cozinha 😂\n\nTem alguma que você já ouviu mil vezes?\n\n👉 Manda pra sua mãe (ela vai rir).\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
+  "imagens": [
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/1.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/2.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/3.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/4.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/5.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/6.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/7.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/8.jpg",
+   "posts/2026-11-22-feed-frases-de-mae-na-cozinha/9.jpg"
+  ],
+  "agendado_para": "2026-11-22T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "manchete",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra sua mãe",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-23-feed-repita-o-ultimo-pedido",
+  "tipo": "carrossel",
+  "abordagem": "App: repetir o último pedido",
+  "legenda": "Pediu o gás e gostou? Da próxima vez é mais fácil 😉\n\nNo App Dona Gás você pode repetir o último pedido, conferir a oferta e pagar só na entrega.\n\n💬 Comente APP que eu te mando o link para baixar no direct.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
+  "imagens": [
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/1.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/2.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/3.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/4.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/5.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/6.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/7.jpg",
+   "posts/2026-11-23-feed-repita-o-ultimo-pedido/8.jpg"
+  ],
+  "agendado_para": "2026-11-23T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "F",
+  "layout": "mascote",
+  "objetivo": "clique",
+  "cta": "Comente APP",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-24-feed-descongelar-carne",
+  "tipo": "carrossel",
+  "abordagem": "Segurança na cozinha: descongelar carne",
+  "legenda": "Como descongelar carne do jeito certo 🥩\n\n3 jeitos seguros e 1 que muita gente faz errado. O certo também gasta menos gás.\n\n🔖 Salva pra próxima vez que tirar a carne do freezer.\n\n#mitoouverdade #gasdecozinha #seguranca #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-24-feed-descongelar-carne/1.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/2.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/3.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/4.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/5.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/6.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/7.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/8.jpg",
+   "posts/2026-11-24-feed-descongelar-carne/9.jpg"
+  ],
+  "agendado_para": "2026-11-24T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva pra descongelar do jeito certo",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-25-feed-cozinhar-pra-muita-gente",
+  "tipo": "carrossel",
+  "abordagem": "Economia: cozinhar para muita gente gastando menos gás",
+  "legenda": "Cozinhando para muita gente? 🍲\n\nFamília grande, visita ou festa: 5 jeitos de gastar menos gás sem trabalhar mais.\n\n🔖 Salva pro próximo almoço grande e manda pra quem sempre cozinha pra todo mundo.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/1.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/2.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/3.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/4.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/5.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/6.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/7.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/8.jpg",
+   "posts/2026-11-25-feed-cozinhar-pra-muita-gente/9.jpg"
+  ],
+  "agendado_para": "2026-11-25T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "mascote",
+  "objetivo": "salvar",
+  "cta": "Salva o post",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-26-feed-lanche-da-tarde-5-ideias",
+  "tipo": "carrossel",
+  "abordagem": "Receitas: 5 lanches da tarde com o que tem em casa",
+  "legenda": "Lanche da tarde sem gastar muito e sem complicar 🥪\n\n5 ideias com o que quase toda casa tem.\n\n🔖 Salva e conta qual você faz primeiro.\n\n#receitafacil #receitabarata #cozinhapratica #dicasdecasa",
+  "imagens": [
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/1.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/2.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/3.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/4.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/5.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/6.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/7.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/8.jpg",
+   "posts/2026-11-26-feed-lanche-da-tarde-5-ideias/9.jpg"
+  ],
+  "agendado_para": "2026-11-26T11:30:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "manchete",
+  "objetivo": "salvar",
+  "cta": "Salva as 5 ideias",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-20-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Depois que ferve, fogo alto ou baixo?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-20-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-20T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda ALTO ou BAIXO 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-21-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Quantas coisas gastam gás sem você perceber?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-21-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-21T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-22-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Qual frase sua mãe mais diz na cozinha?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-22-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-22T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-23-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Quanto tempo dura seu botijão?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-23-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-23T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda: SEMANAS ou MESES 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-24-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: A carne de hoje já saiu do freezer?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-24-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-24T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda SIM ou NÃO 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-25-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Cuscuz hoje?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-25-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-25T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-26-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Ceia de fim de ano: quem cozinha na sua casa?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-26-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-26T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
  }
 ]

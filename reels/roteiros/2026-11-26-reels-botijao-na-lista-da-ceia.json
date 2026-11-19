@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-26-reels-botijao-na-lista-da-ceia",
+ "quando": "2026-11-26T19:00:00-03:00",
+ "pilar": "F",
+ "objetivo": "salvar",
+ "cta": "Salva pra lembrar no fim do ano",
+ "abordagem": "Reels: botijão na lista da ceia",
+ "lote": "reels-semana4",
+ "legenda": "Fim de ano vem aí: o botijão está na lista da ceia? 🎄\n\nMuita panela e muito forno gastam mais gás. Confira antes e peça sem pressa pelo app.\n\n🔖 Salva pra lembrar.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
+ "gancho": "Ceia chegando: [e o botijão?]",
+ "voz": "Fim de ano vem aí. Você já pensou no botijão da ceia? Muita panela e muito forno gastam mais gás do que o normal. Confira como ele está e peça antes, sem pressa, pelo App Dona Gás.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "thoughtful look then lightbulb surprised face"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Ceia = [muita panela]",
+   "sub": "Veja o botijão agora e peça antes, com calma.",
+   "fundo": "claro",
+   "emoji": "🎄",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-celular.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "waves smiling holding phone"
+  }
+ ],
+ "final": {
+  "titulo": "Baixe o [App Dona Gás]",
+  "sub": "Pague só na entrega",
+  "mascote": "mascote-celular.png"
+ }
+}

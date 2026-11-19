@@ -139,7 +139,15 @@ Pedido do Peterson (10/11): avisar quando a comunicação estiver eficaz e padro
 5. Lista fechada das cidades com revenda ativa no app e oferta/preço conferidos em cada uma.
 6. Medição de conversão: UTM do anúncio no /baixar e, se possível, pixel/eventos da Meta no site.
 
-**Data estimada:** a partir de **01/12/2026**, se os itens 1 e 2 andarem no ritmo previsto. Cada fechamento semanal informa ao Peterson quantos itens já estão ✅ e confirma ou ajusta a data. Quando todos estiverem ✅, a análise avisa: "Prontos para ADS" e sugere abrir o projeto de tráfego pago.
+**Data estimada (revisada em 19/11/2026):** ~~01/12/2026~~ → **sem data**. Reavaliar em 03/12. Anúncio multiplica o que já funciona e hoje nada do orgânico passou de ~150 views. Só marcar data quando houver o 1º criativo campeão (item 2).
+
+**Placar em 19/11/2026 (✅ 2 de 6):**
+1. ✅ Métricas por post coletadas desde 10/11 (completa 10 dias em 20/11).
+2. ❌ Campeões: 0 de 5. Melhor Reels: 152 views, 0 compartilhamentos, 0 salvamentos. Em 19 dias: 2 compartilhamentos e 0 salvamentos no total.
+3. ✅ Padrão visual estável nos ciclos 1 e 2 (mesmos layouts, Nunito, rosa e marinho).
+4. ❌ Funil ponta a ponta: não conferido nesta rodada (lojas, pedido de teste por cidade, avisos à equipe).
+5. ❌ Lista fechada de cidades com revenda ativa e oferta conferida: não conferida.
+6. ❌ Medição: UTM do /baixar existe; falta pixel/eventos da Meta no site.
 
 ---
 
@@ -150,3 +158,21 @@ Pedido do Peterson (10/11): avisar quando a comunicação estiver eficaz e padro
 - Hipótese 2: capa "Manchete" sem mascote rende mais que capa com mascote.
 - Hipótese 3: CTA de comentar opinião gera mais comentários que "Comente APP".
 - Linha de base: 2–3 curtidas, 0 comentários por post.
+
+### Ciclo 1 — resultado (julgado em 19/11/2026, dados de 10/11 a 19/11)
+- Hipótese 1 (humor/identificação gera mais compartilhamento que app): **PERDEU / inconclusiva.** Compartilhamentos no mês inteiro: 2 (1 no Reels do ovo, 1 no carrossel de 05/11). Nenhum post de humor foi compartilhado. Views: Reels de humor "só quem ficou sem gás" 57; carrosséis de humor 27 e 20.
+- Hipótese 2 (capa Manchete rende mais que capa com mascote): **INCONCLUSIVA.** Carrosséis 13–19/11: manchete média 18 views (5 posts), mascote média 25 (2 posts). Amostra pequena, diferença dentro do ruído.
+- Hipótese 3 (CTA de opinião gera mais comentário que "Comente APP"): **PERDEU (opinião não funciona).** CTA de opinião ("comenta", "time A ou B", "SIM ou NÃO"): 0 comentários em 6 carrosséis da semana. "Comente APP": 2 comentários em 1 carrossel (16/11). Amostra pequena, mas opinião é descartada como CTA principal.
+
+### Ciclo 2 — 13/11 a 19/11/2026 (fechamento em 19/11)
+Números da semana (posts publicados de 13 a 19/11): 672 views (Reels 429 em 7 posts; carrossel 141 em 7; story 102 em 7). Alcance 501. Mês até 19/11: 2.231 views, projeção ~3,5 mil no mês (meta de 30 dias: 30 mil). Seguidores: 986 (10/11) → 994 (19/11); +5 na semana.
+- Reels respondem por 64% das views e 69% do alcance da semana. Carrossel ~20 views/post, story ~15.
+- Melhores: Reels "pressão x panela comum" 152 views, "arroz com sobras" 145, "7 hábitos" 100 (todos pilar B/D, gancho de comparação ou lista). Piores: Reels "pipoca" 8 e "3 jantas" 14 (ainda amadurecendo, 4 h e 24 h de vida), "casa da mãe" (pilar F) 21, carrossel "mito ou verdade da cozinha" 10.
+- Tendência preocupante: Reels de 15 e 16/11 ~150 views; os de 17 a 19/11 entre 8 e 57. Tempo médio assistido de 2,3 a 5,8 s (vídeos de 17 a 18 s): quem abre sai cedo. O valor de 42 s no Reels da casa da mãe parece erro de medição; ignorar.
+- Salvamentos: 0 em todos os posts. Compartilhamentos: 0 em todos os Reels. O conteúdo ainda não dá motivo para salvar ou mandar.
+- Regras novas: (1) **Padrão:** Reels de economia/receita (B/D) com pergunta ou comparação no gancho. (2) **Sai:** CTA de comentar opinião nos carrosséis (objetivo "comentar" fica só para story); pilar F no Reels sem gancho de utilidade; carrossel com 5–6 slides (passa para 8–9). (3) Pilar F: no máximo 2 por semana. (4) Narração mais curta nos Reels de humor e dica rápida.
+
+### Ciclo 3 — 20/11 a 26/11/2026 (tema: "Gás que rende")
+- Hipótese 1: Reels com narração curta (23–30 palavras: 20/11, 23/11, 24/11) terão tempo médio assistido pelo menos 50% maior que os de 36–42 palavras (21, 22, 25, 26/11). Linha de base: 2,3–5,8 s.
+- Hipótese 2: Reels de economia/receita (B/D: 20, 21, 24, 25/11) terão mais views que os de humor (23/11), mitos (22/11) e app (26/11). Linha de base: B/D ~110 views nos 3 primeiros, ~15 nos 2 últimos.
+- Hipótese 3: carrosséis com 8–9 slides (todos os 7) terão média de 30 views ou mais e pelo menos 1 salvamento na semana. Linha de base: 20 views, 0 salvamentos.

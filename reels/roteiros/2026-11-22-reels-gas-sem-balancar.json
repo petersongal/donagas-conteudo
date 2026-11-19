@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-22-reels-gas-sem-balancar",
+ "quando": "2026-11-22T19:00:00-03:00",
+ "pilar": "C",
+ "objetivo": "salvar",
+ "cta": "Salva e manda pra quem balança o botijão",
+ "abordagem": "Reels: saber quanto gás falta sem balançar",
+ "lote": "reels-semana4",
+ "legenda": "Dá pra saber quanto gás tem no botijão sem balançar? 🤔\n\nDá uma ideia aproximada, e é fácil.\n\n🔖 Salva e manda pra quem vive balançando o botijão 😂\n\n#mitoouverdade #gasdecozinha #botijao #dicasdecasa",
+ "gancho": "Quanto gás tem? [Sem balançar!]",
+ "voz": "Dá pra saber quanto gás ainda tem sem balançar o botijão? Dá. Passe um pano molhado com água morna na lateral e espere um instante. A parte com gás fica mais fria ao toque. É uma ideia aproximada, mas ajuda.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "curious squint then eyebrows up surprised"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Pano molhado na lateral",
+   "sub": "Onde tem gás, o botijão fica [mais frio].",
+   "fundo": "claro",
+   "emoji": "🧽",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "smiles and nods"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] pra testar no seu botijão",
+  "sub": "E manda pra quem só balança 😂",
+  "mascote": "mascote-pensando.png"
+ }
+}

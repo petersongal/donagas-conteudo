@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-23-reels-mae-no-domingo",
+ "quando": "2026-11-23T19:00:00-03:00",
+ "pilar": "A",
+ "objetivo": "compartilhar",
+ "cta": "Marca a sua mãe",
+ "abordagem": "Reels: humor, mãe vs gás no domingo",
+ "lote": "reels-semana4",
+ "legenda": "Domingo, onze da manhã, a mãe com o almoço pela metade 😂\n\nTodo mundo tem uma história assim.\n\n👉 Marca aqui a sua mãe.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
+ "gancho": "Domingo, 11h: [a mãe] e o almoço",
+ "voz": "Domingo, onze da manhã. A mãe com o almoço pela metade e a chama ficando fraquinha. Ela olha para você e pergunta: filho, você viu o gás?",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "worried look then wide eyes of surprise"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Domingo, 11h]",
+   "sub": "Almoço pela metade. Chama fraquinha. E agora?",
+   "fundo": "claro",
+   "emoji": "😅",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-correndo.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "laughs with open mouth"
+  }
+ ],
+ "final": {
+  "titulo": "Marca [a sua mãe] 😂",
+  "sub": "Ela vai se reconhecer",
+  "mascote": "mascote-joia.png"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-20-reels-fogo-alto-ou-baixo",
+ "quando": "2026-11-20T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "salvar",
+ "cta": "Salva e manda pra quem cozinha no fogo alto",
+ "abordagem": "Reels: fogo alto ou fogo baixo, qual gasta mais",
+ "lote": "reels-semana4",
+ "legenda": "Fogo alto ou fogo baixo: qual gasta mais gás? 🔥\n\nDepois que a água ferve, fogo alto só desperdiça.\n\n🔖 Salva e manda pra quem cozinha no fogo alto.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+ "gancho": "Fogo alto ou fogo baixo: [qual gasta mais?]",
+ "voz": "Fogo alto ou fogo baixo, qual gasta mais gás? Depois que a água ferve, ela não esquenta mais. Fogo baixo mantém a fervura e gasta bem menos.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "thinks with hand on chin"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Ferveu? [Fogo baixo]",
+   "sub": "A água não passa disso. Chama grande só desperdiça.",
+   "fundo": "claro",
+   "emoji": "🔥",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "thumbs up smile"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] pra lembrar na hora da panela",
+  "sub": "E manda pra quem ama fogo alto 😄",
+  "mascote": "mascote-chef.png"
+ }
+}
