@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-19T10:09:01.020Z",
- "ultima_coleta": "2026-11-19T10:05:04.603+00:00",
+ "gerado_em": "2026-11-19T10:24:09.601Z",
+ "ultima_coleta": "2026-11-19T10:20:04.597+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -112,7 +112,7 @@
     "comments": 1,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-19T07:10:03.271+00:00",
+   "metricas_em": "2026-11-19T10:15:02.97+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -236,7 +236,7 @@
     "comments": 7,
     "total_interactions": 14
    },
-   "metricas_em": "2026-11-19T07:15:03.662+00:00",
+   "metricas_em": "2026-11-19T10:20:04.329+00:00",
    "erro": null,
    "palavras": {
     "canal": 3
@@ -550,7 +550,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-19T07:15:03.896+00:00",
+   "metricas_em": "2026-11-19T10:20:04.597+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -787,7 +787,7 @@
     "total_interactions": 14,
     "ig_reels_avg_watch_time": 3176
    },
-   "metricas_em": "2026-11-19T07:10:02.982+00:00",
+   "metricas_em": "2026-11-19T10:15:02.681+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1136,7 +1136,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-19T07:10:02.594+00:00",
+   "metricas_em": "2026-11-19T10:15:02.27+00:00",
    "erro": null,
    "palavras": {}
   },
