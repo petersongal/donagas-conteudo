@@ -75,6 +75,40 @@
   "caminhao-entrega": [
    "delivery truck street",
    "gas delivery truck"
+  ],
+  "feijao-panela": [
+   "beans cooking pot",
+   "cooked beans bowl",
+   "feijão"
+  ],
+  "arroz-panela": [
+   "cooked white rice pot",
+   "white rice bowl",
+   "arroz branco"
+  ],
+  "lavar-arroz": [
+   "washing rice",
+   "rinsing rice water"
+  ],
+  "forno-bolo": [
+   "cake in oven",
+   "baking oven kitchen",
+   "oven door open"
+  ],
+  "pao-de-queijo": [
+   "pão de queijo",
+   "brazilian cheese bread",
+   "cheese bread"
+  ],
+  "tampa-panela": [
+   "saucepan lid steam",
+   "pot lid kitchen stove",
+   "cooking pot lid"
+  ],
+  "botijao-p13": [
+   "botijão P13",
+   "botijão de gás de cozinha",
+   "gás GLP botijão"
   ]
  },
  "unsplash": {
