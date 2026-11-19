@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-28-reels-por-que-p13",
+ "quando": "2026-11-28T12:00:00-03:00",
+ "pilar": "C",
+ "formato": "curiosidade",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem não sabia",
+ "palavra": null,
+ "abordagem": "Reels curto (12h): por que o botijão se chama P13",
+ "legenda": "Você sabe por que o botijão de casa se chama P13? 🤔\n\nPorque ele leva 13 quilos de gás. O grandão do comércio leva 45 quilos: é o P45.\n\n📲 Manda pra quem não sabia.\n👇 Você já sabia? Conta aqui.\n\n#gasdecozinha #curiosidades #vocesabia #cozinha #famagas",
+ "gancho": "Por que se chama [P13]?",
+ "voz": "Sabe por que o botijão de casa se chama P treze? Porque ele leva treze quilos de gás. O grandão do comércio leva quarenta e cinco. Manda pra quem não sabia!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "noite",
+   "dur": 4
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[13] quilos de gás",
+   "sub": "P13 é o botijão de casa. P45 é o grandão do comércio.",
+   "fundo": "amarelo",
+   "emoji": "⚖️",
+   "dur": 4
+  },
+  {
+   "tipo": "real",
+   "imagem": "chama-azul.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem não sabia",
+  "sub": "e segue a FamaGás",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}

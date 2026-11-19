@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-30-reels-arroz-lava-ou-nao-lava",
+ "quando": "2026-11-30T12:00:00-03:00",
+ "pilar": "A",
+ "formato": "pergunta",
+ "objetivo": "comentar",
+ "cta": "Conta nos comentários",
+ "palavra": null,
+ "abordagem": "Reels curto (12h): arroz, lava ou não lava? (pergunta que divide)",
+ "legenda": "Arroz: LAVA ou NÃO LAVA? 🍚\n\nEssa pergunta divide qualquer família. Tem quem jure que lavado fica soltinho, tem quem jogue direto na panela.\n\n👇 E na sua casa, como é? Comenta aqui: LAVA ou NÃO LAVA.\n📲 Manda pra quem discorda de você.\n\n#arroz #cozinha #vidadecasa #almoco #famagas",
+ "gancho": "Arroz: [lava] ou não lava?",
+ "voz": "Essa pergunta divide qualquer família. Arroz: você lava antes de cozinhar ou vai direto na panela? Tem quem jure que lavado fica soltinho. E na sua casa? Conta aqui nos comentários!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "arroz.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Lava] ou não lava?",
+   "sub": "Na sua casa, como é?",
+   "fundo": "amarelo",
+   "emoji": "🍚",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Comenta] aqui",
+  "sub": "lava ou não lava?",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}

@@ -36,5 +36,40 @@
   "fonte": "flickr",
   "licenca": "cc0",
   "nota": "escolhida em 10/11/2026 (candidatas/chama-azul)"
+ },
+ "pao-de-queijo.jpg": {
+  "fonte": "wikimedia commons",
+  "licenca": "cc0",
+  "autor": "Melsj",
+  "pagina": "https://commons.wikimedia.org/wiki/File:P%C3%A3es_de_queijo.jpg",
+  "titulo": "File:Pães de queijo.jpg"
+ },
+ "tampa-panela.jpg": {
+  "fonte": "rawpixel",
+  "licenca": "cc0",
+  "autor": null,
+  "pagina": "https://www.rawpixel.com/image/5942117/free-public-domain-cc0-photo",
+  "titulo": null
+ },
+ "arroz.jpg": {
+  "fonte": "wikimedia commons",
+  "licenca": "cc0",
+  "autor": "Douglas Perkins",
+  "pagina": "https://commons.wikimedia.org/wiki/File:A_bowl_of_rice.jpg",
+  "titulo": "File:A bowl of rice.jpg"
+ },
+ "bolo-caseiro.jpg": {
+  "fonte": "wikimedia commons",
+  "licenca": "public domain",
+  "autor": "http://atlascuisinesolaire.free.fr",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gateau_au_four_solaire_sun_oven_horno_solar.jpg",
+  "titulo": "File:Gateau au four solaire sun oven horno solar.jpg"
+ },
+ "panela-pressao.jpg": {
+  "fonte": "flickr",
+  "licenca": "cc0",
+  "autor": "Sea Dreams Wood Boat Forum",
+  "pagina": "https://www.flickr.com/photos/92281245@N07/24397206421",
+  "titulo": "Mk3 with 4qt pressure cooker"
  }
 }

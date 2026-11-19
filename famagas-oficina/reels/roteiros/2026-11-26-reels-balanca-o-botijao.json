@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-26-reels-balanca-o-botijao",
+ "quando": "2026-11-26T12:00:00-03:00",
+ "pilar": "A",
+ "formato": "humor",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem faz isso",
+ "palavra": null,
+ "abordagem": "Reels curto (12h): todo mundo balança o botijão",
+ "legenda": "Todo mundo já balançou o botijão pra ver se ainda tem gás 😅\n\nBalança, levanta, escuta... e continua na dúvida. Aí ele acaba bem no meio do almoço.\n\n📲 Manda pra aquela pessoa que faz isso toda semana.\n👇 Na sua casa, quem é?\n\n#gasdecozinha #humor #vidadecasa #cozinha #famagas",
+ "gancho": "[Balança] o botijão?",
+ "voz": "Todo mundo já fez isso. Balança o botijão, levanta, escuta, e continua na dúvida se o gás vai dar. Aí ele acaba no meio do almoço. Manda pra quem faz isso!",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-cafe.png",
+   "fundo": "azul",
+   "dur": 4
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Balança.] Levanta. Escuta.",
+   "sub": "E continua na dúvida.",
+   "fundo": "amarelo",
+   "emoji": "🤔",
+   "dur": 4
+  },
+  {
+   "tipo": "real",
+   "imagem": "fogao-desligado.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem faz isso",
+  "sub": "e segue a FamaGás",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}

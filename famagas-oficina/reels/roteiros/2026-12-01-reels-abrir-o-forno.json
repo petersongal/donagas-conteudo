@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-01-reels-abrir-o-forno",
+ "quando": "2026-12-01T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels curto: abrir o forno toda hora gasta gás",
+ "legenda": "Abre o forno toda hora pra espiar o bolo? 👀\n\nCada vez que a porta abre, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro e só abra perto do final.\n\n🔖 Salva pra lembrar no próximo bolo.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Abre o forno [toda hora]?",
+ "voz": "Cada vez que você abre o forno, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro. Salva essa dica e comente CANAL para receber ofertas.",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "bolo-caseiro.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 4
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Espie [pelo vidro]",
+   "sub": "Porta aberta, calor fora. O bolo demora e o gás vai embora.",
+   "fundo": "creme",
+   "emoji": "🎂",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}

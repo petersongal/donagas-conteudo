@@ -44,12 +44,13 @@ Famílias e donas de casa das cidades onde a FamaGás tem loja (interior e Grand
 | F. Canal de ofertas (máx. 1 a cada 5) | Comentar palavra | achadinhos da semana |
 
 ## 6. Formatos de Reels (campo `formato` do roteiro; a análise compara)
-`alerta` ("você está perdendo gás"), `mito`, `lista` (3 jeitos), `receita`, `humor`, `canal`. De 14 a 20 segundos. Legenda na tela sempre. Final com CTA único. Ideias a testar: POV, erro x acerto, loop (o fim emenda no começo), pergunta polêmica.
+`alerta` ("você está perdendo gás"), `mito`, `lista` (3 jeitos), `receita`, `humor`, `canal`, `curiosidade`, `pergunta`. **Desde o lote 3: Reels curtos, narração de 25 a 32 palavras (12 a 16 segundos no total), 3 cenas de 4 a 5 s.** Legenda na tela sempre. Final com CTA único. Ideias a testar: POV, erro x acerto, loop (o fim emenda no começo), pergunta polêmica.
 
 ## 7. Palavras de chamada (teste A/B pedido pelo Peterson)
 O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PROMOÇÃO** (link do canal) e **RECEITA(S)** (receita + canal). O relatório mostra quantas pessoas comentaram cada palavra em cada post.
 - Varie a palavra entre os posts (campo `palavra` do roteiro) e compare. Palavra com mais comentários por mil views vira a principal.
 - Palavra só em posts onde há bônus real. No máximo 1 em cada 2 Reels pede palavra; os outros pedem compartilhar, salvar ou opinião.
+- **Situação em 19/11:** nenhuma palavra venceu ainda (7 Reels, 1 comentário com palavra). **CANAL segue como principal** (7 comentários nos carrosséis de 03 a 07/11) e **RECEITA é a desafiante**. ACHADINHOS e OFERTA ficam fora dos roteiros novos até o Reels de 23/11 (OFERTA) ser medido.
 - Entradas no canal: o WhatsApp não informa por API. A análise semanal anota o número de seguidores do canal (visto no WhatsApp do Mac Mini, quando disponível) e compara com a semana anterior.
 
 ## 8. Regras de conteúdo
@@ -66,8 +67,9 @@ O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PRO
 - Revisão visual de TODAS as peças antes de publicar.
 
 ## 10. Cadência
-- **Agora:** 1 Reels por dia às 18h30 (este repositório) + as peças já agendadas no site até 19/11 (receita 10h30, canal 20h, stories).
-- **Depois de 19/11:** a análise semanal decide com os números. Hipótese inicial: 1 Reels/dia + 1 carrossel/dia (alternando receita e economia) + 1 story; menos peças, melhores.
+- **Desde 19/11 (decisão da análise):** só **1 Reels por dia**. Os carrosséis e stories do site acabaram em 18/11 e **não foram renovados**: na semana de 11 a 17/11 os 14 carrosséis fizeram em média 83 views, 0 compartilhamento e 1 salvamento no total; publicar 4 peças fracas por dia ensina o Instagram que a conta não prende.
+- Horário: padrão 18h30; em teste 12h00 (ciclo 3).
+- Carrossel só volta se for peça forte e isolada (ex.: receita popular com custo, como o escondidinho de 13/11, 366 views) e depois que os Reels passarem de 500 views de média.
 
 ## 11. Sistema
 - Tudo fica na pasta `famagas-oficina/` do repositório `petersongal/donagas-conteudo` (que já tem a chave da fal.ai). Reels: `reels/roteiros/*.json` → workflow "Oficina FamaGás" → `posts/<id>/` + `agenda.json` → publicador do site posta. Ver `reels/LEIA-ME.md`.
@@ -97,3 +99,36 @@ Feito antes do fechamento do ciclo 1 porque os roteiros acabavam em 17/11 e a pr
 - Hipótese C (palavras, 2ª rodada com os contextos trocados): OFERTA no Reels do canal (23/11) contra ACHADINHOS (17/11); CANAL em dica de economia (21/11) contra OFERTA (15/11); RECEITA de novo (19/11).
 - Regras novas de produção (valem daqui em diante): (1) a soma das durações das cenas fica perto do tamanho da voz (17 a 18 s) e nenhum cartão de texto passa de 7 s na tela; (2) Reels de receita só com receita que existe em famagas.com.br/receitas, porque o robô responde RECEITA com esse link; (3) toda foto real escolhida entra em `gerador/assets/fotos/creditos.json` (fonte e licença); (4) a narração não começa com palavra muito comprida (ex.: "aposentadoria"), porque a legenda vira uma caixa de 2 linhas em cima do rosto do mascote.
 - Fotos reais: a busca passou a pedir primeiro bancos atuais (Flickr, StockSnap, Rawpixel, só CC0/domínio público). De 66 candidatas novas, 4 aprovadas: `agua-fervendo.jpg`, `fogao-desligado.jpg`, `chaleira-fogao.jpg`, `pizza-fatia.jpg`. Voz conferida nos 7 (similaridade 0,86 a 1,0; 2 refeitos). Seis dos 7 Reels do lote 2 têm foto real; o do dia 22 (FamaGás de verdade) não tem, porque precisa de foto real da própria FamaGás (loja, caminhão, equipe). Não achei foto boa de botijão brasileiro nem de panelas.
+
+### Ciclo 2: análise de 19/11/2026 (fecha o ciclo 1: 7 Reels de 11 a 17/11)
+**Números (relatório do site, coleta de 19/11 06h45):**
+- Semana de 11 a 17/11: **2.428 visualizações** em 21 peças (7 Reels = 1.263; 7 carrosséis de receita = 763; 7 do canal = 402). No mês (03 a 18/11): 5.330. **Projeção do mês: cerca de 10 mil views**, contra 40 mil da meta de 30 dias e 500 mil da meta final. Estamos muito abaixo.
+- Seguidores: 3.028 → 3.037 (+9 em 8 dias; +7 só em 18 e 19/11).
+- Comentários com palavra: **1** na semana (RECEITA, no Reels do macarrão). CANAL, OFERTA e ACHADINHOS: zero. Canal do WhatsApp: não medido.
+- Reels, um a um (views / alcance / compart. / tempo médio): chama amarela 492 / 359 / 3 / 3,2 s · botijão deitado 190 / 145 / 1 / 4,5 s · macarrão 89 / 51 / 0 / 6,3 s · gás acaba no domingo 204 / 163 / 0 / 5,3 s · 3 jeitos 186 / 142 / 0 / 5,1 s · mangueira 64 / 39 / 0 / 5,5 s · achadinhos 38 / 20 / 0 / 8,6 s. Média 180 views, 131 de alcance, tempo médio 5,5 s de ~19 s. **Nenhum salvamento em nenhum Reels.** Tendência de queda ao longo da semana.
+- Top 3: Reels chama amarela (492), carrossel do escondidinho (366, 20 curtidas), Reels gás acaba no domingo (204). Pior: carrossel do canal de 18/11 (19 views); entre os Reels, achadinhos (38).
+
+**Julgamento das hipóteses do ciclo 1:**
+1. Reels alcança 5x mais views que carrossel: **PERDEU.** Reels 180 de média contra 83 dos carrosséis da mesma semana = 2,2x em views e 3,5x em alcance (131 x 37). Reels é melhor, mas não é o salto esperado.
+2. Palavras geram quantidades diferentes de comentário: **INCONCLUSIVO.** Só 1 comentário com palavra em 7 Reels; com 40 a 500 views por Reels não dá para comparar palavras.
+3. Abrir com cena completa do mascote segura mais que mascote no palco: **INCONCLUSIVO.** Cena: 5,8 s de tempo médio e 201 views (4 Reels); palco: 5,1 s e 153 views (3 Reels). Diferença pequena e amostra pequena.
+
+**Leitura honesta:** o problema não é a palavra nem a abertura; é a distribuição. Os Reels quase não saem da bolha dos seguidores (alcance de 20 a 360 pessoas numa conta de 3 mil) e quem vê assiste só 5 dos 19 segundos. Os Reels com menos views têm tempo médio maior porque só os seguidores fiéis viram. O único Reels com foto real (chama amarela) foi o de mais views; os 6 seguintes eram só mascote e cartão.
+
+**Mudanças executadas em 19/11:**
+- Cadência: só 1 Reels por dia (seção 10). Carrosséis e stories diários não foram renovados.
+- Reels mais curtos (seção 6): narração de 25 a 32 palavras, 12 a 16 s no total, para subir a parte assistida.
+- Reels do formato `canal` (pilar F) fora do lote 3: foi o pior da semana (38 views). Volta só se o de 23/11 (OFERTA) passar da média.
+- Dois formatos novos: `curiosidade` ("por que se chama P13?") e `pergunta` que divide ("arroz: lava ou não lava?"), feitos para compartilhar e comentar.
+- Fotos reais novas aprovadas (de 47 candidatas): `pao-de-queijo`, `tampa-panela`, `arroz`, `bolo-caseiro`, `panela-pressao`. Ainda sem foto boa de botijão brasileiro nem de feijão.
+
+**Em andamento (lote 2, 18 a 24/11, julgado em 26/11):** hipóteses A (abrir com foto real), B (Reels "Prazer, FamaGás" traz seguidores) e C (palavras em contexto trocado). Primeiro sinal: o Reels de 18/11 (abre com foto real) fez 131 views e 117 de alcance em 15 horas.
+
+**3 hipóteses novas (lote 3, 25/11 a 01/12, julgadas em 03/12):**
+- D (duração): Reels curtos (12 a 16 s) têm parte assistida acima de 40% (hoje 29%) e média de views maior que a dos lotes 1 e 2.
+- E (horário): Reels ao meio-dia (26, 28 e 30/11) alcança mais gente que às 18h30 (25, 27, 29/11 e 01/12).
+- F (formato): `pergunta` e `curiosidade` (28 e 30/11) trazem mais comentários e compartilhamentos que `alerta` de economia.
+- Aviso: com 100 a 500 views por Reels os testes têm muito ruído; só vira regra o que ganhar com folga (30% ou mais).
+
+**Anúncio:** ainda não. Nenhum Reels campeão (zero salvamento; 4 compartilhamentos na semana inteira). Reavaliar em 26/11. Se até 03/12 a média não passar de 500 views por Reels, o orgânico sozinho não chega nem perto de 500 mil por mês nesta conta, e a recomendação passa a ser impulsionar com verba pequena o melhor Reels de cada semana nas cidades com loja.
+

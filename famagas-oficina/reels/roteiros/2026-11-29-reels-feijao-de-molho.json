@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-29-reels-feijao-de-molho",
+ "quando": "2026-11-29T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels curto: feijão de molho gasta menos gás",
+ "legenda": "Feijão de molho = menos gás no fogo 🫘\n\nDeixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e o botijão dura mais. É de graça e funciona.\n\n🔖 Salva pra lembrar na véspera.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Feijão [de molho] gasta menos gás",
+ "voz": "Deixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e gasta menos gás. É de graça e funciona. Salva essa dica e comente CANAL para receber ofertas.",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "panela-pressao.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[De molho] na véspera",
+   "sub": "Cozinha mais rápido e o gás dura mais.",
+   "fundo": "noite",
+   "emoji": "🫘",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}
