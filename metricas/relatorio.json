@@ -1,7 +1,7 @@
 {
  "conta": "appdonagas",
- "gerado_em": "2026-11-19T20:58:01.634Z",
- "ultima_coleta": "2026-11-19T20:00:07.803Z",
+ "gerado_em": "2026-11-19T23:45:28.948Z",
+ "ultima_coleta": "2026-11-19T23:00:08.057Z",
  "seguidores_hist": [
   {
    "d": "2026-11-10",
@@ -51,7 +51,7 @@
   {
    "d": "2026-11-19",
    "seguidores": 994,
-   "posts": 59
+   "posts": 60
   }
  ],
  "posts": [
@@ -72,7 +72,7 @@
     "comments": 5,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-19T17:00:17.533+00:00"
+   "metricas_em": "2026-11-19T23:00:23.836+00:00"
   },
   {
    "id": "2026-11-05-story-1900",
@@ -181,7 +181,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-19T13:45:23.427+00:00"
+   "metricas_em": "2026-11-19T23:00:20.453+00:00"
   },
   {
    "id": "2026-11-07-feed-compare-precos",
@@ -219,7 +219,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-19T13:45:24.197+00:00"
+   "metricas_em": "2026-11-19T23:00:20.977+00:00"
   },
   {
    "id": "2026-11-08-story-0830",
@@ -287,7 +287,7 @@
     "comments": 1,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-19T13:45:24.668+00:00"
+   "metricas_em": "2026-11-19T23:00:21.453+00:00"
   },
   {
    "id": "2026-11-09-story-0830",
@@ -441,7 +441,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 3940
    },
-   "metricas_em": "2026-11-19T13:45:20.392+00:00"
+   "metricas_em": "2026-11-19T23:00:18.391+00:00"
   },
   {
    "id": "2026-11-10-feed-tipos-quando-o-gas-acaba",
@@ -460,7 +460,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-19T13:45:21.146+00:00"
+   "metricas_em": "2026-11-19T23:00:18.76+00:00"
   },
   {
    "id": "2026-11-10-feed-passo-enderecos",
@@ -639,7 +639,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 4077
    },
-   "metricas_em": "2026-11-19T17:00:16.453+00:00"
+   "metricas_em": "2026-11-19T23:00:23.391+00:00"
   },
   {
    "id": "2026-11-14-story-0830-v2",
@@ -731,7 +731,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-19T13:45:21.623+00:00"
+   "metricas_em": "2026-11-19T23:00:19.085+00:00"
   },
   {
    "id": "2026-11-16-reels-arroz-sobras",
@@ -787,7 +787,7 @@
     "comments": 2,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-19T13:45:22.337+00:00"
+   "metricas_em": "2026-11-19T23:00:19.655+00:00"
   },
   {
    "id": "2026-11-17-reels-so-quem-ficou-sem-gas",
@@ -807,7 +807,7 @@
     "total_interactions": 3,
     "ig_reels_avg_watch_time": 2448
    },
-   "metricas_em": "2026-11-19T17:00:15.772+00:00"
+   "metricas_em": "2026-11-19T23:00:22.914+00:00"
   },
   {
    "id": "2026-11-17-story-0830-v2",
@@ -919,7 +919,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 5777
    },
-   "metricas_em": "2026-11-19T13:45:22.977+00:00"
+   "metricas_em": "2026-11-19T23:00:20.1+00:00"
   },
   {
    "id": "2026-11-19-story-0830-v2",
@@ -942,14 +942,34 @@
    "permalink": "https://www.instagram.com/p/Df7TLUik9lA/",
    "metricas": {
     "likes": 0,
-    "reach": 3,
+    "reach": 6,
     "saved": 0,
-    "views": 7,
+    "views": 10,
     "shares": 0,
     "comments": 0,
     "total_interactions": 0
    },
-   "metricas_em": "2026-11-19T17:00:07.756+00:00"
+   "metricas_em": "2026-11-19T23:00:21.862+00:00"
+  },
+  {
+   "id": "2026-11-19-reels-pipoca",
+   "tipo": "reels",
+   "abordagem": "Reels: pipoca de panela gastando menos gás",
+   "agendado_para": "2026-11-19T22:00:00+00:00",
+   "publicado_em": "2026-11-19T22:01:18.403+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/reel/Df8Gq3JChX5/",
+   "metricas": {
+    "likes": 0,
+    "reach": 4,
+    "saved": 0,
+    "views": 8,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 2304
+   },
+   "metricas_em": "2026-11-19T23:00:10.482+00:00"
   }
  ]
 }
