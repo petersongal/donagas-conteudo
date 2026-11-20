@@ -1,0 +1,30 @@
+{
+ "roteiro": "Dá pra saber quanto gás ainda tem sem balançar o botijão? Dá. Passe um pano molhado com água morna na lateral e espere um instante. A parte com gás fica mais fria ao toque. É uma ideia aproximada, mas ajuda.",
+ "transcricao": " Dá para saber quanto gás ainda tem sem balançar o botijão? Dá. Passe um pano molhado com água morna na lateral e espere um instante. A parte com gás fica mais fria ao toque. É uma ideia aproximada, mas ajuda.",
+ "similaridade": 0.975,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Dá pra saber",
+  "quanto gás ainda",
+  "tem sem balançar",
+  "o botijão?",
+  "Dá.",
+  "Passe um pano",
+  "molhado com água",
+  "morna na lateral",
+  "e espere um",
+  "instante.",
+  "A parte com",
+  "gás fica mais",
+  "fria ao toque.",
+  "É uma ideia",
+  "aproximada,",
+  "mas ajuda."
+ ],
+ "duracao_s": 17.2
+}

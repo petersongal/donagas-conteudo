@@ -1516,6 +1516,22 @@
   "obs": "padrão antigo (lote 2) — bloqueado em 10/11; não publicar"
  },
  {
+  "id": "2026-11-20-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Depois que ferve, fogo alto ou baixo?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-20-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-20T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda ALTO ou BAIXO 💬",
+  "lote": "semana4"
+ },
+ {
   "id": "2026-11-20-feed-5-marmitas-1-domingo",
   "tipo": "carrossel",
   "abordagem": "Receita: 5 marmitas em um dia",
@@ -1539,6 +1555,41 @@
   "lote": "semana4"
  },
  {
+  "id": "2026-11-20-reels-fogo-alto-ou-baixo",
+  "tipo": "reels",
+  "abordagem": "Reels: fogo alto ou fogo baixo, qual gasta mais",
+  "legenda": "Fogo alto ou fogo baixo: qual gasta mais gás? 🔥\n\nDepois que a água ferve, fogo alto só desperdiça.\n\n🔖 Salva e manda pra quem cozinha no fogo alto.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-20-reels-fogo-alto-ou-baixo/reel.mp4",
+   "posts/2026-11-20-reels-fogo-alto-ou-baixo/capa.jpg"
+  ],
+  "video": "posts/2026-11-20-reels-fogo-alto-ou-baixo/reel.mp4",
+  "capa": "posts/2026-11-20-reels-fogo-alto-ou-baixo/capa.jpg",
+  "agendado_para": "2026-11-20T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e manda pra quem cozinha no fogo alto",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-21-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Quantas coisas gastam gás sem você perceber?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-21-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-21T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
+ },
+ {
   "id": "2026-11-21-feed-9-coisas-gastam-gas",
   "tipo": "carrossel",
   "abordagem": "Economia: 9 coisas que gastam gás sem você perceber",
@@ -1559,6 +1610,41 @@
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva e confere quantas você faz",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-21-reels-banana-e-ovo",
+  "tipo": "reels",
+  "abordagem": "Reels: panqueca de banana e ovo",
+  "legenda": "Café da manhã pronto com 2 ingredientes 🍌🥚\n\nPanqueca de banana: barata, rápida e numa frigideira só.\n\n🔖 Salva a receita e manda pra quem não sabe o que fazer no café.\n\n#receitafacil #receitabarata #cafedamanha #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-21-reels-banana-e-ovo/reel.mp4",
+   "posts/2026-11-21-reels-banana-e-ovo/capa.jpg"
+  ],
+  "video": "posts/2026-11-21-reels-banana-e-ovo/reel.mp4",
+  "capa": "posts/2026-11-21-reels-banana-e-ovo/capa.jpg",
+  "agendado_para": "2026-11-21T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva a receita",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-22-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Qual frase sua mãe mais diz na cozinha?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-22-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-22T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
   "lote": "semana4"
  },
  {
@@ -1586,6 +1672,41 @@
   "lote": "semana4"
  },
  {
+  "id": "2026-11-22-reels-gas-sem-balancar",
+  "tipo": "reels",
+  "abordagem": "Reels: saber quanto gás falta sem balançar",
+  "legenda": "Dá pra saber quanto gás tem no botijão sem balançar? 🤔\n\nDá uma ideia aproximada, e é fácil.\n\n🔖 Salva e manda pra quem vive balançando o botijão 😂\n\n#mitoouverdade #gasdecozinha #botijao #dicasdecasa",
+  "imagens": [
+   "posts/2026-11-22-reels-gas-sem-balancar/reel.mp4",
+   "posts/2026-11-22-reels-gas-sem-balancar/capa.jpg"
+  ],
+  "video": "posts/2026-11-22-reels-gas-sem-balancar/reel.mp4",
+  "capa": "posts/2026-11-22-reels-gas-sem-balancar/capa.jpg",
+  "agendado_para": "2026-11-22T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e manda pra quem balança o botijão",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-23-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Quanto tempo dura seu botijão?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-23-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-23T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda: SEMANAS ou MESES 💬",
+  "lote": "semana4"
+ },
+ {
   "id": "2026-11-23-feed-repita-o-ultimo-pedido",
   "tipo": "carrossel",
   "abordagem": "App: repetir o último pedido",
@@ -1606,6 +1727,41 @@
   "layout": "mascote",
   "objetivo": "clique",
   "cta": "Comente APP",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-23-reels-mae-no-domingo",
+  "tipo": "reels",
+  "abordagem": "Reels: humor, mãe vs gás no domingo",
+  "legenda": "Domingo, onze da manhã, a mãe com o almoço pela metade 😂\n\nTodo mundo tem uma história assim.\n\n👉 Marca aqui a sua mãe.\n\n#humor #donadecasa #gasdecozinha #vidadecasa",
+  "imagens": [
+   "posts/2026-11-23-reels-mae-no-domingo/reel.mp4",
+   "posts/2026-11-23-reels-mae-no-domingo/capa.jpg"
+  ],
+  "video": "posts/2026-11-23-reels-mae-no-domingo/reel.mp4",
+  "capa": "posts/2026-11-23-reels-mae-no-domingo/capa.jpg",
+  "agendado_para": "2026-11-23T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Marca a sua mãe",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-24-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: A carne de hoje já saiu do freezer?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-24-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-24T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Responda SIM ou NÃO 💬",
   "lote": "semana4"
  },
  {
@@ -1633,6 +1789,41 @@
   "lote": "semana4"
  },
  {
+  "id": "2026-11-24-reels-anote-a-data",
+  "tipo": "reels",
+  "abordagem": "Reels: anotar a data da troca do botijão",
+  "legenda": "Quanto tempo dura o seu botijão? 📅\n\nAnota a data da troca e descubra. Na próxima vez, você pede antes de acabar.\n\n🔖 Salva a dica.\n\n#economiadomestica #gasdecozinha #botijao #dicasdecasa",
+  "imagens": [
+   "posts/2026-11-24-reels-anote-a-data/reel.mp4",
+   "posts/2026-11-24-reels-anote-a-data/capa.jpg"
+  ],
+  "video": "posts/2026-11-24-reels-anote-a-data/reel.mp4",
+  "capa": "posts/2026-11-24-reels-anote-a-data/capa.jpg",
+  "agendado_para": "2026-11-24T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva a dica",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-25-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Cuscuz hoje?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-25-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-25T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
+  "lote": "semana4"
+ },
+ {
   "id": "2026-11-25-feed-cozinhar-pra-muita-gente",
   "tipo": "carrossel",
   "abordagem": "Economia: cozinhar para muita gente gastando menos gás",
@@ -1654,6 +1845,41 @@
   "layout": "mascote",
   "objetivo": "salvar",
   "cta": "Salva o post",
+  "lote": "semana4"
+ },
+ {
+  "id": "2026-11-25-reels-cuscuz-na-cuscuzeira",
+  "tipo": "reels",
+  "abordagem": "Reels: cuscuz rápido",
+  "legenda": "Cuscuz de 10 minutos 🌽\n\nBarato, quentinho e usa pouco gás.\n\n🔖 Salva a receita pro próximo café ou janta.\n\n#receitafacil #receitabarata #cuscuz #cozinhapratica",
+  "imagens": [
+   "posts/2026-11-25-reels-cuscuz-na-cuscuzeira/reel.mp4",
+   "posts/2026-11-25-reels-cuscuz-na-cuscuzeira/capa.jpg"
+  ],
+  "video": "posts/2026-11-25-reels-cuscuz-na-cuscuzeira/reel.mp4",
+  "capa": "posts/2026-11-25-reels-cuscuz-na-cuscuzeira/capa.jpg",
+  "agendado_para": "2026-11-25T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "D",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva a receita",
+  "lote": "reels-semana4"
+ },
+ {
+  "id": "2026-11-26-story-0830-v2",
+  "tipo": "story",
+  "abordagem": "story: Ceia de fim de ano: quem cozinha na sua casa?",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-26-story-0830-v2/1.jpg"
+  ],
+  "agendado_para": "2026-11-26T08:30:00-03:00",
+  "aprovado": true,
+  "pilar": "story",
+  "layout": "story",
+  "objetivo": "comentar",
+  "cta": "Me conta aqui 💬",
   "lote": "semana4"
  },
  {
@@ -1681,115 +1907,22 @@
   "lote": "semana4"
  },
  {
-  "id": "2026-11-20-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Depois que ferve, fogo alto ou baixo?",
-  "legenda": "",
+  "id": "2026-11-26-reels-botijao-na-lista-da-ceia",
+  "tipo": "reels",
+  "abordagem": "Reels: botijão na lista da ceia",
+  "legenda": "Fim de ano vem aí: o botijão está na lista da ceia? 🎄\n\nMuita panela e muito forno gastam mais gás. Confira antes e peça sem pressa pelo app.\n\n🔖 Salva pra lembrar.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
   "imagens": [
-   "posts/2026-11-20-story-0830-v2/1.jpg"
+   "posts/2026-11-26-reels-botijao-na-lista-da-ceia/reel.mp4",
+   "posts/2026-11-26-reels-botijao-na-lista-da-ceia/capa.jpg"
   ],
-  "agendado_para": "2026-11-20T08:30:00-03:00",
+  "video": "posts/2026-11-26-reels-botijao-na-lista-da-ceia/reel.mp4",
+  "capa": "posts/2026-11-26-reels-botijao-na-lista-da-ceia/capa.jpg",
+  "agendado_para": "2026-11-26T19:00:00-03:00",
   "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Responda ALTO ou BAIXO 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-21-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Quantas coisas gastam gás sem você perceber?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-21-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-21T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Me conta aqui 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-22-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Qual frase sua mãe mais diz na cozinha?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-22-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-22T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Me conta aqui 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-23-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Quanto tempo dura seu botijão?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-23-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-23T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Responda: SEMANAS ou MESES 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-24-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: A carne de hoje já saiu do freezer?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-24-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-24T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Responda SIM ou NÃO 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-25-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Cuscuz hoje?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-25-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-25T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Me conta aqui 💬",
-  "lote": "semana4"
- },
- {
-  "id": "2026-11-26-story-0830-v2",
-  "tipo": "story",
-  "abordagem": "story: Ceia de fim de ano: quem cozinha na sua casa?",
-  "legenda": "",
-  "imagens": [
-   "posts/2026-11-26-story-0830-v2/1.jpg"
-  ],
-  "agendado_para": "2026-11-26T08:30:00-03:00",
-  "aprovado": true,
-  "pilar": "story",
-  "layout": "story",
-  "objetivo": "comentar",
-  "cta": "Me conta aqui 💬",
-  "lote": "semana4"
+  "pilar": "F",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva pra lembrar no fim do ano",
+  "lote": "reels-semana4"
  }
 ]

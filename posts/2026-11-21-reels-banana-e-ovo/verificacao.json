@@ -1,0 +1,29 @@
+{
+ "roteiro": "Banana e ovo: só dois ingredientes e o café da manhã está pronto. Amasse uma banana, misture dois ovos e uma pitada de canela. Despeje na frigideira com fogo baixo e com tampa. Vire quando firmar. Fica macia e gasta pouquíssimo gás.",
+ "transcricao": " Banana e ovo. Só dois ingredientes e o café da manhã está pronto. Amasse uma banana, misture dois ovos e uma pitada de canela. Despeje na frigideira com fogo baixo e com tampa. Vire quando firmar. Fica macia e gasta pouquíssimo gás.",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Banana e ovo:",
+  "só dois ingredientes",
+  "e o café",
+  "da manhã está",
+  "pronto.",
+  "Amasse uma banana,",
+  "misture dois ovos",
+  "e uma pitada",
+  "de canela.",
+  "Despeje na frigideira",
+  "com fogo baixo",
+  "e com tampa.",
+  "Vire quando firmar.",
+  "Fica macia e",
+  "gasta pouquíssimo gás."
+ ],
+ "duracao_s": 19.7
+}

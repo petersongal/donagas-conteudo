@@ -1,0 +1,30 @@
+{
+ "roteiro": "Cuscuz em dez minutos. Misture o flocão com água e uma pitada de sal e deixe descansar cinco minutinhos. Coloque na cuscuzeira com a água embaixo, com tampa. Dez minutos no fogo e pronto. Rápido, barato e gasta pouco.",
+ "transcricao": " Cuscuz em 10 minutos. Misture o flocão com água e uma pitada de sal e deixe descansar 5 minutinhos. Coloque na cuscuzeira com a água embaixo, com tampa. 10 minutos no fogo e pronto. Rápido, barato e gasta pouco.",
+ "similaridade": 0.923,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Cuscuz em dez",
+  "minutos.",
+  "Misture o flocão",
+  "com água e",
+  "uma pitada de",
+  "sal e deixe",
+  "descansar cinco minutinhos.",
+  "Coloque na cuscuzeira",
+  "com a água",
+  "embaixo,",
+  "com tampa.",
+  "Dez minutos no",
+  "fogo e pronto.",
+  "Rápido,",
+  "barato e gasta",
+  "pouco."
+ ],
+ "duracao_s": 18.8
+}

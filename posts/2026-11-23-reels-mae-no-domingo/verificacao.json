@@ -1,0 +1,25 @@
+{
+ "roteiro": "Domingo, onze da manhã. A mãe com o almoço pela metade e a chama ficando fraquinha. Ela olha para você e pergunta: filho, você viu o gás?",
+ "transcricao": " Domingo, 11 da manhã. A mãe com o almoço pela metade e a chama ficando fraquinha. Ela olha para você e pergunta, Filho, você viu o gás?",
+ "similaridade": 0.963,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Domingo,",
+  "onze da manhã.",
+  "A mãe com",
+  "o almoço pela",
+  "metade e a",
+  "chama ficando fraquinha.",
+  "Ela olha para",
+  "você e pergunta:",
+  "filho,",
+  "você viu o",
+  "gás?"
+ ],
+ "duracao_s": 16.8
+}

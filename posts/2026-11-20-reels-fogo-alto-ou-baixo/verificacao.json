@@ -1,0 +1,25 @@
+{
+ "roteiro": "Fogo alto ou fogo baixo, qual gasta mais gás? Depois que a água ferve, ela não esquenta mais. Fogo baixo mantém a fervura e gasta bem menos.",
+ "transcricao": " Fogo alto ou fogo baixo? Qual gasta mais gás? Depois que a água ferve, ela não esquenta mais. Fogo baixo mantém a fervura e gasta bem menos.",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Fogo alto ou",
+  "fogo baixo,",
+  "qual gasta mais",
+  "gás?",
+  "Depois que a",
+  "água ferve,",
+  "ela não esquenta",
+  "mais.",
+  "Fogo baixo mantém",
+  "a fervura e",
+  "gasta bem menos."
+ ],
+ "duracao_s": 16.8
+}

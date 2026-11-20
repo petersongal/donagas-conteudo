@@ -1,0 +1,25 @@
+{
+ "roteiro": "Quanto tempo dura o seu botijão? Anote a data da troca no calendário. Na próxima troca, conte os dias e descubra o seu ritmo. Assim você pede antes de acabar.",
+ "transcricao": " Quanto tempo dura o seu botijão? Anote a data da troca no calendário. Na próxima troca, conte os dias e descubra o seu ritmo. Assim, você pede antes de acabar.",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Quanto tempo dura",
+  "o seu botijão?",
+  "Anote a data",
+  "da troca no",
+  "calendário.",
+  "Na próxima troca,",
+  "conte os dias",
+  "e descubra o",
+  "seu ritmo.",
+  "Assim você pede",
+  "antes de acabar."
+ ],
+ "duracao_s": 16.8
+}

@@ -1,0 +1,29 @@
+{
+ "roteiro": "Fim de ano vem aí. Você já pensou no botijão da ceia? Muita panela e muito forno gastam mais gás do que o normal. Confira como ele está e peça antes, sem pressa, pelo App Dona Gás.",
+ "transcricao": " Fim de ano vem aí! Você já pensou no botijão da ceia? Muita panela e muito forno gastam mais gás do que o normal. Confira como ele está e peça antes, sem pressa, pelo app Dona Gás.",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Brian",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Fim de ano",
+  "vem aí.",
+  "Você já pensou",
+  "no botijão da",
+  "ceia?",
+  "Muita panela e",
+  "muito forno gastam",
+  "mais gás do",
+  "que o normal.",
+  "Confira como ele",
+  "está e peça",
+  "antes,",
+  "sem pressa,",
+  "pelo App Dona",
+  "Gás."
+ ],
+ "duracao_s": 16.8
+}
