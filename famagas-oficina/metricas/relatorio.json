@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-21T19:47:00.571Z",
- "ultima_coleta": "2026-11-21T19:45:03.661+00:00",
+ "gerado_em": "2026-11-21T20:09:04.496Z",
+ "ultima_coleta": "2026-11-21T19:55:04.992+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -905,7 +905,7 @@
     "total_interactions": 12,
     "ig_reels_avg_watch_time": 4642
    },
-   "metricas_em": "2026-11-21T16:50:02.059+00:00",
+   "metricas_em": "2026-11-21T19:55:03.822+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1076,7 +1076,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-21T16:50:03.198+00:00",
+   "metricas_em": "2026-11-21T19:55:04.741+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1254,7 +1254,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-21T16:50:02.61+00:00",
+   "metricas_em": "2026-11-21T19:55:04.062+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1526,13 +1526,13 @@
     "likes": 5,
     "reach": 132,
     "saved": 0,
-    "views": 150,
+    "views": 151,
     "shares": 1,
     "comments": 1,
     "total_interactions": 7,
-    "ig_reels_avg_watch_time": 5558
+    "ig_reels_avg_watch_time": 5524
    },
-   "metricas_em": "2026-11-21T16:55:01.937+00:00",
+   "metricas_em": "2026-11-21T19:55:04.992+00:00",
    "erro": null,
    "palavras": {}
   },
