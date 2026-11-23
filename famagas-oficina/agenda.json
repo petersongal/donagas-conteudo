@@ -352,6 +352,28 @@
   "formato": "humor"
  },
  {
+  "id": "2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz",
+  "tipo": "reels",
+  "abordagem": "Reels: cheiro de gás, não acenda a luz (continuação do Reels campeão 'o gás não ",
+  "legenda": "Sentiu cheiro forte de gás? NÃO acenda a luz ⚠️\n\nNem ligue ou desligue nada na tomada: uma faísca basta. Abra portas e janelas, saia de casa e ligue 193.\n\n📲 Manda pra sua família. Essa informação protege quem você ama.\n\n#seguranca #gasdecozinha #dicasdecasa #famagas",
+  "imagens": [
+   "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/reel.mp4",
+   "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/capa.jpg"
+  ],
+  "video": "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/reel.mp4",
+  "capa": "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/capa.jpg",
+  "agendado_para": "2026-11-27T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra sua família",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Cheiro de gás? [Não acenda a luz]",
+  "formato": "alerta"
+ },
+ {
   "id": "2026-11-28-reels-por-que-p13",
   "tipo": "reels",
   "abordagem": "Reels curto (12h): por que o botijão se chama P13",
