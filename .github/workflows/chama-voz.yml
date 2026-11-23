@@ -1,0 +1,42 @@
+name: Chama da Sorte — locução
+
+# Gera a voz da personagem da campanha Chama da Sorte (FamaGás) para os vídeos.
+# Só roda quando entra um pedido novo em chama-voz/pedidos/. Não mexe em nada do @appdonagas nem da Oficina.
+on:
+  push:
+    branches: [main]
+    paths: ["chama-voz/pedidos/**", "chama-voz/voz.py", ".github/workflows/chama-voz.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chama-voz
+  cancel-in-progress: false
+
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests
+      - name: Gerar locução
+        env:
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: python chama-voz/voz.py
+      - name: Salvar
+        run: |
+          git config user.name "voz-chama"
+          git config user.email "voz-chama@users.noreply.github.com"
+          git add chama-voz/saida
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -q -m "Chama da Sorte: locução"
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 8; done
+          exit 1
