@@ -1,0 +1,13 @@
+{
+ "motor": "eleven",
+ "voz": "Laura",
+ "stability": 0.0,
+ "style": 0.8,
+ "trechos": [
+  "[excited] Comprou gás e ainda não pegou seus números da sorte? Corre!",
+  "[excited] Cada compra de gás vale cem números! Não deixa seu prêmio passar: são três mil reais pra cozinha!",
+  "[excited] Air fryer, liquidificador, sanduicheira, mixer e jogo de panelas. Tudo pra sua cozinha!",
+  "[excited] É fácil: peça seu gás, entre no link e faça seu cadastro. Pronto! Cem números da sorte pra você!",
+  "[excited] Ligue grátis, o número tá aqui na tela! Peça agora e concorra!"
+ ]
+}
