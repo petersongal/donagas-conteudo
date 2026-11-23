@@ -28,7 +28,8 @@ def gerar(cfg, txt, dest):
     if motor == "minimax":
         res = fal(cfg.get("modelo", "fal-ai/minimax/speech-02-hd"), {
             "text": txt, "language_boost": "Portuguese", "output_format": "url",
-            "voice_setting": {"voice_id": cfg.get("voz", "Wise_Woman"), "speed": cfg.get("speed", 1.0), "vol": 1, "pitch": 0}})
+            "voice_setting": {k: v for k, v in {"voice_id": cfg.get("voz", "Wise_Woman"), "speed": cfg.get("speed", 1.0), "vol": 1,
+                              "pitch": cfg.get("pitch", 0), "emotion": cfg.get("emocao")}.items() if v is not None}})
     elif motor == "kokoro":
         res = fal("fal-ai/kokoro/brazilian-portuguese", {"prompt": txt, "voice": cfg.get("voz", "pf_dora"), "speed": cfg.get("speed", 1.0)})
     else:

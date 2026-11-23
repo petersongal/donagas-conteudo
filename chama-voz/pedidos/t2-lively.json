@@ -1,0 +1,10 @@
+{
+ "motor": "minimax",
+ "voz": "Lively_Girl",
+ "emocao": "surprised",
+ "speed": 1.1,
+ "trechos": [
+  "Atenção, equipe! Tá começando agora uma promoção nova, pra gente vender muito mais neste fim de ano!",
+  "São três mil reais em prêmios! Air fryer, liquidificador, sanduicheira, mixer e jogo de panelas. Vinte ganhadores, e todas as lojas participam!"
+ ]
+}
