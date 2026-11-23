@@ -1,13 +1,15 @@
-"""Locução da campanha Chama da Sorte (FamaGás) — voz da "senhora" por IA (ElevenLabs na fal.ai).
-Lê chama-voz/pedidos/*.json  {"voz": "Matilda", "trechos": ["texto 1", "texto 2", ...]}
+"""Locução da campanha Chama da Sorte (FamaGás) — voz da "senhora" por IA (fal.ai).
+Lê chama-voz/pedidos/*.json
+  {"motor": "minimax" | "kokoro" | "eleven", "voz": "...", "speed": 1.0, "trechos": ["texto 1", ...]}
 e grava chama-voz/saida/<pedido>/NN.mp3 (um arquivo por trecho = uma cena do vídeo).
-Pedidos já atendidos (pasta de saída com todos os trechos) são pulados.
+Trechos já gerados são pulados. Português do Brasil: prefira "minimax" (language_boost Portuguese)
+ou "kokoro" (modelo próprio de pt-BR). Não ponha "FamaGás" no texto falado (pronúncia ruim).
 """
 import json, os, pathlib, time, requests
 ROOT = pathlib.Path(__file__).parent
 KEY = os.environ["FAL_KEY"]
-MODELO = "fal-ai/elevenlabs/tts/eleven-v3"
 H = {"Authorization": f"Key {KEY}", "Content-Type": "application/json"}
+
 
 def fal(modelo, payload, timeout=300):
     q = requests.post(f"https://queue.fal.run/{modelo}", headers=H, json=payload, timeout=60)
@@ -20,19 +22,31 @@ def fal(modelo, payload, timeout=300):
         time.sleep(4)
     raise TimeoutError(modelo)
 
+
+def gerar(cfg, txt, dest):
+    motor = cfg.get("motor", "eleven")
+    if motor == "minimax":
+        res = fal(cfg.get("modelo", "fal-ai/minimax/speech-02-hd"), {
+            "text": txt, "language_boost": "Portuguese", "output_format": "url",
+            "voice_setting": {"voice_id": cfg.get("voz", "Wise_Woman"), "speed": cfg.get("speed", 1.0), "vol": 1, "pitch": 0}})
+    elif motor == "kokoro":
+        res = fal("fal-ai/kokoro/brazilian-portuguese", {"prompt": txt, "voice": cfg.get("voz", "pf_dora"), "speed": cfg.get("speed", 1.0)})
+    else:
+        res = fal(cfg.get("modelo", "fal-ai/elevenlabs/tts/eleven-v3"), {
+            "text": txt, "voice": cfg.get("voz", "Matilda"), "language_code": "pt",
+            "stability": cfg.get("stability", 0.5), "similarity_boost": 0.8, "style": cfg.get("style", 0.35)})
+    a = res["audio"]; url = a["url"] if isinstance(a, dict) else a
+    dest.write_bytes(requests.get(url, timeout=120).content)
+    print("ok", dest, dest.stat().st_size, flush=True)
+
+
 for ped in sorted((ROOT / "pedidos").glob("*.json")):
     cfg = json.loads(ped.read_text(encoding="utf-8"))
     out = ROOT / "saida" / ped.stem; out.mkdir(parents=True, exist_ok=True)
-    modelo = cfg.get("modelo", MODELO)
     for i, txt in enumerate(cfg["trechos"], 1):
         dest = out / f"{i:02d}.mp3"
         if dest.exists(): continue
-        payload = {"text": txt, "voice": cfg.get("voz", "Matilda"), "language_code": "pt",
-                   "stability": cfg.get("stability", 0.5), "similarity_boost": 0.8, "style": cfg.get("style", 0.35)}
         try:
-            res = fal(modelo, payload)
+            gerar(cfg, txt, dest)
         except Exception as e:
-            print("falhou com", modelo, e, "→ tentando eleven-v4-turbo")
-            res = fal("elevenlabs/tts/eleven-v4-turbo", payload)
-        dest.write_bytes(requests.get(res["audio"]["url"], timeout=120).content)
-        print("ok", dest, dest.stat().st_size)
+            print("ERRO", ped.stem, i, e, flush=True)
