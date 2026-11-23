@@ -306,5 +306,159 @@
   "palavra": null,
   "gancho": "[Água quente] no botijão?",
   "formato": "mito"
+ },
+ {
+  "id": "2026-11-25-reels-panela-sem-tampa",
+  "tipo": "reels",
+  "abordagem": "Reels curto: panela sem tampa gasta mais gás",
+  "legenda": "Panela sem tampa = gás indo embora 💨\n\nSem tampa, o calor escapa e a comida demora mais pra ficar pronta. Tampou, cozinha mais rápido e o botijão dura mais.\n\n🔖 Salva pra lembrar na hora do almoço.\n📲 Manda pra quem cozinha na sua casa.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-25-reels-panela-sem-tampa/reel.mp4",
+   "posts/2026-11-25-reels-panela-sem-tampa/capa.jpg"
+  ],
+  "video": "posts/2026-11-25-reels-panela-sem-tampa/reel.mp4",
+  "capa": "posts/2026-11-25-reels-panela-sem-tampa/capa.jpg",
+  "agendado_para": "2026-11-25T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva essa dica",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Sem tampa? [Gás jogado fora]",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-26-reels-balanca-o-botijao",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): todo mundo balança o botijão",
+  "legenda": "Todo mundo já balançou o botijão pra ver se ainda tem gás 😅\n\nBalança, levanta, escuta... e continua na dúvida. Aí ele acaba bem no meio do almoço.\n\n📲 Manda pra aquela pessoa que faz isso toda semana.\n👇 Na sua casa, quem é?\n\n#gasdecozinha #humor #vidadecasa #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-26-reels-balanca-o-botijao/reel.mp4",
+   "posts/2026-11-26-reels-balanca-o-botijao/capa.jpg"
+  ],
+  "video": "posts/2026-11-26-reels-balanca-o-botijao/reel.mp4",
+  "capa": "posts/2026-11-26-reels-balanca-o-botijao/capa.jpg",
+  "agendado_para": "2026-11-26T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem faz isso",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "[Balança] o botijão?",
+  "formato": "humor"
+ },
+ {
+  "id": "2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz",
+  "tipo": "reels",
+  "abordagem": "Reels: cheiro de gás, não acenda a luz (continuação do Reels campeão 'o gás não ",
+  "legenda": "Sentiu cheiro forte de gás? NÃO acenda a luz ⚠️\n\nNem ligue ou desligue nada na tomada: uma faísca basta. Abra portas e janelas, saia de casa e ligue 193.\n\n📲 Manda pra sua família. Essa informação protege quem você ama.\n\n#seguranca #gasdecozinha #dicasdecasa #famagas",
+  "imagens": [
+   "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/reel.mp4",
+   "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/capa.jpg"
+  ],
+  "video": "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/reel.mp4",
+  "capa": "posts/2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz/capa.jpg",
+  "agendado_para": "2026-11-27T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra sua família",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Cheiro de gás? [Não acenda a luz]",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-28-reels-por-que-p13",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): por que o botijão se chama P13",
+  "legenda": "Você sabe por que o botijão de casa se chama P13? 🤔\n\nPorque ele leva 13 quilos de gás. O grandão do comércio leva 45 quilos: é o P45.\n\n📲 Manda pra quem não sabia.\n👇 Você já sabia? Conta aqui.\n\n#gasdecozinha #curiosidades #vocesabia #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-28-reels-por-que-p13/reel.mp4",
+   "posts/2026-11-28-reels-por-que-p13/capa.jpg"
+  ],
+  "video": "posts/2026-11-28-reels-por-que-p13/reel.mp4",
+  "capa": "posts/2026-11-28-reels-por-que-p13/capa.jpg",
+  "agendado_para": "2026-11-28T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "compartilhar",
+  "cta": "Manda pra quem não sabia",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Por que se chama [P13]?",
+  "formato": "curiosidade"
+ },
+ {
+  "id": "2026-11-29-reels-feijao-de-molho",
+  "tipo": "reels",
+  "abordagem": "Reels curto: feijão de molho gasta menos gás",
+  "legenda": "Feijão de molho = menos gás no fogo 🫘\n\nDeixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e o botijão dura mais. É de graça e funciona.\n\n🔖 Salva pra lembrar na véspera.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-11-29-reels-feijao-de-molho/reel.mp4",
+   "posts/2026-11-29-reels-feijao-de-molho/capa.jpg"
+  ],
+  "video": "posts/2026-11-29-reels-feijao-de-molho/reel.mp4",
+  "capa": "posts/2026-11-29-reels-feijao-de-molho/capa.jpg",
+  "agendado_para": "2026-11-29T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e comente CANAL",
+  "lote": "reels-semana3",
+  "palavra": "CANAL",
+  "gancho": "Seu feijão [gasta gás à toa]",
+  "formato": "alerta"
+ },
+ {
+  "id": "2026-11-30-reels-arroz-lava-ou-nao-lava",
+  "tipo": "reels",
+  "abordagem": "Reels curto (12h): arroz, lava ou não lava? (pergunta que divide)",
+  "legenda": "Arroz: LAVA ou NÃO LAVA? 🍚\n\nEssa pergunta divide qualquer família. Tem quem jure que lavado fica soltinho, tem quem jogue direto na panela.\n\n👇 E na sua casa, como é? Comenta aqui: LAVA ou NÃO LAVA.\n📲 Manda pra quem discorda de você.\n\n#arroz #cozinha #vidadecasa #almoco #famagas",
+  "imagens": [
+   "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/reel.mp4",
+   "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/capa.jpg"
+  ],
+  "video": "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/reel.mp4",
+  "capa": "posts/2026-11-30-reels-arroz-lava-ou-nao-lava/capa.jpg",
+  "agendado_para": "2026-11-30T12:00:00-03:00",
+  "aprovado": true,
+  "pilar": "A",
+  "layout": "reels",
+  "objetivo": "comentar",
+  "cta": "Conta nos comentários",
+  "lote": "reels-semana3",
+  "palavra": null,
+  "gancho": "Arroz: [lava] ou não lava?",
+  "formato": "pergunta"
+ },
+ {
+  "id": "2026-12-01-reels-abrir-o-forno",
+  "tipo": "reels",
+  "abordagem": "Reels curto: abrir o forno toda hora gasta gás",
+  "legenda": "Abre o forno toda hora pra espiar o bolo? 👀\n\nCada vez que a porta abre, o calor escapa. O bolo demora mais e o gás vai embora. Espie pelo vidro e só abra perto do final.\n\n🔖 Salva pra lembrar no próximo bolo.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+  "imagens": [
+   "posts/2026-12-01-reels-abrir-o-forno/reel.mp4",
+   "posts/2026-12-01-reels-abrir-o-forno/capa.jpg"
+  ],
+  "video": "posts/2026-12-01-reels-abrir-o-forno/reel.mp4",
+  "capa": "posts/2026-12-01-reels-abrir-o-forno/capa.jpg",
+  "agendado_para": "2026-12-01T18:30:00-03:00",
+  "aprovado": true,
+  "pilar": "B",
+  "layout": "reels",
+  "objetivo": "salvar",
+  "cta": "Salva e comente CANAL",
+  "lote": "reels-semana3",
+  "palavra": "CANAL",
+  "gancho": "Abre o forno [toda hora]?",
+  "formato": "alerta"
  }
 ]

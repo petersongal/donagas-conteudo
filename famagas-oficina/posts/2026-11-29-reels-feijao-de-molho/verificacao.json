@@ -1,0 +1,26 @@
+{
+ "roteiro": "Deixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e gasta menos gás. É de graça e funciona. Salva essa dica e comente CANAL para receber ofertas.",
+ "transcricao": " Deixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e gasta menos gás. É de graça e funciona! Salva essa dica e comente CANAL para receber ofertas!",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Deixe o feijão",
+  "de molho antes",
+  "de cozinhar.",
+  "Ele amolece,",
+  "cozinha bem mais",
+  "rápido e gasta",
+  "menos gás.",
+  "É de graça",
+  "e funciona.",
+  "Salva essa dica",
+  "e comente CANAL",
+  "para receber ofertas."
+ ],
+ "duracao_s": 15.8
+}

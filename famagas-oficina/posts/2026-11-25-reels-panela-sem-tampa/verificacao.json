@@ -1,0 +1,24 @@
+{
+ "roteiro": "Panela sem tampa gasta mais gás. O calor escapa e a comida demora. Tampou, cozinha mais rápido e o botijão dura mais. Salva essa dica!",
+ "transcricao": " Panela sem tampa gasta mais gás. O calor escapa e a comida demora. Tampou, cozinha mais rápido e o botijão dura mais. Salva essa dica!",
+ "similaridade": 1.0,
+ "idiomas_detectados": [
+  "pt"
+ ],
+ "voz": "Liam",
+ "modelo_voz": "elevenlabs/tts/eleven-v4-turbo",
+ "modelo_video": "fal-ai/kling-video/v2.6/pro/image-to-video",
+ "legendas": [
+  "Panela sem tampa",
+  "gasta mais gás.",
+  "O calor escapa",
+  "e a comida",
+  "demora.",
+  "Tampou,",
+  "cozinha mais rápido",
+  "e o botijão",
+  "dura mais.",
+  "Salva essa dica!"
+ ],
+ "duracao_s": 14.8
+}
