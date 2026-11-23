@@ -264,6 +264,40 @@
   "formato": "humor"
  },
  {
+  "id": "2026-11-23-story-1500-pessoa",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story pessoa",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-23-story-1500-pessoa/1.jpg"
+  ],
+  "agendado_para": "2026-11-23T15:00:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-23-reels-chama-lancamento",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (lancamento)",
+  "legenda": "🔥 PROMOÇÃO CHAMA DA SORTE FAMAGÁS 🔥\n\nPediu gás? Ganhou 100 números da sorte! São R$ 3 mil em prêmios para a sua cozinha, com 20 ganhadores: air fryer, liquidificador, sanduicheira, mixer e jogo de panelas.\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-23-reels-chama-lancamento/reel.mp4",
+   "posts/2026-11-23-reels-chama-lancamento/capa.jpg"
+  ],
+  "video": "posts/2026-11-23-reels-chama-lancamento/reel.mp4",
+  "capa": "posts/2026-11-23-reels-chama-lancamento/capa.jpg",
+  "agendado_para": "2026-11-23T17:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Pediu gás? Ganhou 100 números da sorte!",
+  "formato": "campanha"
+ },
+ {
   "id": "2026-11-23-reels-ofertas-de-cozinha-canal",
   "tipo": "reels",
   "abordagem": "Reels: canal de ofertas de cozinha (OFERTA)",
@@ -284,6 +318,52 @@
   "palavra": "OFERTA",
   "gancho": "Panela velha? [Olha isso]",
   "formato": "canal"
+ },
+ {
+  "id": "2026-11-23-story-1930-premios",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story premios",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-23-story-1930-premios/1.jpg"
+  ],
+  "agendado_para": "2026-11-23T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-24-reels-chama-curiosidade",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (curiosidade)",
+  "legenda": "Seu gás pode virar uma air fryer! 🍟\n\nNa Promoção Chama da Sorte, cada mês com compra de gás na FamaGás vale 100 números da sorte. São R$ 3 mil em prêmios e 20 ganhadores.\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-24-reels-chama-curiosidade/reel.mp4",
+   "posts/2026-11-24-reels-chama-curiosidade/capa.jpg"
+  ],
+  "video": "posts/2026-11-24-reels-chama-curiosidade/reel.mp4",
+  "capa": "posts/2026-11-24-reels-chama-curiosidade/capa.jpg",
+  "agendado_para": "2026-11-24T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Seu gás pode virar uma Air Fryer!",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-24-story-1030-numeros",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story numeros",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-24-story-1030-numeros/1.jpg"
+  ],
+  "agendado_para": "2026-11-24T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
  },
  {
   "id": "2026-11-24-reels-botijao-agua-quente",
@@ -308,6 +388,52 @@
   "formato": "mito"
  },
  {
+  "id": "2026-11-24-story-1930-contagem",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story contagem",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-24-story-1930-contagem/1.jpg"
+  ],
+  "agendado_para": "2026-11-24T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-25-reels-chama-pergunta",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (pergunta)",
+  "legenda": "Vai pedir gás esse mês? Então para tudo! ✋\n\nCada compra na FamaGás te dá 100 números da sorte para concorrer a R$ 3 mil em prêmios para a cozinha.\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-25-reels-chama-pergunta/reel.mp4",
+   "posts/2026-11-25-reels-chama-pergunta/capa.jpg"
+  ],
+  "video": "posts/2026-11-25-reels-chama-pergunta/reel.mp4",
+  "capa": "posts/2026-11-25-reels-chama-pergunta/capa.jpg",
+  "agendado_para": "2026-11-25T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Vai pedir gás esse mês? Então para tudo!",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-25-story-1030-premios",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story premios",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-25-story-1030-premios/1.jpg"
+  ],
+  "agendado_para": "2026-11-25T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
   "id": "2026-11-25-reels-panela-sem-tampa",
   "tipo": "reels",
   "abordagem": "Reels curto: panela sem tampa gasta mais gás",
@@ -328,6 +454,52 @@
   "palavra": null,
   "gancho": "Sem tampa? [Gás jogado fora]",
   "formato": "alerta"
+ },
+ {
+  "id": "2026-11-25-story-1930-pessoa",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story pessoa",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-25-story-1930-pessoa/1.jpg"
+  ],
+  "agendado_para": "2026-11-25T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-26-reels-chama-natal",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (natal)",
+  "legenda": "Sua cozinha merece presente neste Natal 🎄\n\nPedindo seu gás na FamaGás você concorre a air fryer, liquidificador, sanduicheira, mixer e jogo de panelas. São 20 ganhadores!\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-26-reels-chama-natal/reel.mp4",
+   "posts/2026-11-26-reels-chama-natal/capa.jpg"
+  ],
+  "video": "posts/2026-11-26-reels-chama-natal/reel.mp4",
+  "capa": "posts/2026-11-26-reels-chama-natal/capa.jpg",
+  "agendado_para": "2026-11-26T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Sua cozinha merece presente neste Natal",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-26-story-1030-contagem",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story contagem",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-26-story-1030-contagem/1.jpg"
+  ],
+  "agendado_para": "2026-11-26T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
  },
  {
   "id": "2026-11-26-reels-balanca-o-botijao",
@@ -352,6 +524,52 @@
   "formato": "humor"
  },
  {
+  "id": "2026-11-26-story-1930-numeros",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story numeros",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-26-story-1930-numeros/1.jpg"
+  ],
+  "agendado_para": "2026-11-26T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-27-reels-chama-um-minuto",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (um-minuto)",
+  "legenda": "1 minuto para concorrer a 20 prêmios ⏱️\n\nComprou o gás? Faça o cadastro rapidinho e ganhe 100 números da sorte na Promoção Chama da Sorte FamaGás.\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-27-reels-chama-um-minuto/reel.mp4",
+   "posts/2026-11-27-reels-chama-um-minuto/capa.jpg"
+  ],
+  "video": "posts/2026-11-27-reels-chama-um-minuto/reel.mp4",
+  "capa": "posts/2026-11-27-reels-chama-um-minuto/capa.jpg",
+  "agendado_para": "2026-11-27T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "1 minuto pra concorrer a 20 prêmios",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-27-story-1030-pessoa",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story pessoa",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-27-story-1030-pessoa/1.jpg"
+  ],
+  "agendado_para": "2026-11-27T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
   "id": "2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz",
   "tipo": "reels",
   "abordagem": "Reels: cheiro de gás, não acenda a luz (continuação do Reels campeão 'o gás não ",
@@ -372,6 +590,52 @@
   "palavra": null,
   "gancho": "Cheiro de gás? [Não acenda a luz]",
   "formato": "alerta"
+ },
+ {
+  "id": "2026-11-27-story-1930-premios",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story premios",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-27-story-1930-premios/1.jpg"
+  ],
+  "agendado_para": "2026-11-27T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-28-reels-chama-nao-perca",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (nao-perca)",
+  "legenda": "Comprou gás e não pegou seus números? Corre! 🏃‍♀️\n\nCada mês com compra na FamaGás vale 100 números da sorte. Não deixe seu prêmio passar: são R$ 3 mil em prêmios!\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-28-reels-chama-nao-perca/reel.mp4",
+   "posts/2026-11-28-reels-chama-nao-perca/capa.jpg"
+  ],
+  "video": "posts/2026-11-28-reels-chama-nao-perca/reel.mp4",
+  "capa": "posts/2026-11-28-reels-chama-nao-perca/capa.jpg",
+  "agendado_para": "2026-11-28T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Comprou gás e não pegou seus números? Corre!",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-28-story-1030-numeros",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story numeros",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-28-story-1030-numeros/1.jpg"
+  ],
+  "agendado_para": "2026-11-28T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
  },
  {
   "id": "2026-11-28-reels-por-que-p13",
@@ -396,6 +660,52 @@
   "formato": "curiosidade"
  },
  {
+  "id": "2026-11-28-story-1930-contagem",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story contagem",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-28-story-1930-contagem/1.jpg"
+  ],
+  "agendado_para": "2026-11-28T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
+  "id": "2026-11-29-reels-chama-dois-meses",
+  "tipo": "reels",
+  "abordagem": "Chama da Sorte: Reels da campanha (dois-meses)",
+  "legenda": "Novembro + dezembro = 200 números da sorte! 🔥\n\nComprou gás na FamaGás nos dois meses? São 100 números em cada mês. Mais chances de levar um dos 20 prêmios!\n\n📞 Peça seu gás: 0800 010 9669 (ligação grátis e WhatsApp)\n🎟️ Já comprou? Pegue seus 100 números: famagas.com.br/chama-da-sorte\n🗓️ Participação até 31/12/2026 · sorteio em 05/01/2027\n\n📲 Manda pra quem vai pedir gás este mês!\n\nRegulamento completo em famagas.com.br/chama-da-sorte/regulamento. Imagens ilustrativas. Esta promoção não é patrocinada, apoiada, administrada ou associada ao Instagram.\n\n#famagas #promocao #chamadasorte #gasdecozinha #sorteio",
+  "imagens": [
+   "posts/2026-11-29-reels-chama-dois-meses/reel.mp4",
+   "posts/2026-11-29-reels-chama-dois-meses/capa.jpg"
+  ],
+  "video": "posts/2026-11-29-reels-chama-dois-meses/reel.mp4",
+  "capa": "posts/2026-11-29-reels-chama-dois-meses/capa.jpg",
+  "agendado_para": "2026-11-29T10:00:00-03:00",
+  "aprovado": true,
+  "pilar": "CHAMA",
+  "layout": "reels",
+  "objetivo": "participar",
+  "cta": "Peça e cadastre-se",
+  "lote": "chama-da-sorte-semana1",
+  "palavra": null,
+  "gancho": "Novembro + dezembro = 200 números!",
+  "formato": "campanha"
+ },
+ {
+  "id": "2026-11-29-story-1030-pessoa",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story pessoa",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-29-story-1030-pessoa/1.jpg"
+  ],
+  "agendado_para": "2026-11-29T10:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
+ },
+ {
   "id": "2026-11-29-reels-feijao-de-molho",
   "tipo": "reels",
   "abordagem": "Reels curto: feijão de molho gasta menos gás",
@@ -416,6 +726,18 @@
   "palavra": "CANAL",
   "gancho": "Seu feijão [gasta gás à toa]",
   "formato": "alerta"
+ },
+ {
+  "id": "2026-11-29-story-1930-premios",
+  "tipo": "story",
+  "abordagem": "Chama da Sorte: story premios",
+  "legenda": "",
+  "imagens": [
+   "posts/2026-11-29-story-1930-premios/1.jpg"
+  ],
+  "agendado_para": "2026-11-29T19:30:00-03:00",
+  "aprovado": true,
+  "lote": "chama-da-sorte-semana1"
  },
  {
   "id": "2026-11-30-reels-arroz-lava-ou-nao-lava",
