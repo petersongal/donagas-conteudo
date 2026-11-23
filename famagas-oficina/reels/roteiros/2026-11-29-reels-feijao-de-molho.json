@@ -8,14 +8,15 @@
  "palavra": "CANAL",
  "abordagem": "Reels curto: feijão de molho gasta menos gás",
  "legenda": "Feijão de molho = menos gás no fogo 🫘\n\nDeixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e o botijão dura mais. É de graça e funciona.\n\n🔖 Salva pra lembrar na véspera.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
- "gancho": "Feijão [de molho] gasta menos gás",
+ "gancho": "Seu feijão [gasta gás à toa]",
  "voz": "Deixe o feijão de molho antes de cozinhar. Ele amolece, cozinha bem mais rápido e gasta menos gás. É de graça e funciona. Salva essa dica e comente CANAL para receber ofertas.",
  "cenas": [
   {
    "tipo": "real",
    "imagem": "panela-pressao.jpg",
    "reserva": "cena-panela.jpg",
-   "dur": 5
+   "dur": 5,
+   "anima": "a thin wisp of steam rises softly from the pressure cooker valve"
   },
   {
    "tipo": "texto",

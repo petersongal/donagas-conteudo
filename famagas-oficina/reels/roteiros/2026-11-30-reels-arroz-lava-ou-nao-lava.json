@@ -15,7 +15,8 @@
    "tipo": "real",
    "imagem": "arroz.jpg",
    "reserva": "cena-chef.jpg",
-   "dur": 5
+   "dur": 5,
+   "anima": "light steam rises from the hot white rice"
   },
   {
    "tipo": "texto",

@@ -15,7 +15,8 @@
    "tipo": "real",
    "imagem": "bolo-caseiro.jpg",
    "reserva": "cena-chef.jpg",
-   "dur": 4
+   "dur": 4,
+   "anima": "light steam rises from the warm cake, sunlight shifts softly"
   },
   {
    "tipo": "texto",

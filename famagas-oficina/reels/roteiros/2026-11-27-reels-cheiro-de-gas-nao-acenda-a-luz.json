@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-27-reels-cheiro-de-gas-nao-acenda-a-luz",
+ "quando": "2026-11-27T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "alerta",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra sua família",
+ "palavra": null,
+ "abordagem": "Reels: cheiro de gás, não acenda a luz (continuação do Reels campeão 'o gás não tem cheiro')",
+ "legenda": "Sentiu cheiro forte de gás? NÃO acenda a luz ⚠️\n\nNem ligue ou desligue nada na tomada: uma faísca basta. Abra portas e janelas, saia de casa e ligue 193.\n\n📲 Manda pra sua família. Essa informação protege quem você ama.\n\n#seguranca #gasdecozinha #dicasdecasa #famagas",
+ "gancho": "Cheiro de gás? [Não acenda a luz]",
+ "voz": "Sentiu cheiro forte de gás? Não acenda a luz e não ligue nada na tomada. Uma faísca basta. Abra portas e janelas, saia de casa e ligue 193. Manda pra sua família!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "fogao-desligado.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "very slow camera push-in over the stove grates, dim quiet kitchen light"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Abra tudo, saia e [ligue 193]",
+   "sub": "Não acenda a luz nem ligue nada na tomada.",
+   "fundo": "noite",
+   "emoji": "⚠️",
+   "dur": 5
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra sua família",
+  "sub": "essa informação protege quem você ama",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana3"
+}

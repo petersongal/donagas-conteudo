@@ -6,6 +6,8 @@ Documento-mestre. **Toda tarefa que cria conteúdo para o @famagas_ lê este arq
 - **500.000 visualizações por mês** no Instagram, em poucos meses.
 - **Passar de 100.000 seguidores.**
 - **Sinais de sucesso que mais importam:** (1) pessoas comentando a palavra da chamada (CANAL, OFERTA, RECEITA...), (2) pessoas entrando no canal "Achadinhos e Ofertas FamaGás" no WhatsApp, (3) compartilhamentos e salvamentos.
+- **Meta nova (Peterson, 23/11/2026): R$ 3.000 por mês de comissão de afiliado** (Mercado Livre, etiqueta famagaszap; TikTok Shop se valer a pena) com as ofertas do canal "Achadinhos e Ofertas FamaGás", e mais seguidores no canal. O Instagram é a porta de entrada do canal.
+- **Verba de anúncio: R$ 10 por dia** (Peterson, 23/11/2026), para seguidores e engajamento nas cidades com loja.
 - Propósito: mais clientes, mais satisfeitos e mais fiéis; a FamaGás lembrada na hora de pedir o gás.
 - O Claude é o especialista de marketing: analisa a cada 7 dias, decide e executa as mudanças sozinho.
 
@@ -131,4 +133,19 @@ Feito antes do fechamento do ciclo 1 porque os roteiros acabavam em 17/11 e a pr
 - Aviso: com 100 a 500 views por Reels os testes têm muito ruído; só vira regra o que ganhar com folga (30% ou mais).
 
 **Anúncio:** ainda não. Nenhum Reels campeão (zero salvamento; 4 compartilhamentos na semana inteira). Reavaliar em 26/11. Se até 03/12 a média não passar de 500 views por Reels, o orgânico sozinho não chega nem perto de 500 mil por mês nesta conta, e a recomendação passa a ser impulsionar com verba pequena o melhor Reels de cada semana nas cidades com loja.
+
+### Mudança de rumo de 23/11/2026 (pedido do Peterson: "resolva, 100% autônomo")
+**Números com 12 Reels no ar (23/11):** média ~190 views. Os 2 campeões são verdade que assusta ou surpreende sobre o gás: "Chama amarela? Você está perdendo gás" (497) e "O gás não tem cheiro" (489, maior alcance: 434). Humor fica no meio (156 a 209). Receita (91 e 78), canal (50) e "Prazer, FamaGás" (59) foram os piores. Seguidores parados em ~3.037.
+**Regras novas (valem a partir do lote 3):**
+- 5 de cada 7 Reels: verdade surpreendente, mito ou alerta sobre gás e economia, sempre com a perda ou o perigo no gancho ("você está perdendo", "não faça"). 2 de cada 7: humor do dia a dia. Receita e Reels "do canal" saem dos Reels (receita continua no robô do direct).
+- Fazer "parte 2" de todo Reels que passar de 2x a média.
+- Foto real com **movimento de verdade**: cena `{"tipo":"real", "imagem":..., "anima":"<movimento em inglês>"}` anima a foto aprovada com a IA de vídeo da fal.ai (vapor, chama, fervura; sem pessoas). Sem a chave ou se falhar, volta para a câmera viva. Conferir os quadros depois do workflow.
+- **Não fazemos react nem corte de vídeo de outras pessoas ou de famosos**: é conteúdo de terceiros (direito autoral) e o Instagram derruba o alcance de conteúdo não original e pode bloquear a conta. Vídeo gravado pelo Peterson na FamaGás entra quando ele puder.
+- Lote 3 refeito: o Reels do pão de queijo virou "Cheiro de gás? Não acenda a luz" (parte 2 do campeão). Todos os 7 com foto real animada.
+**Anúncio (R$ 10/dia):** impulsionar 1 Reels por semana, sempre o de mais views da semana anterior, por 7 dias, objetivo "mais visitas ao perfil", público local (raio em volta das cidades com loja), 18 a 65 anos. 1ª escolha: "O gás não tem cheiro" (20/11). A conta de anúncio precisa ser ligada pelo Peterson (Turbinar no app do Instagram ou conector de anúncios da Meta).
+**Hipóteses novas (julgadas em 03/12, junto com D, E e F):**
+- G: foto real animada segura mais tempo assistido que a foto parada (comparar com os lotes 1 e 2).
+- H: o Reels impulsionado traz pelo menos 100 seguidores na semana (R$ 70).
+- I: a parte 2 de um campeão ("não acenda a luz") passa de 2x a média.
+**Afiliados (meta R$ 3.000/mês):** com comissão média de uns 6% a 10% no Mercado Livre, R$ 3.000 pedem cerca de R$ 30 a 50 mil vendidos por mês pelos links. Isso só vem com canal grande (milhares de seguidores ativos) e ofertas boas todo dia. Ordem: (1) Instagram leva gente ao canal (palavra CANAL só no fim dos Reels de economia e no robô do direct); (2) canal com 3 ofertas por dia de casa/cozinha (curadoria semanal das terças); (3) medir seguidores do canal e comissão toda semana; (4) TikTok (repostar os mesmos Reels e depois TikTok Shop) quando o Peterson criar a conta.
 

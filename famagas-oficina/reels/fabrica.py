@@ -277,6 +277,32 @@ def cena_ia(quadro_png, movimento, dur, dest):
     return dest
 
 
+REAL_ESTILO = ("Photorealistic real footage, same scene exactly as in the image, subtle natural motion only, "
+               "slow gentle camera push-in, stable, vertical 9:16, no people, no hands, no text, no logos.")
+REAL_NEGATIVO = "people, person, hands, face, text, letters, watermark, logo, cartoon, morphing, distortion, flicker, explosion, fire spreading"
+
+
+def cena_real_animada(quadro_png, anima, dur, dest):
+    """Foto real aprovada ganha movimento de verdade (vapor, chama, fervura) com IA de vídeo (fal.ai).
+    Sem a chave (modo teste) ou se a IA falhar, cai na foto com câmera viva de sempre."""
+    if not FAL_KEY:
+        return cena_foto(quadro_png, dur, dest)
+    jpg = str(quadro_png).replace(".png", ".jpg")
+    sh(["ffmpeg", "-y", "-v", "error", "-i", str(quadro_png), "-q:v", "3", jpg])
+    try:
+        res = fal(MODELO_VIDEO, {"prompt": f"{anima}. {REAL_ESTILO}", "start_image_url": data_uri(jpg), "duration": "5",
+                                 "negative_prompt": REAL_NEGATIVO, "generate_audio": False})
+        bruto = str(dest).replace(".mp4", "-bruto.mp4")
+        baixar(res["video"]["url"], bruto)
+        sh(["ffmpeg", "-y", "-v", "error", "-i", bruto, "-an", "-vf",
+            f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps=30,tpad=stop_mode=clone:stop_duration=3,format=yuv420p",
+            "-t", str(dur), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", str(dest)])
+        return dest
+    except Exception as e:
+        log("animação da foto real falhou:", e, "→ foto com câmera viva")
+        return cena_foto(quadro_png, dur, dest)
+
+
 def cena_estatica(png, dur, dest, zoom=True):
     frames = int(dur * 30)
     vf = (f"scale={W*2}:{H*2},zoompan=z='min(1+0.0009*on,1.12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps=30,format=yuv420p"
@@ -460,7 +486,9 @@ def produzir(rot):
     clipes = []
     for i, c in enumerate(cenas):
         dest = pasta / f"c{i}.mp4"
-        if c["tipo"] in ("foto", "real"):
+        if c["tipo"] == "real" and c.get("anima"):
+            cena_real_animada(pasta / f"q{i}.png", c["anima"], c.get("dur", 5), dest)
+        elif c["tipo"] in ("foto", "real"):
             cena_foto(pasta / f"q{i}.png", c.get("dur", 5), dest, sentido=1 if i % 2 == 0 else -1)
         elif c["tipo"] == "ia" and ANIMACAO == "poses":
             outras = [p for p in _poses_disponiveis() if p != c["mascote"]]

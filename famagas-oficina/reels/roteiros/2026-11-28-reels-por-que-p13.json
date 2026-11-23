@@ -29,7 +29,8 @@
    "tipo": "real",
    "imagem": "chama-azul.jpg",
    "reserva": "cena-chef.jpg",
-   "dur": 4
+   "dur": 4,
+   "anima": "the blue gas flames flicker gently and steadily"
   }
  ],
  "final": {

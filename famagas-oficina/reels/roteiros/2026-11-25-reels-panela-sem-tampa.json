@@ -8,14 +8,15 @@
  "palavra": null,
  "abordagem": "Reels curto: panela sem tampa gasta mais gás",
  "legenda": "Panela sem tampa = gás indo embora 💨\n\nSem tampa, o calor escapa e a comida demora mais pra ficar pronta. Tampou, cozinha mais rápido e o botijão dura mais.\n\n🔖 Salva pra lembrar na hora do almoço.\n📲 Manda pra quem cozinha na sua casa.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
- "gancho": "Panela [sem tampa] gasta mais",
+ "gancho": "Sem tampa? [Gás jogado fora]",
  "voz": "Panela sem tampa gasta mais gás. O calor escapa e a comida demora. Tampou, cozinha mais rápido e o botijão dura mais. Salva essa dica!",
  "cenas": [
   {
    "tipo": "real",
    "imagem": "tampa-panela.jpg",
    "reserva": "cena-panela.jpg",
-   "dur": 4
+   "dur": 4,
+   "anima": "steam rises and swirls gently from under the pot lid"
   },
   {
    "tipo": "texto",

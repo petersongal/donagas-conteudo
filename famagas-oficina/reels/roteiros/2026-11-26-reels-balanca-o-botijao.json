@@ -29,7 +29,8 @@
    "tipo": "real",
    "imagem": "fogao-desligado.jpg",
    "reserva": "cena-chef.jpg",
-   "dur": 4
+   "dur": 4,
+   "anima": "very slow camera push-in over the stove grates, soft warm light"
   }
  ],
  "final": {
