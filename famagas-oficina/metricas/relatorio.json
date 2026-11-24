@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-24T14:16:51.838Z",
- "ultima_coleta": "2026-11-24T14:05:03.782+00:00",
+ "gerado_em": "2026-11-24T23:04:34.760Z",
+ "ultima_coleta": "2026-11-24T23:00:03.569+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -114,7 +114,7 @@
     "comments": 1,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-24T13:25:05.347+00:00",
+   "metricas_em": "2026-11-24T22:35:03.071+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -137,7 +137,7 @@
     "comments": 1,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-24T13:10:03.898+00:00",
+   "metricas_em": "2026-11-24T22:25:04.47+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -160,7 +160,7 @@
     "comments": 8,
     "total_interactions": 42
    },
-   "metricas_em": "2026-11-24T13:20:03.879+00:00",
+   "metricas_em": "2026-11-24T22:30:14.003+00:00",
    "erro": null,
    "palavras": {
     "canal": 2
@@ -185,7 +185,7 @@
     "comments": 1,
     "total_interactions": 7
    },
-   "metricas_em": "2026-11-24T13:55:03.968+00:00",
+   "metricas_em": "2026-11-24T20:00:06.199+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -223,7 +223,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-24T13:55:03.625+00:00",
+   "metricas_em": "2026-11-24T20:00:05.915+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -261,7 +261,7 @@
     "comments": 7,
     "total_interactions": 14
    },
-   "metricas_em": "2026-11-24T13:20:03.125+00:00",
+   "metricas_em": "2026-11-24T22:30:13.41+00:00",
    "erro": null,
    "palavras": {
     "canal": 3
@@ -301,7 +301,7 @@
     "comments": 2,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-24T13:20:04.203+00:00",
+   "metricas_em": "2026-11-24T22:30:14.257+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -341,7 +341,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-24T13:25:05.005+00:00",
+   "metricas_em": "2026-11-24T22:30:15.127+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -379,7 +379,7 @@
     "comments": 3,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-24T13:35:03.569+00:00",
+   "metricas_em": "2026-11-24T22:50:02.15+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -419,7 +419,7 @@
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-24T13:50:02.907+00:00",
+   "metricas_em": "2026-11-24T23:00:03.569+00:00",
    "erro": null,
    "palavras": {
     "canal": 1
@@ -459,7 +459,7 @@
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-24T13:50:03.351+00:00",
+   "metricas_em": "2026-11-24T20:00:04.79+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -499,7 +499,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-24T13:25:04.58+00:00",
+   "metricas_em": "2026-11-24T22:30:14.821+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -537,7 +537,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T13:50:03.765+00:00",
+   "metricas_em": "2026-11-24T20:00:05.213+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -575,7 +575,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-24T13:20:03.472+00:00",
+   "metricas_em": "2026-11-24T22:30:13.684+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -613,7 +613,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-24T13:35:03.889+00:00",
+   "metricas_em": "2026-11-24T22:50:02.425+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -651,7 +651,7 @@
     "comments": 0,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-24T13:25:05.623+00:00",
+   "metricas_em": "2026-11-24T22:35:03.376+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -689,7 +689,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-24T13:40:04.969+00:00",
+   "metricas_em": "2026-11-24T22:55:04.378+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -727,7 +727,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T13:50:04.107+00:00",
+   "metricas_em": "2026-11-24T20:00:05.557+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -765,7 +765,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T13:55:04.811+00:00",
+   "metricas_em": "2026-11-24T20:00:07.314+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -812,7 +812,7 @@
     "total_interactions": 15,
     "ig_reels_avg_watch_time": 3230
    },
-   "metricas_em": "2026-11-24T13:10:03.544+00:00",
+   "metricas_em": "2026-11-24T22:25:04.213+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -835,7 +835,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-24T11:20:01.811+00:00",
+   "metricas_em": "2026-11-24T20:35:02.704+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -873,7 +873,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-24T13:55:04.252+00:00",
+   "metricas_em": "2026-11-24T20:00:06.624+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -912,15 +912,15 @@
    "permalink": "https://www.instagram.com/reel/DfqBoTVihVL/",
    "metricas": {
     "likes": 11,
-    "reach": 148,
+    "reach": 149,
     "saved": 0,
-    "views": 196,
+    "views": 198,
     "shares": 1,
     "comments": 0,
     "total_interactions": 12,
-    "ig_reels_avg_watch_time": 4617
+    "ig_reels_avg_watch_time": 4753
    },
-   "metricas_em": "2026-11-24T12:10:01.741+00:00",
+   "metricas_em": "2026-11-24T21:15:03.86+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -938,12 +938,12 @@
     "likes": 2,
     "reach": 39,
     "saved": 1,
-    "views": 94,
+    "views": 95,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-24T13:55:04.526+00:00",
+   "metricas_em": "2026-11-24T20:00:06.987+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -981,7 +981,7 @@
     "comments": 0,
     "total_interactions": 22
    },
-   "metricas_em": "2026-11-24T13:20:04.497+00:00",
+   "metricas_em": "2026-11-24T22:30:14.52+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1028,7 +1028,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 6224
    },
-   "metricas_em": "2026-11-24T11:55:06.968+00:00",
+   "metricas_em": "2026-11-24T21:10:03.744+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -1053,7 +1053,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-24T13:40:04.622+00:00",
+   "metricas_em": "2026-11-24T22:55:04.067+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1091,7 +1091,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T12:20:03.154+00:00",
+   "metricas_em": "2026-11-24T21:30:52.486+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1138,7 +1138,7 @@
     "total_interactions": 11,
     "ig_reels_avg_watch_time": 5195
    },
-   "metricas_em": "2026-11-24T14:05:03.782+00:00",
+   "metricas_em": "2026-11-24T20:15:04.254+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1156,12 +1156,12 @@
     "likes": 1,
     "reach": 31,
     "saved": 0,
-    "views": 71,
+    "views": 72,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T12:50:02.274+00:00",
+   "metricas_em": "2026-11-24T22:00:03.17+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1194,12 +1194,12 @@
     "likes": 1,
     "reach": 31,
     "saved": 0,
-    "views": 70,
+    "views": 71,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T12:00:02.753+00:00",
+   "metricas_em": "2026-11-24T21:10:04.02+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1246,7 +1246,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 5196
    },
-   "metricas_em": "2026-11-24T13:55:05.713+00:00",
+   "metricas_em": "2026-11-24T20:05:03.688+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1269,7 +1269,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T12:20:02.814+00:00",
+   "metricas_em": "2026-11-24T21:30:52.122+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1300,14 +1300,14 @@
    "permalink": "https://www.instagram.com/p/Dfzd6Mblxq3/",
    "metricas": {
     "likes": 1,
-    "reach": 31,
+    "reach": 32,
     "saved": 0,
-    "views": 68,
+    "views": 71,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T11:20:02.659+00:00",
+   "metricas_em": "2026-11-24T20:35:03.48+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1354,7 +1354,7 @@
     "total_interactions": 3,
     "ig_reels_avg_watch_time": 4974
    },
-   "metricas_em": "2026-11-24T13:40:04.228+00:00",
+   "metricas_em": "2026-11-24T22:55:03.656+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1377,7 +1377,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T11:55:05.386+00:00",
+   "metricas_em": "2026-11-24T21:10:03.44+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1415,7 +1415,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T14:05:03.474+00:00",
+   "metricas_em": "2026-11-24T20:15:03.963+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1462,7 +1462,7 @@
     "total_interactions": 2,
     "ig_reels_avg_watch_time": 10239
    },
-   "metricas_em": "2026-11-24T12:45:06.236+00:00",
+   "metricas_em": "2026-11-24T22:00:02.839+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1478,14 +1478,14 @@
    "permalink": "https://www.instagram.com/p/Df3D7HUFzte/",
    "metricas": {
     "likes": 3,
-    "reach": 23,
+    "reach": 24,
     "saved": 0,
-    "views": 47,
+    "views": 49,
     "shares": 0,
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-24T11:20:02.393+00:00",
+   "metricas_em": "2026-11-24T20:35:03.253+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1547,7 +1547,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 5426
    },
-   "metricas_em": "2026-11-24T12:20:03.487+00:00",
+   "metricas_em": "2026-11-24T21:30:52.79+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1570,7 +1570,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-24T13:55:05.441+00:00",
+   "metricas_em": "2026-11-24T20:05:03.407+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1602,7 +1602,7 @@
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 4035
    },
-   "metricas_em": "2026-11-24T11:55:04.88+00:00",
+   "metricas_em": "2026-11-24T21:10:03.17+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1634,7 +1634,7 @@
     "total_interactions": 9,
     "ig_reels_avg_watch_time": 2905
    },
-   "metricas_em": "2026-11-24T11:20:02.071+00:00",
+   "metricas_em": "2026-11-24T20:35:02.989+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1657,16 +1657,16 @@
    "status": "publicado",
    "permalink": "https://www.instagram.com/reel/DgBMw97iQtC/",
    "metricas": {
-    "likes": 1,
+    "likes": 2,
     "reach": 135,
     "saved": 1,
-    "views": 169,
+    "views": 170,
     "shares": 0,
     "comments": 0,
-    "total_interactions": 2,
+    "total_interactions": 4,
     "ig_reels_avg_watch_time": 5950
    },
-   "metricas_em": "2026-11-24T13:55:05.105+00:00",
+   "metricas_em": "2026-11-24T20:05:03.11+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1698,7 +1698,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 3422
    },
-   "metricas_em": "2026-11-24T13:30:13.537+00:00",
+   "metricas_em": "2026-11-24T22:40:02.717+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1739,15 +1739,15 @@
    "permalink": "https://www.instagram.com/reel/DgGMDd5CQdI/",
    "metricas": {
     "likes": 2,
-    "reach": 79,
+    "reach": 87,
     "saved": 0,
-    "views": 117,
+    "views": 126,
     "shares": 2,
     "comments": 0,
     "total_interactions": 5,
-    "ig_reels_avg_watch_time": 5897
+    "ig_reels_avg_watch_time": 5417
    },
-   "metricas_em": "2026-11-24T11:20:01.282+00:00",
+   "metricas_em": "2026-11-24T20:20:03.649+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1770,16 +1770,16 @@
    "status": "publicado",
    "permalink": "https://www.instagram.com/reel/DgGWXBTGTco/",
    "metricas": {
-    "likes": 0,
-    "reach": 14,
+    "likes": 1,
+    "reach": 15,
     "saved": 0,
-    "views": 19,
+    "views": 22,
     "shares": 0,
     "comments": 0,
-    "total_interactions": 0,
-    "ig_reels_avg_watch_time": 4451
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 4388
    },
-   "metricas_em": "2026-11-24T12:45:05.907+00:00",
+   "metricas_em": "2026-11-24T22:00:02.57+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1819,16 +1819,16 @@
    "status": "publicado",
    "permalink": "https://www.instagram.com/reel/DgIA2sqDF1e/",
    "metricas": {
-    "likes": 0,
-    "reach": 0,
+    "likes": 1,
+    "reach": 15,
     "saved": 0,
-    "views": 0,
+    "views": 23,
     "shares": 0,
     "comments": 0,
-    "total_interactions": 0,
-    "ig_reels_avg_watch_time": 0
+    "total_interactions": 1,
+    "ig_reels_avg_watch_time": 6182
    },
-   "metricas_em": "2026-11-24T13:05:11.147+00:00",
+   "metricas_em": "2026-11-24T22:15:03.585+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1842,6 +1842,55 @@
    },
    "agendado_para": "2026-11-24T13:30:00+00:00",
    "publicado_em": "2026-11-24T13:30:12.467+00:00",
+   "status": "publicado",
+   "permalink": null,
+   "metricas": null,
+   "metricas_em": null,
+   "erro": null,
+   "palavras": {}
+  },
+  {
+   "id": "2026-11-24-reels-botijao-agua-quente",
+   "tipo": "reels",
+   "abordagem": "Reels: água quente ou sol no botijão para render (mito perigoso)",
+   "palavra": null,
+   "meta": {
+    "cta": "Manda pra quem faz isso",
+    "lote": "reels-semana2",
+    "pilar": "C",
+    "gancho": "[Água quente] no botijão?",
+    "layout": "reels",
+    "formato": "mito",
+    "objetivo": "compartilhar"
+   },
+   "agendado_para": "2026-11-24T21:30:00+00:00",
+   "publicado_em": "2026-11-24T21:30:50.657+00:00",
+   "status": "publicado",
+   "permalink": "https://www.instagram.com/reel/DgI7LFzGbkn/",
+   "metricas": {
+    "likes": 0,
+    "reach": 0,
+    "saved": 0,
+    "views": 0,
+    "shares": 0,
+    "comments": 0,
+    "total_interactions": 0,
+    "ig_reels_avg_watch_time": 0
+   },
+   "metricas_em": "2026-11-24T21:30:51.779+00:00",
+   "erro": null,
+   "palavras": {}
+  },
+  {
+   "id": "2026-11-24-story-1930-contagem",
+   "tipo": "story",
+   "abordagem": "Chama da Sorte: story contagem",
+   "palavra": null,
+   "meta": {
+    "lote": "chama-da-sorte-semana1"
+   },
+   "agendado_para": "2026-11-24T22:30:00+00:00",
+   "publicado_em": "2026-11-24T22:30:11.857+00:00",
    "status": "publicado",
    "permalink": null,
    "metricas": null,
