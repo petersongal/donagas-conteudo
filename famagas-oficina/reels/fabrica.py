@@ -230,6 +230,8 @@ def render_png(jobs):
 def fal(modelo, payload, timeout=900):
     h = {"Authorization": f"Key {FAL_KEY}", "Content-Type": "application/json"}
     r = requests.post(f"https://queue.fal.run/{modelo}", headers=h, json=payload, timeout=60)
+    if not r.ok:
+        log("fal.ai recusou", modelo, r.status_code, (r.text or "")[:300])  # mostra o motivo (ex.: saldo esgotado)
     r.raise_for_status()
     q = r.json()
     status_url, resp_url = q["status_url"], q["response_url"]
@@ -614,7 +616,16 @@ def main():
             log("limite desta execução atingido; o resto fica para a próxima")
             break
         log("produzindo", rid, "(MODO TESTE, sem IA)" if not FAL_KEY else "")
-        produzir(rot)
+        try:
+            produzir(rot)
+        except Exception as e:
+            # Falha no meio (ex.: fal.ai sem saldo): para aqui, mas SALVA o que já ficou pronto nesta execução.
+            # O roteiro que falhou fica para a próxima execução (push ou a rodada diária das 10h23).
+            import shutil
+            log(rid, "FALHOU:", e, "— parando; os Reels já prontos são salvos e este fica para a próxima execução")
+            if not (RAIZ / "posts" / rid / "reel.mp4").exists():
+                shutil.rmtree(RAIZ / "posts" / rid, ignore_errors=True)
+            break
         feitos += 1
         conf = globals().get("_ULTIMA_CONFERENCIA") or {}
         voz_ok = (conf.get("similaridade") or 0) >= SIMILARIDADE_MINIMA
