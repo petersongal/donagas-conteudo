@@ -181,4 +181,4 @@ Feito antes do fechamento do ciclo 1 porque os roteiros acabavam em 17/11 e a pr
 - K (pessoa de verdade): o 2º vídeo do Peterson (02/12) repete tempo médio assistido acima de 10 s e mais curtidas que qualquer Reels do mascote da semana. Se repetir, vídeo de dica com o Peterson vira o formato principal e o mascote vira apoio.
 - L (série dos campeões): "panela preta por baixo" e "o gás desce pro chão" passam de 2x a média (354 views).
 - D a I continuam em aberto e são julgadas em 03/12.
-
+- **Produção do lote 4 parada em 26/11:** a fal.ai recusou por saldo esgotado ("Exhausted balance") depois do 3º Reels; nada foi agendado. Os 7 roteiros estão prontos e conferidos em modo teste. Quando o Peterson colocar crédito, a rodada diária das 10h23 produz tudo sozinha. A fábrica foi corrigida para não perder os Reels já prontos quando a fal.ai falha no meio e para mostrar o motivo no log.
