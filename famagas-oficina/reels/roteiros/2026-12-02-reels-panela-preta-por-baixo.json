@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-02-reels-panela-preta-por-baixo",
+ "quando": "2026-12-02T21:00:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels (21h, longe do vídeo do Peterson das 15h): panela preta por baixo = chama amarela (parte 2 do campeão 'chama amarela')",
+ "legenda": "Panela ficando preta por baixo? Olha a cor da chama 🔥\n\nFundo de panela preto é sinal de chama amarela: o gás queima mal e você paga por calor que não chega na comida. Chama boa é azul. Se a sua está amarela, chame um técnico de confiança.\n\n🔖 Salva pra conferir hoje no seu fogão.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Panela [preta] por baixo?",
+ "voz": "Panela preta por baixo? É sinal de chama amarela: o gás queima mal e você paga por calor que não chega. Chama boa é azul. Salva e comente CANAL para receber ofertas.",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "chama-azul.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "blue gas flames flicker gently and steadily on the burner"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Chama boa é [azul]",
+   "sub": "Amarela suja a panela e desperdiça gás.",
+   "fundo": "noite",
+   "emoji": "🔥",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

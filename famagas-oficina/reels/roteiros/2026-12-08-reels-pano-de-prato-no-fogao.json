@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-08-reels-pano-de-prato-no-fogao",
+ "quando": "2026-12-08T12:00:00-03:00",
+ "pilar": "C",
+ "formato": "alerta",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem cozinha na sua casa",
+ "palavra": null,
+ "abordagem": "Reels (12h): pano de prato pendurado no fogão pega fogo",
+ "legenda": "Pano de prato pendurado no fogão? ⚠️\n\nUm descuido e ele encosta na chama. Deixe pano, plástico e papel longe das bocas acesas. Parece bobagem, mas acontece muito.\n\n📲 Manda pra quem cozinha na sua casa.\n\n#seguranca #gasdecozinha #dicasdecasa #famagas",
+ "gancho": "Pano de prato [no fogão]?",
+ "voz": "Pano de prato pendurado no fogão? Um descuido e ele pega fogo. Deixe pano, plástico e papel longe da chama acesa. Parece bobagem, mas acontece. Manda para quem cozinha na sua casa!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "chama-azul-escuro.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "blue gas flame flickers softly in the dark"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Pano [longe da chama]",
+   "sub": "Plástico e papel também.",
+   "fundo": "noite",
+   "emoji": "⚠️",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem cozinha",
+  "sub": "na sua casa",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

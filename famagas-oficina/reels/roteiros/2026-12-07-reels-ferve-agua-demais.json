@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-07-reels-ferve-agua-demais",
+ "quando": "2026-12-07T18:30:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels: ferver água demais para o café é gás jogado na pia",
+ "legenda": "Ferve 1 litro de água pra passar um café? ☕\n\nA água que sobra vai pra pia, e o gás que esquentou ela também. Ferva só o que vai usar: é pouco por dia, mas soma no mês.\n\n🔖 Salva pra lembrar amanhã cedo.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Ferve [água demais] pro café?",
+ "voz": "Ferve 1 litro de água para um café? Você paga gás para esquentar água que vai para a pia. Ferva só o que vai usar. Salva e comente CANAL para receber ofertas.",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "chaleira-fogao.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "steam puffs steadily from the kettle spout"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Ferva só [o que vai usar]",
+   "sub": "Água que sobra é gás que vai para a pia.",
+   "fundo": "creme",
+   "emoji": "☕",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

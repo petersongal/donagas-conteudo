@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-06-reels-dezembro-o-gas-some",
+ "quando": "2026-12-06T12:00:00-03:00",
+ "pilar": "A",
+ "formato": "humor",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem deixa pra depois",
+ "palavra": null,
+ "abordagem": "Reels de humor (12h): em dezembro o gás acaba bem na ceia",
+ "legenda": "Dezembro é assim 🎄\n\nRabanada, pernil, visita todo dia e o forno ligado sem parar. E o gás? Acaba bem na hora da ceia. Confira o botijão antes da festa.\n\n📲 Manda pra quem deixa tudo pra depois.\n\n#natal #humor #cozinha #gasdecozinha #famagas",
+ "gancho": "Dezembro: [o gás some]",
+ "voz": "Dezembro é assim: rabanada, pernil, visita todo dia e forno ligado sem parar. E o gás? Acaba bem na ceia. Confira o botijão antes da festa. Manda para quem deixa para depois!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "bolo-caseiro.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "gentle steam rises from the fresh warm cake, soft light flickers"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Acaba bem [na ceia]",
+   "sub": "Confira o botijão antes da festa.",
+   "fundo": "amarelo",
+   "emoji": "🎄",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem deixa pra depois",
+  "sub": "dezembro o gás some",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

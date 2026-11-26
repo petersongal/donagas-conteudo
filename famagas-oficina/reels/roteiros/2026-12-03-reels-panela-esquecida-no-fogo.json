@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-03-reels-panela-esquecida-no-fogo",
+ "quando": "2026-12-03T18:30:00-03:00",
+ "pilar": "A",
+ "formato": "humor",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem faz isso",
+ "palavra": null,
+ "abordagem": "Reels de humor: toda casa tem um que põe a panela no fogo e some",
+ "legenda": "Toda casa tem um desses 😅\n\nPõe a panela no fogo, pega o celular e some. Quando volta, é cheiro de queimado, janta perdida e gás jogado fora.\n\n📲 Manda pra quem faz isso na sua casa (sem brigar).\n\n#humor #cozinha #gasdecozinha #dicasdecasa #famagas",
+ "gancho": "Toda casa tem [um desses]",
+ "voz": "Toda casa tem um: põe a panela no fogo, pega o celular e some. Aí vem cheiro de queimado: adeus janta, adeus gás. Manda para quem faz isso!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "agua-fervendo.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5,
+   "anima": "water boils vigorously with rolling bubbles and rising steam"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Panela no fogo, [celular na mão]",
+   "sub": "Janta queimada e gás jogado fora.",
+   "fundo": "amarelo",
+   "emoji": "📱",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem faz isso",
+  "sub": "toda casa tem um",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

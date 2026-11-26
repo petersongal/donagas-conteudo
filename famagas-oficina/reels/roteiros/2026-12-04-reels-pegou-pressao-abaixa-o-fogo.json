@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-04-reels-pegou-pressao-abaixa-o-fogo",
+ "quando": "2026-12-04T12:00:00-03:00",
+ "pilar": "B",
+ "formato": "alerta",
+ "objetivo": "salvar",
+ "cta": "Salva e comente CANAL",
+ "palavra": "CANAL",
+ "abordagem": "Reels (12h): pegou pressão, abaixa o fogo (fogo alto na panela de pressão só gasta gás)",
+ "legenda": "Pegou pressão? Abaixa o fogo 👇\n\nDepois que a panela de pressão começa a chiar, fogo alto não cozinha mais rápido: só gasta mais gás. Fogo baixo até o fim e o botijão dura mais.\n\n🔖 Salva pra lembrar no próximo feijão.\n💛 Quer ofertas de casa toda semana? Comente CANAL que eu te mando o link.\n\n#gasdecozinha #dicasdecasa #economiadomestica #cozinha #famagas",
+ "gancho": "Pegou pressão? [Abaixa o fogo]",
+ "voz": "Pegou pressão? Abaixa o fogo. Fogo alto não cozinha mais rápido na panela de pressão: só joga gás fora. Fogo baixo até o fim. Salva e comente CANAL para receber ofertas.",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "panela-pressao.jpg",
+   "reserva": "cena-panela.jpg",
+   "dur": 5,
+   "anima": "steam hisses softly out of the pressure cooker valve"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Chiou? [Fogo baixo]",
+   "sub": "Fogo alto na pressão só joga gás fora.",
+   "fundo": "creme",
+   "emoji": "♨️",
+   "dur": 4
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-panela.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dica",
+  "sub": "e comente CANAL para receber ofertas",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

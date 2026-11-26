@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-05-reels-gas-desce-pro-chao",
+ "quando": "2026-12-05T18:30:00-03:00",
+ "pilar": "C",
+ "formato": "mito",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra sua família",
+ "palavra": null,
+ "abordagem": "Reels: o gás é mais pesado que o ar e desce para o chão (parte 3 da série do campeão 'o gás não tem cheiro')",
+ "legenda": "O gás de cozinha é mais pesado que o ar ⚠️\n\nSe vazar, ele desce e se acumula perto do chão. Sentiu cheiro forte? Não acenda nada, abra portas e janelas, saia de casa e ligue 193.\n\n📲 Manda pra sua família. Pouca gente sabe disso.\n\n#seguranca #gasdecozinha #dicasdecasa #famagas",
+ "gancho": "O gás [desce pro chão]",
+ "voz": "O gás de cozinha é mais pesado que o ar. Se vazar, ele desce e se acumula embaixo. Cheiro forte? Abra tudo, saia de casa e ligue 193. Manda para sua família!",
+ "cenas": [
+  {
+   "tipo": "real",
+   "imagem": "fogao-desligado.jpg",
+   "reserva": "cena-chef.jpg",
+   "dur": 5,
+   "anima": "very slow camera glide across the stove burners, quiet kitchen light"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Cheiro forte? [Ligue 193]",
+   "sub": "Abra tudo e saia de casa. Não acenda nada.",
+   "fundo": "noite",
+   "emoji": "⚠️",
+   "dur": 5
+  },
+  {
+   "tipo": "foto",
+   "imagem": "cena-chef.jpg",
+   "dur": 4
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra sua família",
+  "sub": "pouca gente sabe disso",
+  "mascote": "mascote-cafe.png"
+ },
+ "lote": "reels-semana4"
+}

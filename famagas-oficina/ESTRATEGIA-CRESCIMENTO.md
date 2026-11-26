@@ -52,6 +52,7 @@ Famílias e donas de casa das cidades onde a FamaGás tem loja (interior e Grand
 O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PROMOÇÃO** (link do canal) e **RECEITA(S)** (receita + canal). O relatório mostra quantas pessoas comentaram cada palavra em cada post.
 - Varie a palavra entre os posts (campo `palavra` do roteiro) e compare. Palavra com mais comentários por mil views vira a principal.
 - Palavra só em posts onde há bônus real. No máximo 1 em cada 2 Reels pede palavra; os outros pedem compartilhar, salvar ou opinião.
+- **Decisão de 26/11:** em 15 Reels do mascote só 1 comentário com palavra (RECEITA, 13/11) e nenhum desde então. **Só CANAL fica** (no fim dos Reels de economia, no máximo 1 em cada 2). OFERTA, ACHADINHOS e RECEITA saem dos roteiros; o robô continua respondendo a todas.
 - **Situação em 19/11:** nenhuma palavra venceu ainda (7 Reels, 1 comentário com palavra). **CANAL segue como principal** (7 comentários nos carrosséis de 03 a 07/11) e **RECEITA é a desafiante**. ACHADINHOS e OFERTA ficam fora dos roteiros novos até o Reels de 23/11 (OFERTA) ser medido.
 - Entradas no canal: o WhatsApp não informa por API. A análise semanal anota o número de seguidores do canal (visto no WhatsApp do Mac Mini, quando disponível) e compara com a semana anterior.
 
@@ -71,6 +72,7 @@ O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PRO
 ## 10. Cadência
 - **Desde 19/11 (decisão da análise):** só **1 Reels por dia**. Os carrosséis e stories do site acabaram em 18/11 e **não foram renovados**: na semana de 11 a 17/11 os 14 carrosséis fizeram em média 83 views, 0 compartilhamento e 1 salvamento no total; publicar 4 peças fracas por dia ensina o Instagram que a conta não prende.
 - Horário: padrão 18h30; em teste 12h00 (ciclo 3).
+- **Distância entre Reels (regra de 26/11):** desde 23/11 a conta também publica os Reels da campanha Chama da Sorte (10h) e, às quartas, o vídeo do Peterson (15h). Reels do mascote publicado menos de 2 h depois de outro Reels fez 23 e 24 views (23 e 25/11); com 8 h de distância fez 154 (24/11). **O Reels do mascote fica a pelo menos 6 h de qualquer outro Reels.** Na quarta com vídeo do Peterson, o do mascote sai às 21h.
 - Carrossel só volta se for peça forte e isolada (ex.: receita popular com custo, como o escondidinho de 13/11, 366 views) e depois que os Reels passarem de 500 views de média.
 
 ## 11. Sistema
@@ -80,6 +82,7 @@ O robô responde no direct a: **CANAL, OFERTA, OFERTAS, ACHADINHO(S), PROMO, PRO
 - Carrosséis e stories atuais ficam no repositório do site (`src/data/instagram-agenda.json` + `public/instagram/`) e dependem de Publish.
 
 ## 12. Tráfego pago
+**Desde 23/11 vale a regra do Peterson (R$ 10/dia), descrita em `famagas-meta/ANUNCIO-reels-e-medicoes.md` no Projeto.** O texto abaixo é o critério antigo.
 Só depois de 5 criativos campeões no orgânico (pelo menos 3 Reels com compartilhamentos + salvamentos ≥ 3x a média). A análise semanal avisa quando chegar a hora e sugere verba e cidades.
 
 ---
@@ -148,4 +151,34 @@ Feito antes do fechamento do ciclo 1 porque os roteiros acabavam em 17/11 e a pr
 - H: o Reels impulsionado traz pelo menos 100 seguidores na semana (R$ 70).
 - I: a parte 2 de um campeão ("não acenda a luz") passa de 2x a média.
 **Afiliados (meta R$ 3.000/mês):** com comissão média de uns 6% a 10% no Mercado Livre, R$ 3.000 pedem cerca de R$ 30 a 50 mil vendidos por mês pelos links. Isso só vem com canal grande (milhares de seguidores ativos) e ofertas boas todo dia. Ordem: (1) Instagram leva gente ao canal (palavra CANAL só no fim dos Reels de economia e no robô do direct); (2) canal com 3 ofertas por dia de casa/cozinha (curadoria semanal das terças); (3) medir seguidores do canal e comissão toda semana; (4) TikTok (repostar os mesmos Reels e depois TikTok Shop) quando o Peterson criar a conta.
+
+### Ciclo 3: análise de 26/11/2026 (fecha o lote 2: Reels de 18 a 24/11)
+**Números (relatório do site, coleta de 26/11 06h45):**
+- Peças publicadas de 19 a 25/11: **1.441 visualizações** (7 Reels do mascote = 1.025; 3 Reels da campanha Chama da Sorte = 207; vídeo do Peterson = 209). No mês (03 a 25/11): **7.090**. **Projeção de novembro: cerca de 8.500 views**, contra 40 mil da meta de 30 dias e 500 mil da meta final. Continua muito abaixo e não está subindo.
+- Seguidores: 3.037 (19/11) → 3.036 (26/11): **-1 na semana.** Comentários com palavra: **zero** (o último foi em 13/11).
+- Anúncio, seguidores do canal e comissão: **não medido** (a tabela Registro de ANUNCIO-reels-e-medicoes.md não tem a linha da quarta 25/11).
+- Reels do mascote, um a um (views / alcance / compart. / salvos / tempo médio): pizza de frigideira 80 / 59 / 0 / 0 / 4,0 s · **o gás não tem cheiro 499 / 440 / 1 / 0 / 2,9 s** · fogo alto 174 / 142 / 0 / 1 / 6,0 s · Prazer, FamaGás 71 / 57 / 0 / 0 / 3,4 s · ofertas de cozinha 23 / 16 / 0 / 0 / 4,2 s · água quente no botijão 154 / 121 / 1 / 0 / 5,0 s · panela sem tampa (25/11, 1º com foto animada, só 15 h no ar) 24 / 16 / 0 / 0 / 3,4 s.
+- **Vídeo do Peterson falando (25/11, 16h30, Chama da Sorte): 209 views / 106 de alcance / 23 curtidas / 3 comentários / 1 salvo / tempo médio 14,5 s.** É o maior tempo assistido e o maior número de curtidas e comentários de todos os Reels da conta, com metade do alcance dos campeões. Pessoa de verdade prende 3 a 4 vezes mais que o mascote.
+- Média dos 14 Reels do mascote dos lotes 1 e 2: **177 views**. Dois passaram de 2x a média (354): "Chama amarela" (498) e "O gás não tem cheiro" (499).
+- Por formato (lotes 1 e 2): mito e alerta sobre gás 266 de média (6 Reels); humor 186 (2); lista 197 (1); receita 86 (2); Prazer, FamaGás 71; canal 37 (2).
+- Top 3 da semana: O gás não tem cheiro (499), vídeo do Peterson (209), fogo alto (174). Pior: ofertas de cozinha (23).
+
+**Julgamento das hipóteses do lote 2:**
+- A (abrir com foto real segura mais): **INCONCLUSIVO, com sinal a favor.** Foto real (18, 19 e 21/11): 5,1 s de tempo médio e 139 views; mascote no palco (20 e 24/11): 3,9 s e 327 views; cena do mascote (22 e 23/11): 3,8 s e 47 views. A foto real segura 30% mais, mas o Reels de mais alcance sempre tem tempo médio menor (chega em gente que não segue). Continua padrão abrir com foto real, agora animada.
+- B (Reels "Prazer, FamaGás" traz seguidores): **PERDEU.** 71 views, 4 curtidas e os seguidores caíram de 3.038 para 3.035 naqueles dias. Institucional com mascote não entra mais.
+- C (palavras em contexto trocado): **PERDEU.** OFERTA no Reels do canal: 23 views e 0 comentário; CANAL na dica de economia: 174 views e 0 comentário; RECEITA: 80 views e 0 comentário. Nenhuma palavra gera comentário com este alcance. Fica só CANAL (seção 7).
+
+**Leitura honesta:** o conteúdo certo (verdade que assusta sobre o gás) rende 500 views, não 50 mil. Trocar tema e palavra não muda a ordem de grandeza. Os dois sinais novos da semana são: (1) gente de verdade na tela prende muito mais que o mascote; (2) publicar vários Reels colados no mesmo dia derruba o segundo.
+
+**Mudanças executadas em 26/11:**
+- Distância mínima de 6 h entre o Reels do mascote e qualquer outro Reels; na quarta com vídeo do Peterson o do mascote sai às 21h (seção 10).
+- Só CANAL como palavra (seção 7). Reels institucional do mascote ("Prazer, FamaGás") sai.
+- Lote 4 (02 a 08/12), 5 alertas ou verdades + 2 de humor, todos abrindo com foto real animada e com a resposta já na primeira frase: 02 panela preta por baixo (21h, parte 2 da "chama amarela", CANAL) · 03 toda casa tem um desses (humor) · 04 pegou pressão? abaixa o fogo (12h, CANAL) · 05 o gás desce pro chão (parte 3 da série do "gás não tem cheiro", 193) · 06 dezembro: o gás some (12h, humor) · 07 ferve água demais pro café? (CANAL) · 08 pano de prato no fogão? (12h).
+- Anúncio: sem mudança, porque não há medição. Segue a regra do doc de anúncio (vídeo do Peterson da quarta).
+
+**3 hipóteses novas (julgadas em 10/12):**
+- J (distância): Reels do mascote com 6 h ou mais de distância de outro Reels faz pelo menos 100 views; colado em outro (menos de 2 h) fez 23 e 24.
+- K (pessoa de verdade): o 2º vídeo do Peterson (02/12) repete tempo médio assistido acima de 10 s e mais curtidas que qualquer Reels do mascote da semana. Se repetir, vídeo de dica com o Peterson vira o formato principal e o mascote vira apoio.
+- L (série dos campeões): "panela preta por baixo" e "o gás desce pro chão" passam de 2x a média (354 views).
+- D a I continuam em aberto e são julgadas em 03/12.
 
