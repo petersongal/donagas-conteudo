@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-02-reels-lacre-do-botijao",
+ "quando": "2026-12-02T19:00:00-03:00",
+ "pilar": "C",
+ "objetivo": "salvar",
+ "cta": "Salva pra conferir na entrega",
+ "abordagem": "Reels: conferir o lacre quando chega o botijão",
+ "lote": "reels-semana5",
+ "legenda": "Chegou o botijão? Olhe o lacre antes de aceitar 👀\n\nEle precisa estar inteiro, sem rasgo. Veja também se o casco não tem amassados e se não há cheiro de gás.\n\nAlgo estranho? Não aceite e avise a revenda.\n\n🔖 Salva pra conferir na próxima entrega.\n\n#gasdecozinha #botijao #seguranca #dicasdecasa",
+ "gancho": "Chegou o botijão? [Olhe o lacre]",
+ "voz": "Chegou o botijão? Antes de aceitar, olhe o lacre. Ele precisa estar inteiro, sem rasgo. Veja também se o casco está sem amassados e sem cheiro de gás. Algo estranho? Não aceite e avise a revenda.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "looks closely, serious then satisfied nod"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Lacre [inteiro]",
+   "sub": "Sem rasgo, sem amassado, sem cheiro de gás.",
+   "fundo": "claro",
+   "emoji": "✅",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "big smile and thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] pra conferir na entrega",
+  "sub": "Manda pra quem recebe o botijão",
+  "mascote": "mascote-joia.png"
+ }
+}

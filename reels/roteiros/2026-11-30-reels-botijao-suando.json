@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-30-reels-botijao-suando",
+ "quando": "2026-11-30T19:00:00-03:00",
+ "pilar": "C",
+ "objetivo": "salvar",
+ "cta": "Salva essa dúvida",
+ "abordagem": "Reels: botijão suando por fora é normal?",
+ "lote": "reels-semana5",
+ "legenda": "Botijão suando por fora? 💧\n\nCostuma ser normal: quando o gás vira vapor, o casco esfria e a umidade do ar vira gotinhas.\n\nVazamento a gente percebe pelo cheiro. Sentiu? Não acenda nada, abra as janelas e ligue 193.\n\n🔖 Salva essa dúvida.\n\n#gasdecozinha #botijao #mitoouverdade #seguranca",
+ "gancho": "Botijão [suando] por fora?",
+ "voz": "Botijão suando por fora? Costuma ser normal. Quando o gás vira vapor, o casco esfria e a umidade do ar vira gotas. Cheiro de gás? Não acenda nada, abra as janelas e ligue 193.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "curious look, tilts head"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Costuma ser [normal]",
+   "sub": "O casco esfria e o ar solta água.",
+   "fundo": "claro",
+   "emoji": "💧",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "relieved smile and thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] essa dúvida",
+  "sub": "Cheiro de gás? Ligue 193",
+  "mascote": "mascote-joia.png"
+ }
+}

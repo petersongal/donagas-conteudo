@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-28-reels-clique-clique-fogao",
+ "quando": "2026-11-28T19:00:00-03:00",
+ "pilar": "A",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem diz que é a pilha",
+ "abordagem": "Reels: humor do fogão que faz clique e não acende",
+ "lote": "reels-semana5",
+ "legenda": "Aquele clique, clique, clique que não acende 😂\n\nTodo mundo conhece alguém que jura que é a pilha.\n\n👉 Manda pra essa pessoa.\n\n#humor #vidadecasa #gasdecozinha #donadecasa",
+ "gancho": "Clique, clique... [e nada de fogo]",
+ "voz": "Aquele clique, clique, clique do fogão que não acende. Você tenta de novo. Nada. Aí vem o pensamento: será que acabou o gás? E sempre tem alguém que diz: deve ser a pilha. Marca essa pessoa.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "confused look, scratches head"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Clique, clique, clique]",
+   "sub": "E nada de chama 😅",
+   "fundo": "claro",
+   "emoji": "😅",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "laughs with a big smile"
+  }
+ ],
+ "final": {
+  "titulo": "Marca quem diz: [é a pilha]",
+  "sub": "😂",
+  "mascote": "mascote-joia.png"
+ }
+}

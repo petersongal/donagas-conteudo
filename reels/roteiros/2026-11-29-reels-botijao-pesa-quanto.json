@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-29-reels-botijao-pesa-quanto",
+ "quando": "2026-11-29T19:00:00-03:00",
+ "pilar": "C",
+ "objetivo": "compartilhar",
+ "cta": "Manda pra quem já carregou botijão",
+ "abordagem": "Reels: quanto pesa o botijão cheio",
+ "lote": "reels-semana5",
+ "legenda": "Seu botijão cheio pesa mais de 25 quilos 💪\n\nO botijão de 13 quilos tem 13 quilos de gás. O casco de aço pesa quase o mesmo.\n\nNunca arraste nem derrube. Peça ajuda pra carregar.\n\n👉 Manda pra quem já carregou botijão sozinho.\n\n#gasdecozinha #botijao #curiosidade #dicasdecasa",
+ "gancho": "Seu botijão cheio pesa [mais de 25 quilos]",
+ "voz": "O botijão de 13 quilos tem 13 quilos só de gás. O casco de aço pesa quase o mesmo. Cheio, passa de 25 quilos. Por isso, nunca arraste nem derrube. Pesado assim, peça ajuda para carregar.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "strong proud pose, smiling"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "13 quilos de [gás]",
+   "sub": "+ casco de aço = mais de 25",
+   "fundo": "claro",
+   "emoji": "💪",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "surprised look, eyebrows up"
+  }
+ ],
+ "final": {
+  "titulo": "[Manda] pra quem já carregou sozinho",
+  "sub": "Pesado assim, peça ajuda",
+  "mascote": "mascote-joia.png"
+ }
+}

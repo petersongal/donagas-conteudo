@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-03-reels-acabou-o-gas-3-toques",
+ "quando": "2026-12-03T19:00:00-03:00",
+ "pilar": "F",
+ "objetivo": "clique",
+ "cta": "Comente APP e receba o link",
+ "abordagem": "Reels: acabou o gás, peça em 3 toques",
+ "lote": "reels-semana5",
+ "legenda": "Acabou o gás? Peça em 3 toques 📲\n\nBaixe o App Dona Gás, digite o CEP, escolha a oferta da sua região e confirme. Pague só na entrega.\n\n💬 Comente APP que eu te mando o link no direct.\n\n#appdonagas #gasdecozinha #entregadegas #botijao",
+ "gancho": "Acabou o gás? [3 toques]",
+ "voz": "Acabou o gás na hora do almoço? Baixe o App Dona Gás. Digite o CEP, escolha a oferta da sua região e confirme. Pronto: 3 toques. E você paga só na entrega, no Pix, cartão ou dinheiro.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-celular.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "waves smiling at the phone"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[3 toques] e pronto",
+   "sub": "CEP, oferta e confirmar",
+   "fundo": "claro",
+   "emoji": "📲",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-maquininha.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "smiles and nods"
+  }
+ ],
+ "final": {
+  "titulo": "Baixe o [App Dona Gás]",
+  "sub": "App Store e Google Play. Comente APP.",
+  "mascote": "mascote-celular.png"
+ }
+}

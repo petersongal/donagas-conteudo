@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-01-reels-panela-pequena-boca-grande",
+ "quando": "2026-12-01T19:00:00-03:00",
+ "pilar": "B",
+ "objetivo": "salvar",
+ "cta": "Salva a dica",
+ "abordagem": "Reels: panela pequena na boca grande do fogão",
+ "lote": "reels-semana5",
+ "legenda": "Usa panela pequena na boca grande? 🔥\n\nA chama passa dos lados e o calor escapa sem esquentar a comida.\n\nBoca pequena para panela pequena, boca grande para o panelão. Cozinha mais rápido e o gás rende mais.\n\n🔖 Salva a dica.\n\n#economiadomestica #gasdecozinha #dicasdecasa #cozinhapratica",
+ "gancho": "Panela pequena na [boca grande?]",
+ "voz": "Usa panela pequena na boca grande? A chama passa dos lados e o calor escapa sem esquentar a comida. Use a boca pequena para a panela pequena e a grande para o panelão. Assim a comida cozinha mais rápido e o gás rende mais.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-chef.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "shocked face then shakes head"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "Boca [certa] pra panela certa",
+   "sub": "Pequena com pequena, grande com grande.",
+   "fundo": "claro",
+   "emoji": "🍳",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "happy nod and thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] a dica",
+  "sub": "E manda pra quem cozinha com você",
+  "mascote": "mascote-chef.png"
+ }
+}

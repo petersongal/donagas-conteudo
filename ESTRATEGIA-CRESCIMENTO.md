@@ -139,13 +139,13 @@ Pedido do Peterson (10/11): avisar quando a comunicação estiver eficaz e padro
 5. Lista fechada das cidades com revenda ativa no app e oferta/preço conferidos em cada uma.
 6. Medição de conversão: UTM do anúncio no /baixar e, se possível, pixel/eventos da Meta no site.
 
-**Data estimada (revisada em 19/11/2026):** ~~01/12/2026~~ → **sem data**. Reavaliar em 03/12. Anúncio multiplica o que já funciona e hoje nada do orgânico passou de ~150 views. Só marcar data quando houver o 1º criativo campeão (item 2).
+**Data estimada (revisada em 26/11/2026):** **sem data.** Reavaliar em 03/12. Nada do orgânico passou de ~150 views (o carrossel de 05/11 fez 234) e a semana de 20 a 26/11 foi a pior até aqui (219 views). Só marcar data quando houver o 1º criativo campeão (item 2). Obs.: o Peterson já roda anúncios pagos da roleta (Meta, R$ 20/dia) e do Google; a "prontidão" desta lista é para impulsionar post do Instagram.
 
-**Placar em 19/11/2026 (✅ 2 de 6):**
-1. ✅ Métricas por post coletadas desde 10/11 (completa 10 dias em 20/11).
-2. ❌ Campeões: 0 de 5. Melhor Reels: 152 views, 0 compartilhamentos, 0 salvamentos. Em 19 dias: 2 compartilhamentos e 0 salvamentos no total.
-3. ✅ Padrão visual estável nos ciclos 1 e 2 (mesmos layouts, Nunito, rosa e marinho).
-4. ❌ Funil ponta a ponta: não conferido nesta rodada (lojas, pedido de teste por cidade, avisos à equipe).
+**Placar em 26/11/2026 (✅ 2 de 6):**
+1. ✅ Métricas por post coletadas desde 10/11 (16 dias). Atenção: o publicador ficou parado de 20 a 22/11 (corrigido em 23/11).
+2. ❌ Campeões: 0 de 5. Melhor da semana: carrossel "repita o último pedido" com 25 views. Salvamentos: 0 no mês inteiro. Compartilhamentos: 3 no mês (2 em Reels, 1 em carrossel).
+3. ✅ Padrão visual estável (Nunito, rosa e marinho, mesmos layouts) nos ciclos 1 a 3.
+4. ❌ Funil ponta a ponta: ZCall voltou em 23/11 (teste ok), mas 2 pedidos reais de 18 e 19/11 seguem "em preparo" sem conferência com as lojas; app 1.0.3 ainda não está nas lojas (pendência do Peterson).
 5. ❌ Lista fechada de cidades com revenda ativa e oferta conferida: não conferida.
 6. ❌ Medição: UTM do /baixar existe; falta pixel/eventos da Meta no site.
 
@@ -176,3 +176,25 @@ Números da semana (posts publicados de 13 a 19/11): 672 views (Reels 429 em 7 p
 - Hipótese 1: Reels com narração curta (23–30 palavras: 20/11, 23/11, 24/11) terão tempo médio assistido pelo menos 50% maior que os de 36–42 palavras (21, 22, 25, 26/11). Linha de base: 2,3–5,8 s.
 - Hipótese 2: Reels de economia/receita (B/D: 20, 21, 24, 25/11) terão mais views que os de humor (23/11), mitos (22/11) e app (26/11). Linha de base: B/D ~110 views nos 3 primeiros, ~15 nos 2 últimos.
 - Hipótese 3: carrosséis com 8–9 slides (todos os 7) terão média de 30 views ou mais e pelo menos 1 salvamento na semana. Linha de base: 20 views, 0 salvamentos.
+
+### Ciclo 3 — resultado (julgado em 26/11/2026, posts de 20 a 26/11)
+Números: **219 views na semana** (Reels 69 em 7, carrossel 85 em 7, story 65 em 6) e alcance de 141 pessoas, contra 821 views na semana anterior (já madura). Seguidores 994 → 994 (0). Mês até 26/11: 2.501 views; projeção do mês ~2,8 mil (meta de 30 dias: 30 mil). Contexto: o publicador ficou parado de 20 a 22/11 e os 9 posts perdidos saíram todos juntos em 23/11 (4 Reels no mesmo dia); os Reels de 24 e 25/11 já tinham 1 dia de vida e seguiram com 11 e 12 views, então não foi só o atraso. O Reels e o carrossel de 26/11 ainda estavam maturando (0 views).
+- Reels, um a um (views / alcance / tempo médio): fogo alto 17 / 8 / 5,0 s · banana e ovo 8 / 5 / 6,3 s · gás sem balançar 15 / 12 / 6,1 s · mãe no domingo 6 / 5 / 2,3 s · anote a data 11 / 11 / 3,5 s · cuscuz 12 / 6 / 6,9 s. Média 11,5 views e alcance de ~8 pessoas por Reels (menos de 1% dos seguidores).
+- Hipótese 1 (narração curta de 23–30 palavras dá tempo médio 50% maior): **PERDEU.** Curtos (20, 23, 24/11): 3,6 s e 11 views. Longos (21, 22, 25/11): 6,4 s e 12 views. Quem tem narração mais longa ficou mais tempo, e as views empataram. A regra "narração curta" sai.
+- Hipótese 2 (Reels B/D rendem mais que humor, mito e app): **PERDEU.** B/D (20, 21, 24, 25): 12 views; humor e mito (22, 23): 10,5. Empate. Os ~110 views dos Reels B/D de 15 e 16/11 não se repetiram: era a "janela de teste" do Instagram para conta com pouco histórico, não a fórmula.
+- Hipótese 3 (carrossel de 8–9 slides faz 30+ views e 1 salvamento): **PERDEU.** Média 12 views, 0 salvamentos (antes, com 5–6 slides: 20 views). Mais slides não ajudou; fica em 8–9 só por padrão visual.
+- Top 3: carrossel "repita o último pedido" (pilar F, "Comente APP") 25 views; carrossel "descongelar carne" (C) 18; Reels "fogo alto ou baixo" (B) 17. Piores: Reels "mãe no domingo" (A) 6, Reels "banana e ovo" (D) 8, carrosséis "5 marmitas" e "9 coisas" 9. Stories: 8 a 17 views, 0 respostas em 6 stories com pergunta.
+- Leitura honesta: **o problema é distribuição, não o tema.** Os Reels chegam a cerca de 8 pessoas; humor, receita, economia e app deram o mesmo resultado. Há três pistas fora desta conta: (1) na conta irmã @famagas_ (3 mil seguidores) os Reels de "verdade que surpreende ou assusta sobre o gás" fizeram 266 views de média, contra 86 de receita e 186 de humor; (2) lá, pessoa de verdade na tela prende 3 a 4 vezes mais que o mascote; (3) lá, publicar vários Reels colados derruba o segundo (aqui aconteceu em 23/11). Também vale o Peterson conferir no Instagram do celular, em Status da conta, se o @appdonagas tem alguma limitação de recomendação.
+
+Regras novas (valem do lote 5 em diante):
+- **Padrão:** Reels com a resposta ou a perda/perigo já na primeira frase e no gancho da tela ("Você abre o gás antes do fósforo?"). Pilar C (verdade, mito, segurança de uso) passa a ser a maioria dos Reels (4 de 7). Receita (D) sai dos Reels; fica no máximo 1 carrossel de receita por semana.
+- **Padrão:** story vira "fato relâmpago" que chama para o Reels das 19h (sem pergunta; as perguntas deram 0 respostas).
+- **Sai:** regra de narração curta (ciclo 2), pergunta nos stories, receita em Reels. Carrossel de 8–9 slides não é mais tratado como alavanca de views.
+- **Cadência: sem mudança** (nenhum ganho claro nos números). Reels continua sozinho às 19h, com 7 h de distância do carrossel das 11h30.
+- Só publicar o que a agenda mandar: se o publicador parar de novo, os posts atrasados não podem sair todos no mesmo dia (conferir o relatório às quintas).
+
+### Ciclo 4 — 27/11 a 03/12/2026 (tema: "Gás sem susto")
+Lote: 7 Reels 19h (fósforo antes do gás, clique do fogão, peso do botijão, botijão suando, boca certa pra panela, lacre na entrega, "acabou o gás? 3 toques"), 7 carrosséis 11h30 (chama azul x amarela, baixar o app antes de acabar, humor de quem cozinha, cheirou gás, guardar sobras, sobremesa sem fogão, 5 cuidados com o botijão) e 7 stories 08h30. Pilares: Reels C×4, A, B, F; carrosséis C×3, F, A, B, D. "Comente APP" em 2 de 21 peças (carrossel de 28/11 e Reels de 03/12). Os 7 Reels dependem de crédito na fal.ai (saldo esgotado em 26/11).
+- Hipótese 1: os 4 Reels de pilar C (27/11, 29/11, 30/11, 02/12) fazem em média pelo menos 2x a média dos Reels de 20 a 25/11 (11,5 views, ou seja, 23 views ou mais) e pelo menos 1 salvamento ou compartilhamento no total. Se não, o problema é a conta e não o tema (conferir Status da conta e considerar conteúdo com pessoa de verdade).
+- Hipótese 2: os 2 posts com "Comente APP" (carrossel de 28/11 e Reels de 03/12) somam pelo menos 2 comentários e o carrossel faz 25 views ou mais (único tipo de post com comentários no mês).
+- Hipótese 3: stories "fato relâmpago + Reels das 19h" fazem em média 15 views ou mais (linha de base 11 views, sem respostas) e o Reels do dia tem mais alcance nos dias em que o story vem antes.

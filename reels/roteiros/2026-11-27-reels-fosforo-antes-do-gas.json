@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-27-reels-fosforo-antes-do-gas",
+ "quando": "2026-11-27T19:00:00-03:00",
+ "pilar": "C",
+ "objetivo": "salvar",
+ "cta": "Salva pra lembrar",
+ "abordagem": "Reels: acender o fósforo antes de abrir o gás",
+ "lote": "reels-semana5",
+ "legenda": "Você abre o gás antes de acender o fósforo? 🔥\n\nSe o seu fogão acende com fósforo, risque primeiro e só depois abra o gás. Assim o gás não acumula antes da chama.\n\nCheirou gás? Saia do local, não acenda nada e ligue 193 (Bombeiros).\n\n🔖 Salva pra lembrar e manda pra quem cozinha na sua casa.\n\n#gasdecozinha #seguranca #dicasdecasa #botijao",
+ "gancho": "Você abre o gás [antes do fósforo?]",
+ "voz": "Você abre o gás e só depois procura o fósforo? Se o seu fogão acende com fósforo, risque primeiro e só então abra o gás. Assim o gás não fica acumulando antes da chama. Cheirou gás? Saia, não acenda nada e ligue 193.",
+ "cenas": [
+  {
+   "tipo": "ia",
+   "mascote": "mascote-pensando.png",
+   "fundo": "marinho",
+   "dur": 5,
+   "movimento": "worried look then relieved nod"
+  },
+  {
+   "tipo": "texto",
+   "titulo": "[Fósforo] primeiro",
+   "sub": "Depois, abra o gás.",
+   "fundo": "claro",
+   "emoji": "🔥",
+   "dur": 4
+  },
+  {
+   "tipo": "ia",
+   "mascote": "mascote-joia.png",
+   "fundo": "rosa",
+   "dur": 5,
+   "movimento": "big smile and thumbs up"
+  }
+ ],
+ "final": {
+  "titulo": "[Salva] pra lembrar",
+  "sub": "Manda pra quem acende o fogão",
+  "mascote": "mascote-joia.png"
+ }
+}
