@@ -2203,5 +2203,62 @@
   "objetivo": "salvar",
   "cta": "Salva pra conferir hoje",
   "lote": "semana5"
+ },
+ {
+  "id": "2026-11-27-reels-pink-friday-voce-nunca-viu",
+  "tipo": "reels",
+  "abordagem": "Reels (vídeo real do Peterson): Pink Friday: você nunca viu",
+  "legenda": "Black Friday todo mundo conhece. Pink Friday você nunca viu 💗\n\nÉ a Black Friday da Dona Gás: R$ 15 de desconto no seu gás. Baixe o app até 30/11 e o desconto entra sozinho no seu primeiro pedido.\n\n💬 Comente APP que eu te mando o link no direct.\n\nR$ 15 de desconto no 1º pedido pelo app, para quem criar a conta de 27 a 30/11/2026.\n\n#pinkfriday #appdonagas #gasdecozinha #blackfriday #desconto",
+  "imagens": [
+   "posts/2026-11-27-reels-pink-friday-voce-nunca-viu/reel.mp4",
+   "posts/2026-11-27-reels-pink-friday-voce-nunca-viu/capa.jpg"
+  ],
+  "video": "posts/2026-11-27-reels-pink-friday-voce-nunca-viu/reel.mp4",
+  "capa": "posts/2026-11-27-reels-pink-friday-voce-nunca-viu/capa.jpg",
+  "agendado_para": "2026-11-27T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "download",
+  "cta": "Comente APP",
+  "lote": "pink-friday"
+ },
+ {
+  "id": "2026-11-28-reels-pink-friday-air-fryer",
+  "tipo": "reels",
+  "abordagem": "Reels (vídeo real do Peterson): Pink Friday: a air fryer pode esperar",
+  "legenda": "Na Black Friday tem desconto de televisão, de tênis e até de air fryer. E no gás? 🤔\n\nA Dona Gás lembrou: na Pink Friday são R$ 15 de desconto no seu gás. É só baixar o app até 30/11.\n\n💬 Comente APP que eu te mando o link no direct.\n\nR$ 15 de desconto no 1º pedido pelo app, para quem criar a conta de 27 a 30/11/2026.\n\n#pinkfriday #appdonagas #gasdecozinha #blackfriday #desconto",
+  "imagens": [
+   "posts/2026-11-28-reels-pink-friday-air-fryer/reel.mp4",
+   "posts/2026-11-28-reels-pink-friday-air-fryer/capa.jpg"
+  ],
+  "video": "posts/2026-11-28-reels-pink-friday-air-fryer/reel.mp4",
+  "capa": "posts/2026-11-28-reels-pink-friday-air-fryer/capa.jpg",
+  "agendado_para": "2026-11-28T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "download",
+  "cta": "Comente APP",
+  "lote": "pink-friday"
+ },
+ {
+  "id": "2026-11-29-reels-pink-friday-quinze-reais-seus",
+  "tipo": "reels",
+  "abordagem": "Reels (vídeo real do Peterson): Pink Friday: R$ 15 seus guardados",
+  "legenda": "Tem R$ 15 seus guardados dentro de um aplicativo. E eles somem no fim de novembro ⏳\n\nÉ a Pink Friday da Dona Gás: sem cupom, sem sorteio, sem pegadinha. Baixe o app agora e o desconto fica esperando o seu primeiro pedido.\n\n💬 Comente APP que eu te mando o link no direct.\n\nR$ 15 de desconto no 1º pedido pelo app, para quem criar a conta de 27 a 30/11/2026.\n\n#pinkfriday #appdonagas #gasdecozinha #blackfriday #desconto",
+  "imagens": [
+   "posts/2026-11-29-reels-pink-friday-quinze-reais-seus/reel.mp4",
+   "posts/2026-11-29-reels-pink-friday-quinze-reais-seus/capa.jpg"
+  ],
+  "video": "posts/2026-11-29-reels-pink-friday-quinze-reais-seus/reel.mp4",
+  "capa": "posts/2026-11-29-reels-pink-friday-quinze-reais-seus/capa.jpg",
+  "agendado_para": "2026-11-29T19:00:00-03:00",
+  "aprovado": true,
+  "pilar": "C",
+  "layout": "reels",
+  "objetivo": "download",
+  "cta": "Comente APP",
+  "lote": "pink-friday"
  }
 ]
