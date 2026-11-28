@@ -1,7 +1,7 @@
 {
  "conta": "famagas_",
- "gerado_em": "2026-11-28T03:32:08.657Z",
- "ultima_coleta": "2026-11-28T03:25:06.213+00:00",
+ "gerado_em": "2026-11-28T12:22:26.411Z",
+ "ultima_coleta": "2026-11-28T12:20:03.837+00:00",
  "seguidores_hist": [
   {
    "d": "2026-11-11",
@@ -134,7 +134,7 @@
     "comments": 1,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-28T03:25:05.507+00:00",
+   "metricas_em": "2026-11-28T09:30:03.708+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -157,7 +157,7 @@
     "comments": 1,
     "total_interactions": 12
    },
-   "metricas_em": "2026-11-28T03:05:03.944+00:00",
+   "metricas_em": "2026-11-28T12:15:04.041+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -180,7 +180,7 @@
     "comments": 8,
     "total_interactions": 42
    },
-   "metricas_em": "2026-11-28T03:10:01.519+00:00",
+   "metricas_em": "2026-11-28T12:20:03.588+00:00",
    "erro": null,
    "palavras": {
     "canal": 2
@@ -205,7 +205,7 @@
     "comments": 1,
     "total_interactions": 7
    },
-   "metricas_em": "2026-11-28T00:55:04.931+00:00",
+   "metricas_em": "2026-11-28T10:10:04.098+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -243,7 +243,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-28T00:55:04.741+00:00",
+   "metricas_em": "2026-11-28T10:05:04.49+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -281,7 +281,7 @@
     "comments": 7,
     "total_interactions": 14
    },
-   "metricas_em": "2026-11-28T03:05:04.316+00:00",
+   "metricas_em": "2026-11-28T12:20:02.812+00:00",
    "erro": null,
    "palavras": {
     "canal": 3
@@ -321,7 +321,7 @@
     "comments": 2,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-28T03:10:01.76+00:00",
+   "metricas_em": "2026-11-28T12:20:03.837+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -361,7 +361,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-28T03:15:04.442+00:00",
+   "metricas_em": "2026-11-28T09:25:03.453+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -399,7 +399,7 @@
     "comments": 3,
     "total_interactions": 5
    },
-   "metricas_em": "2026-11-28T00:30:02.992+00:00",
+   "metricas_em": "2026-11-28T09:45:03.892+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -439,7 +439,7 @@
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-28T00:45:04.379+00:00",
+   "metricas_em": "2026-11-28T10:00:03.617+00:00",
    "erro": null,
    "palavras": {
     "canal": 1
@@ -479,7 +479,7 @@
     "comments": 2,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-28T00:55:03.971+00:00",
+   "metricas_em": "2026-11-28T10:05:03.413+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -519,7 +519,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-28T03:15:04.14+00:00",
+   "metricas_em": "2026-11-28T09:25:03.21+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -557,7 +557,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T00:55:04.245+00:00",
+   "metricas_em": "2026-11-28T10:05:03.758+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -595,7 +595,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-28T03:05:04.609+00:00",
+   "metricas_em": "2026-11-28T12:20:03.078+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -633,7 +633,7 @@
     "comments": 0,
     "total_interactions": 4
    },
-   "metricas_em": "2026-11-28T00:30:03.259+00:00",
+   "metricas_em": "2026-11-28T09:45:04.196+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -671,7 +671,7 @@
     "comments": 0,
     "total_interactions": 6
    },
-   "metricas_em": "2026-11-28T03:25:05.838+00:00",
+   "metricas_em": "2026-11-28T09:30:03.984+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -709,7 +709,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-28T00:45:04.042+00:00",
+   "metricas_em": "2026-11-28T09:55:03.457+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -747,7 +747,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T00:55:04.451+00:00",
+   "metricas_em": "2026-11-28T10:05:04.12+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -785,7 +785,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T00:55:05.672+00:00",
+   "metricas_em": "2026-11-28T10:10:05.049+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -832,7 +832,7 @@
     "total_interactions": 15,
     "ig_reels_avg_watch_time": 3277
    },
-   "metricas_em": "2026-11-28T03:00:04.112+00:00",
+   "metricas_em": "2026-11-28T12:15:03.742+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -855,7 +855,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-28T01:20:03.494+00:00",
+   "metricas_em": "2026-11-28T10:30:04.951+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -893,7 +893,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-28T00:55:05.119+00:00",
+   "metricas_em": "2026-11-28T10:10:04.427+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -940,7 +940,7 @@
     "total_interactions": 12,
     "ig_reels_avg_watch_time": 4880
    },
-   "metricas_em": "2026-11-28T02:00:04.063+00:00",
+   "metricas_em": "2026-11-28T11:15:04.863+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -963,7 +963,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-28T00:55:05.447+00:00",
+   "metricas_em": "2026-11-28T10:10:04.67+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1001,7 +1001,7 @@
     "comments": 0,
     "total_interactions": 25
    },
-   "metricas_em": "2026-11-28T03:15:03.808+00:00",
+   "metricas_em": "2026-11-28T09:25:02.931+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1048,7 +1048,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 6224
    },
-   "metricas_em": "2026-11-28T02:00:03.438+00:00",
+   "metricas_em": "2026-11-28T11:15:04.281+00:00",
    "erro": null,
    "palavras": {
     "receita": 1
@@ -1073,7 +1073,7 @@
     "comments": 0,
     "total_interactions": 2
    },
-   "metricas_em": "2026-11-28T00:40:02.414+00:00",
+   "metricas_em": "2026-11-28T09:55:03.172+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1111,7 +1111,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T02:15:04.36+00:00",
+   "metricas_em": "2026-11-28T11:30:04.575+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1158,7 +1158,7 @@
     "total_interactions": 11,
     "ig_reels_avg_watch_time": 5195
    },
-   "metricas_em": "2026-11-28T01:00:04.216+00:00",
+   "metricas_em": "2026-11-28T10:15:03.105+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1181,7 +1181,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T02:35:03.454+00:00",
+   "metricas_em": "2026-11-28T11:45:03.84+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1219,7 +1219,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T02:00:03.697+00:00",
+   "metricas_em": "2026-11-28T11:15:04.569+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1266,7 +1266,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 5196
    },
-   "metricas_em": "2026-11-28T01:00:03.629+00:00",
+   "metricas_em": "2026-11-28T10:10:06.294+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1289,7 +1289,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T02:15:04.061+00:00",
+   "metricas_em": "2026-11-28T11:30:04.287+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1327,7 +1327,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T01:20:06.744+00:00",
+   "metricas_em": "2026-11-28T10:35:03.001+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1374,7 +1374,7 @@
     "total_interactions": 3,
     "ig_reels_avg_watch_time": 4974
    },
-   "metricas_em": "2026-11-28T00:35:04.126+00:00",
+   "metricas_em": "2026-11-28T09:45:05.408+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1397,7 +1397,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T02:00:03.229+00:00",
+   "metricas_em": "2026-11-28T11:15:04.06+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1435,7 +1435,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T01:00:03.916+00:00",
+   "metricas_em": "2026-11-28T10:10:06.622+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1482,7 +1482,7 @@
     "total_interactions": 2,
     "ig_reels_avg_watch_time": 10239
    },
-   "metricas_em": "2026-11-28T02:35:03.008+00:00",
+   "metricas_em": "2026-11-28T11:40:03.392+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1505,7 +1505,7 @@
     "comments": 0,
     "total_interactions": 3
    },
-   "metricas_em": "2026-11-28T01:20:04.255+00:00",
+   "metricas_em": "2026-11-28T10:30:05.52+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1567,7 +1567,7 @@
     "total_interactions": 7,
     "ig_reels_avg_watch_time": 5411
    },
-   "metricas_em": "2026-11-28T02:15:04.647+00:00",
+   "metricas_em": "2026-11-28T11:30:04.867+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1590,7 +1590,7 @@
     "comments": 0,
     "total_interactions": 1
    },
-   "metricas_em": "2026-11-28T01:00:03.315+00:00",
+   "metricas_em": "2026-11-28T10:10:05.93+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1622,7 +1622,7 @@
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 3963
    },
-   "metricas_em": "2026-11-28T02:00:02.707+00:00",
+   "metricas_em": "2026-11-28T11:15:03.561+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1654,7 +1654,7 @@
     "total_interactions": 9,
     "ig_reels_avg_watch_time": 2895
    },
-   "metricas_em": "2026-11-28T01:20:03.772+00:00",
+   "metricas_em": "2026-11-28T10:30:05.266+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1686,7 +1686,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 6061
    },
-   "metricas_em": "2026-11-28T01:00:03.083+00:00",
+   "metricas_em": "2026-11-28T10:10:05.703+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1718,7 +1718,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 3420
    },
-   "metricas_em": "2026-11-28T03:25:06.213+00:00",
+   "metricas_em": "2026-11-28T09:30:04.299+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1767,7 +1767,7 @@
     "total_interactions": 6,
     "ig_reels_avg_watch_time": 6529
    },
-   "metricas_em": "2026-11-28T01:00:04.474+00:00",
+   "metricas_em": "2026-11-28T10:15:03.396+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1799,7 +1799,7 @@
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 3854
    },
-   "metricas_em": "2026-11-28T02:25:04.067+00:00",
+   "metricas_em": "2026-11-28T11:40:03.099+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1848,7 +1848,7 @@
     "total_interactions": 3,
     "ig_reels_avg_watch_time": 5210
    },
-   "metricas_em": "2026-11-28T02:55:03.278+00:00",
+   "metricas_em": "2026-11-28T12:05:02.977+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1897,7 +1897,7 @@
     "total_interactions": 5,
     "ig_reels_avg_watch_time": 5012
    },
-   "metricas_em": "2026-11-28T02:15:03.755+00:00",
+   "metricas_em": "2026-11-28T11:30:04.005+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1946,7 +1946,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 6006
    },
-   "metricas_em": "2026-11-28T02:15:04.905+00:00",
+   "metricas_em": "2026-11-28T11:30:05.102+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -1982,15 +1982,15 @@
    "permalink": "https://www.instagram.com/reel/DgLSToizgV0/",
    "metricas": {
     "likes": 31,
-    "reach": 261,
+    "reach": 262,
     "saved": 1,
-    "views": 455,
+    "views": 457,
     "shares": 5,
     "comments": 3,
     "total_interactions": 44,
-    "ig_reels_avg_watch_time": 10037
+    "ig_reels_avg_watch_time": 10035
    },
-   "metricas_em": "2026-11-28T02:50:03.129+00:00",
+   "metricas_em": "2026-11-28T12:00:05.327+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -2022,7 +2022,7 @@
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 3252
    },
-   "metricas_em": "2026-11-28T01:40:02.357+00:00",
+   "metricas_em": "2026-11-28T10:50:01.658+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -2071,7 +2071,7 @@
     "total_interactions": 4,
     "ig_reels_avg_watch_time": 4119
    },
-   "metricas_em": "2026-11-28T01:50:02.851+00:00",
+   "metricas_em": "2026-11-28T11:00:01.915+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -2114,13 +2114,13 @@
     "likes": 1,
     "reach": 88,
     "saved": 0,
-    "views": 106,
+    "views": 107,
     "shares": 0,
     "comments": 0,
     "total_interactions": 1,
-    "ig_reels_avg_watch_time": 4526
+    "ig_reels_avg_watch_time": 4535
    },
-   "metricas_em": "2026-11-28T00:35:04.4+00:00",
+   "metricas_em": "2026-11-28T09:50:02.864+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -2169,7 +2169,7 @@
     "total_interactions": 1,
     "ig_reels_avg_watch_time": 8875
    },
-   "metricas_em": "2026-11-28T01:20:02.87+00:00",
+   "metricas_em": "2026-11-28T10:30:04.716+00:00",
    "erro": null,
    "palavras": {}
   },
@@ -2210,15 +2210,15 @@
    "permalink": "https://www.instagram.com/reel/DgQpiTOyNYR/",
    "metricas": {
     "likes": 0,
-    "reach": 25,
+    "reach": 78,
     "saved": 0,
-    "views": 33,
+    "views": 89,
     "shares": 0,
     "comments": 0,
     "total_interactions": 0,
-    "ig_reels_avg_watch_time": 2603
+    "ig_reels_avg_watch_time": 4435
    },
-   "metricas_em": "2026-11-28T00:35:03.777+00:00",
+   "metricas_em": "2026-11-28T09:45:05.078+00:00",
    "erro": null,
    "palavras": {}
   },
